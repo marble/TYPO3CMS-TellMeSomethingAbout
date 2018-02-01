@@ -25,7 +25,7 @@ Meta
 :Author:       TYPO3 Documentation Team
 :License:      Distributed under the CreativeCommons license
                `Attribution 4.0 International (CC BY 4.0) <https://creativecommons.org/licenses/by/4.0/>`__.
-               See LICENSE.txt_ for more information.
+               See LICENSE.txt for more information.
 :Published at: https://docs.typo3.org/typo3cms/TellMeSomethingAbout/
 :Repository:   https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/
 
