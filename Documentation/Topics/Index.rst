@@ -1,14 +1,13 @@
-
 .. include:: ../Includes.txt
 
-.. _topics:
+.. _Topics:
 
-======
+===========================
 Topics
-======
+===========================
 
 .. toctree::
+   :hidden:
    :glob:
-   :titlesonly:
 
    *

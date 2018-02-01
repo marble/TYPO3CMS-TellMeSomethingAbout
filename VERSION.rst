@@ -1,4 +1,4 @@
-0.1.0
+1.0.0
 
 This is VERSION.rst
 
