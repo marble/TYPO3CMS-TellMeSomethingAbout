@@ -3,8 +3,8 @@
 Tell Me Something About ...
 ===========================
 
-What does it do?
-================
+What is this about?
+===================
 
 "Tell me something about" is the name for that part of the documentation that
 doesn't exactly fit into common rubrics like reference, guide, tutorial or
