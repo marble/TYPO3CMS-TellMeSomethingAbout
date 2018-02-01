@@ -17,4 +17,4 @@ Distributed under the CreativeCommons license:
 
 Here is a human-readable summary of (and not a substitute for)
 the license:
-https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/legalcode
