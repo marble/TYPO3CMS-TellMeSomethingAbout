@@ -1,14 +1,14 @@
 This is README.rst
 
 Navigation: \|
-`Read me <README.rst>`__  \|
+`Read Me <README.rst>`__  \|
 `Changes <CHANGES.rst>`__ \|
 `License <LICENSE.rst>`__ \|
 `Version <VERSION.rst>`__ \|
 
-======
-Readme
-======
+=======
+Read Me
+=======
 
 :Title:        Tell Me Something About…
 :Author:       TYPO3 Documentation Team
