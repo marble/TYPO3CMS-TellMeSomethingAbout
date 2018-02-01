@@ -13,8 +13,9 @@ with. **2.** Hopefully the list then inspires knowledgable members of the commun
 to provide some explanations. **3.** And finally the intention is to have a place
 to provide links to other community writings like blogpostings.
 
-.. _repository:         https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/
+.. _issue:              https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/issues
 .. _online:             https://docs.typo3.org/typo3cms/TellMeSomethingAbout/
+.. _repository:         https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/
 .. _TYPO3 Slack invite: https://forger.typo3.com/slack
 
 
@@ -43,7 +44,7 @@ Please open an issue_ at Github.
 
 **Discussions:**
 Join the `typo3-documentation channel at Slack <https://typo3.slack.com/messages/C028JEPJL>`__.
-Visit `TYPO3 Slack invite`_to get yourself access to Slack.
+Visit `TYPO3 Slack invite`_ to get yourself access to Slack.
 
 
 Release History
