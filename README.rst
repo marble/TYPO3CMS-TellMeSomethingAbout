@@ -12,6 +12,7 @@ Read Me
 
 :Title:        Tell Me Something About…
 :Author:       TYPO3 Documentation Team
+:Description:  Frequently searched topics with explanations and links
 :Publication:  https://docs.typo3.org/typo3cms/TellMeSomethingAbout/
 :Repository:   https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/
 :License:      `Creative Commons (CC BY 4.0) <LICENSE.rst>`__
