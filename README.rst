@@ -17,6 +17,7 @@ to provide links to other community writings like blogpostings.
 .. _online:             https://docs.typo3.org/typo3cms/TellMeSomethingAbout/
 .. _repository:         https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/
 .. _TYPO3 Slack invite: https://forger.typo3.com/slack
+.. _typo3-documentation channel at Slack: https://typo3.slack.com/messages/C028JEPJL
 
 
 Meta
@@ -43,8 +44,8 @@ Then create a Pull Request for the master branch at Github.
 Please open an issue_ at Github.
 
 **Discussions:**
-Join the `typo3-documentation channel at Slack <https://typo3.slack.com/messages/C028JEPJL>`__.
-Visit `TYPO3 Slack invite`_ to get yourself access to Slack.
+Join the `typo3-documentation channel at Slack`_.
+Visit `TYPO3 Slack invite`_ to help yourself get access to Slack.
 
 
 Release History
