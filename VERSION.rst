@@ -7,3 +7,5 @@ Navigation: \|
 `Changes <CHANGES.rst>`__ \|
 `License <LICENSE.rst>`__ \|
 `Version <VERSION.rst>`__ \|
+
+The version number is in the first line.
