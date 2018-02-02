@@ -7,6 +7,10 @@
 Ckeditor
 =================
 
+**What does it do?**
+
+CKEditor is the standard rich text editor for TYPO3 since version 8.7; it is a third-party component loaded and configured in TYPO3 via the system extension rte_ckeditor. Its functionalities can be extended using plugins.
+
 Search
    - Search for: `ckeditor+typo3 <https://www.startpage.com/do/dsearch?query=ckeditor+typo3>`__
    
