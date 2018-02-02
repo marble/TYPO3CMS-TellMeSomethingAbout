@@ -15,7 +15,7 @@ About
 Introduction
 ============
 
-"Tell me something about" is the name for that part of the documentation that
+"Tell me something about X" is the name for that part of the documentation that
 doesn't exactly fit into common rubrics like reference, guide, tutorial or
 how-to. **1.** The goal is to name and list topics that people often need help
 with. **2.** Hopefully the list then inspires knowledgable members of the community
