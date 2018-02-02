@@ -9,6 +9,10 @@ Backend Layouts
 
 Description
    ((to be written))
+   
+Search
+   * Search for: `typo3 backend layout <https://www.startpage.com/do/dsearch?query=typo3+backend+layout>`__
+   * Search for: `typo3 "backend layout" <https://www.startpage.com/do/dsearch?query=typo3+%22backend+layout%22>`__
 
 
 Videos (en)
@@ -18,11 +22,6 @@ Videos (en)
      <https://www.youtube.com/watch?v=RoHaeo4fq34>`__
      
      .. youtube:: RoHaeo4fq34
-One
-   ...
-   
-Two
-   ...
    
 Whatever
    ((to be written))
