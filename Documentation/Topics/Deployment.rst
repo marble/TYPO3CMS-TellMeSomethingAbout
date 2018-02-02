@@ -9,6 +9,12 @@ Deployment (TBW)
 
 ((to be written))
 
+Whatever
+   ...
+
+Clever solution
+   ...
+
 Definition
    ...
 
@@ -30,5 +36,3 @@ Videos
 Links
    ...
    
-Whatever
-   ...
