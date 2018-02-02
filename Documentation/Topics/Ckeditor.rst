@@ -29,7 +29,11 @@ Blogpostings
      <https://typo3worx.eu/2017/02/configure-ckeditor-in-typo3/>`__
   
 Links
-   - https://ckeditor.com/
+   * https://ckeditor.com/
+   
+   * Image support for CKEditor for TYPO3:
+     `ext:rte_ckeditor_image
+     <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor_image/>`__
 
 Videos
    * 2018-02-02 Thomas Kieslich `@T3Cmd`_ `#t3cmd`_ 
