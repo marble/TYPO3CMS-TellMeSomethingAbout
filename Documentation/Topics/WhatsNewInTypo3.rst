@@ -29,10 +29,11 @@ Links
         :class:  with-shadow
         
 
-   - .. figure:: WhatsNewInTypo3-449.png
-        :target: https://forge.typo3.org/projects/documentation-whatsnew/files
-        :alt:    Teaser for archive of What's new? slides
-        :class:  with-shadow
+Archive: What's New Slides
+   .. figure:: WhatsNewInTypo3-449.png
+      :target: https://forge.typo3.org/projects/documentation-whatsnew/files
+      :alt:    Teaser for archive of What's new? slides
+      :class:  with-shadow
         
-        Archive: What's New Slides
+      Archive: What's New Slides
         
