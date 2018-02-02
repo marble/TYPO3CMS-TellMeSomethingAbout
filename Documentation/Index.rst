@@ -28,12 +28,10 @@ This manual is part of official TYPO3 documentation.
 
 **Contents:**
 
-.. rst-class:: compactlist
-
+.. rst-class:: compact-list
 .. toctree::
    :titlesonly:
    :glob:
-   :class: compactlist
 
    Sitemap/Index
    Topics/Index
