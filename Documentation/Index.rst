@@ -25,10 +25,10 @@ This manual is part of official TYPO3 documentation.
    As of February 2018 this manual is at a very early stage.
    Nevertheless: Enjoy and try to contribute or come to Slack for a discussion.
 
-.. rst-class:: compactlist
 
 **Contents:**
 
+.. rst-class:: compactlist
 .. toctree::
    :titlesonly:
    :glob:
