@@ -4,13 +4,7 @@
 .. _Composer:
 
 =================
-Composer
+Composer (TBW)
 =================
 
 ((to be written))
-
-
-Links
-=====
-
--  ...
