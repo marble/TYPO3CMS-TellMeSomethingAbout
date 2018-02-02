@@ -9,5 +9,9 @@ Gridelements (TBW)
 
 ((to be written))
 
-Keyword: structural content element
+Whatever
+   ...
+
+See also
+   - :doc:`StructuralContentElements`
 
