@@ -9,7 +9,7 @@ Solr
 
 ((to be written))
 
-Slides
+Slides (en)
 
 
 -  2018-01-31 Timo Hund: `Slides from the TYPO3 Camp Mitteldeutschland, about what will be new in EXT:solr 8.0.0
