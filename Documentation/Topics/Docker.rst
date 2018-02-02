@@ -6,7 +6,7 @@
 Docker
 =================
 
-Links
+Preconfigured for docker-compose
    * 
    
      + Repository: https://github.com/webdevops/TYPO3-docker-boilerplate
@@ -21,6 +21,13 @@ Links
        `Environment to develop and run TYPO3 in Docker containers
        <https://packagist.org/packages/t3easy/typo3-bootcamp>`__
    
+
+Videos
+   * 2018-02-02 (de)
+   
+     + Thomas Kieslich `@T3Cmd`_: `Docker for Devs <https://www.youtube.com/watch?v=kr6AUN2HmBE>`__
+     + .. youtube:: kr6AUN2HmBE
+
 Whatever
    ((to be written))
    
