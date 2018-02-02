@@ -6,6 +6,13 @@
 Docker
 =================
 
+Description
+   ((to be written))
+
+Search
+   - Search for: `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
+
+
 Preconfigured for docker-compose
    * 
    
@@ -22,8 +29,8 @@ Preconfigured for docker-compose
        <https://packagist.org/packages/t3easy/typo3-bootcamp>`__
    
 
-Videos
-   * 2018-02-02 Thomas Kieslich `@T3Cmd`_, `#T3Cmd`_
+Videos (de)
+   * 2018-02-02 Thomas Kieslich `@T3Cmd`_ + `#T3Cmd`_
    
      `Docker for Devs (de) <https://www.youtube.com/watch?v=kr6AUN2HmBE>`__
      
