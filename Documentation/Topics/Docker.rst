@@ -13,7 +13,7 @@ Search
    - Search for: `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
 
 
-Preconfigured for docker-compose
+Preconfigured containers
    * 
    
      + Repository: https://github.com/webdevops/TYPO3-docker-boilerplate
