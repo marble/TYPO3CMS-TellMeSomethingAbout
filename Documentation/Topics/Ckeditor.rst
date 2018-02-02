@@ -25,8 +25,12 @@ Links
    - https://ckeditor.com/
 
 Blogpostings
+   * 2017-12-25 Daniel Goerz:
+     `Feature Spotlight: CKEditor <https://usetypo3.com/ckeditor.html>`__
+
    * 2017-02-23 Marcus Schwemer:
      `Configure CKEditor in TYPO3 <https://typo3worx.eu/2017/02/configure-ckeditor-in-typo3/>`__
+  
    
   
 Whatever
