@@ -1,9 +1,10 @@
 
 .. include:: ../Includes.txt
 
+.. _Structural-Content-Elements:
 
 ===========================
-Structured Content Elements
+Structural Content Elements
 ===========================
 
 ((to be written))
@@ -17,6 +18,8 @@ Links
    - Blueprint: https://wiki.typo3.org/Blueprints/StructuredContentContainers
    - Slack Channel: https://typo3.slack.com/messages/C8Z2UM50Q/
    
+See also
+   - :doc:`Gridelements`
+
 Whatever
    ...
-
