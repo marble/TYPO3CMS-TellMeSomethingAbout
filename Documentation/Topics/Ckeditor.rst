@@ -24,15 +24,11 @@ Videos
 Links
    - https://ckeditor.com/
 
-One
-   ...
+Blogpostings
+   * 2017-02-23 Marcus Schwemer:
+     `Configure CKEditor in TYPO3 <https://typo3worx.eu/2017/02/configure-ckeditor-in-typo3/>`__
    
-Two
-   ...
-   
-Three
-   ...
-   
+  
 Whatever
    ((to be written))
    
