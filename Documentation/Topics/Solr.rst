@@ -10,6 +10,10 @@ Solr
 ((to be written))
 
 Slides (en)
+   - ((testline)) #t3cmd_:
+   - ((testline)) #T3CMD_:
+   - ((testline)) T3CMD_
+   - ((testline)) T3cmd_
    - 2018-01-31 Timo Hund at #t3cmd_: `Slides from the TYPO3 Camp Mitteldeutschland, about what will be new in EXT:solr 8.0.0
      <https://de.slideshare.net/timohund/whats-newinsolr8typo3camp>`__
 
