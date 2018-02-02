@@ -7,8 +7,6 @@
 Structural Content Elements
 ===========================
 
-((to be written))
-
 Discussions
    - 2018-01-26 https://twitter.com/bunnyfield/status/957550452169674753
    - 2018-01-26 Join us on Slack and help to write user stories to be decided on https://decisions.typo3.org/ then.
@@ -23,4 +21,5 @@ See also
    - :doc:`Gridelements`
 
 Whatever
-   ...
+   ((to be written))
+
