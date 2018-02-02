@@ -6,8 +6,6 @@
 Docker
 =================
 
-((to be written))
-
 Links
    * 
    
@@ -24,5 +22,5 @@ Links
        <https://packagist.org/packages/t3easy/typo3-bootcamp>`__
    
 Whatever
-   ...
+   ((to be written))
    
