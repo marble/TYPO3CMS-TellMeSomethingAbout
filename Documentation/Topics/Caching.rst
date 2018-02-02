@@ -4,12 +4,7 @@
 .. _Caching:
 
 =================
-Caching
+Caching (TBW)
 =================
 
 ((to be written))
-
-Links
-=====
-
--  ...
