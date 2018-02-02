@@ -24,6 +24,14 @@ Blogpostings
      `Der neue TYPO3 RTE – CKEditor (de) 
      <https://www.clickstorm.de/blog/der-neue-typo3-rte-ckeditor/>`__
 
+   * 2017-06-16 Thomas Kieslich:
+     `Links im CKEditor mit eigenen CSS Klassen (de) 
+     <https://www.thomaskieslich.de/blog/135-links-im-ckeditor-mit-eigenen-css-klassen/>`__
+
+   * 2017-06-09 Thomas Kieslich:
+     `TYPO3 Code Highlighting mit CKEditor und Prism (de) 
+     <https://www.thomaskieslich.de/blog/134-typo3-code-highlighting-mit-ckeditor-und-prism/>`__
+
    * 2017-02-23 Marcus Schwemer:
      `Configure CKEditor in TYPO3 
      <https://typo3worx.eu/2017/02/configure-ckeditor-in-typo3/>`__
