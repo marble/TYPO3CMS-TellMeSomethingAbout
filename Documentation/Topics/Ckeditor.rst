@@ -27,6 +27,10 @@ Blogpostings
    * 2017-02-23 Marcus Schwemer:
      `Configure CKEditor in TYPO3 
      <https://typo3worx.eu/2017/02/configure-ckeditor-in-typo3/>`__
+
+   * 2017-02-05 Thomas Kieslich:
+     `TYPO3 8.x ckeditor konfigurieren (de)
+     <https://www.thomaskieslich.de/blog/127-typo3-8x-ckeditor-konfigurieren/>`__
   
 Links
    * https://ckeditor.com/
