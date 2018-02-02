@@ -7,11 +7,8 @@
 Gridelements (TBW)
 =======================
 
-((to be written))
-
-Whatever
-   ...
-
 See also
    - :doc:`StructuralContentElements`
-
+   
+Whatever
+   ((to be written))
