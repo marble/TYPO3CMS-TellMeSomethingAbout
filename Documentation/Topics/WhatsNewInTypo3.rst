@@ -14,7 +14,7 @@ Release notes
    - `Release notes <https://typo3.org/download/release-notes/>`__
 
 What's New Slides
-   .. figure:: WhatsNewInTypo3-448.png
+   .. figure:: WhatsNewInTypo3-450.png
       :target: https://typo3.org/download/release-notes/whats-new/
       :alt:    Teaser What's new in TYPO3 v9.1?
       :class:  with-shadow
