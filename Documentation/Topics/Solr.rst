@@ -19,4 +19,4 @@ Blogpostings (en)
 Whatever
    ...
 
-.. _#t3cmd: https://www.typo3camp-mitteldeutschland.de/
+.. _t3cmd: https://www.typo3camp-mitteldeutschland.de/
