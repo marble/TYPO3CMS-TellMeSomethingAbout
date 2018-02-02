@@ -4,16 +4,8 @@
 .. _Responsive-Images:
 
 =======================
-Responsive Images
+Responsive Images (TBW)
 =======================
 
 ((to be written))
-
-
-Links
-=====
-
--  ...
-
-
 
