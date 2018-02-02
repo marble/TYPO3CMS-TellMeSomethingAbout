@@ -11,7 +11,7 @@ Description
    ((to be written))
    
 Search
-   * Search for: `typo3 contribution workflow 
+   * Search for: `typo3+contribution+workflow 
      <https://www.startpage.com/do/dsearch?query=typo3+contribution+workflow>`__
 
 Videos
