@@ -4,17 +4,10 @@
 .. _Gridelements:
 
 =======================
-Gridelements
+Gridelements (TBW)
 =======================
 
 ((to be written))
 
 Keyword: structural content element
-
-Links
-=====
-
--  ...
-
-
 
