@@ -16,3 +16,4 @@
 
 .. _t3cmd: https://www.typo3camp-mitteldeutschland.de/
 .. _`#t3cmd`: https://www.typo3camp-mitteldeutschland.de/
+.. _`@T3Cmd`: https://twitter.com/T3Cmd
