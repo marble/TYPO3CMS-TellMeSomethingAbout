@@ -7,10 +7,8 @@
 Sitepackages
 ==================
 
-((to be written))
-
 Whatever
-   ...
+   ... ((to be written))
 
 Videos
    - Tutorial - Site Packages - Part 1
