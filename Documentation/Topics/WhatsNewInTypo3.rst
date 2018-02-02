@@ -21,7 +21,7 @@ What's New Slides
       
       TYPO3 CMS - What's New Slides (click image)
 
-Archive: What's New Slides
+Archive of "What's New Slides"
    .. figure:: WhatsNewInTypo3-449.png
       :target: https://forge.typo3.org/projects/documentation-whatsnew/files
       :alt:    Teaser for archive of What's new? slides
