@@ -7,7 +7,8 @@
 What's new in TYPO3?
 ====================
 
-((to be written))
+Changes
+   - `TYPO3 CMS Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/>`__
 
 Release notes
    - `Release notes <https://typo3.org/download/release-notes/>`__
