@@ -10,6 +10,7 @@ Solr
 ((to be written))
 
 Slides (en)
+   - ((testline)) #t3cmd_:
    - ((testline)) t3cmd_:
    - ((testline)) T3CMD_:
    - ((testline)) T3CMD_
