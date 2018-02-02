@@ -20,11 +20,13 @@ This manual contains frequently searched topics with explanations and links.
 
 This manual is part of official TYPO3 documentation.
 
-*Note:* As of February 2018 this manual is at a very early stage.
-Nevertheless: Enjoy and try to contribute or come to Slack for a discussion.
+.. hint::
+
+   As of February 2018 this manual is at a very early stage.
+   Nevertheless: Enjoy and try to contribute or come to Slack for a discussion.
 
 .. toctree::
-   :hidden:
+   :titlesonly:
    :glob:
 
    Sitemap/Index
