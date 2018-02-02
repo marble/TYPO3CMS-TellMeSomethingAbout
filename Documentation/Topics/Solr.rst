@@ -14,7 +14,7 @@ Slides (en)
      <https://de.slideshare.net/timohund/whats-newinsolr8typo3camp>`__
 
 Blogpostings (en)
-   - https://blog.dkd.de/upcomming-solr-features-for-typo3-in-2018/
+   - 2018-01-11 dkd: `<https://blog.dkd.de/upcomming-solr-features-for-typo3-in-2018/>`__
 
 Whatever
    ...
