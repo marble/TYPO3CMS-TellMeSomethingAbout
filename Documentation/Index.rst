@@ -29,9 +29,11 @@ This manual is part of official TYPO3 documentation.
 **Contents:**
 
 .. rst-class:: compactlist
+
 .. toctree::
    :titlesonly:
    :glob:
+   :class: compactlist
 
    Sitemap/Index
    Topics/Index
