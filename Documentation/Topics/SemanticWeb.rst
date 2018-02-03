@@ -18,7 +18,7 @@ Search
 .. To be sorted: "Rough notes" from `#t3cmd`_+`@t3cmd`_:
 .. André Wuttke
 
-To be sorted - words I heard at `#t3cmd`_+`@t3cmd`_
+To be sorted - words I heard at `#t3cmd`_ + `@t3cmd`_
    * dbpedia
    * sparql
    * leds linked enterprise data services
