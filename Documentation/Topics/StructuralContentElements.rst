@@ -7,6 +7,13 @@
 Structural Content Elements
 ===========================
 
+Description
+   ((to be written))
+   
+Search
+   * Search for: `typo3+structural+content+elements 
+     <https://www.startpage.com/do/dsearch?query=typo3+structural+content+elements>`__
+
 Discussions
    - 2018-01-26 https://twitter.com/bunnyfield/status/957550452169674753
    - 2018-01-26 Join us on Slack and help to write user stories to be decided on https://decisions.typo3.org/ then.
