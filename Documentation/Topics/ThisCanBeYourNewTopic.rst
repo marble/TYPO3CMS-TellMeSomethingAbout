@@ -13,12 +13,16 @@ How to add your new topic
    
    Start writing here.
    
-   The TYPO3 Documentation Team will then give assistence.
+   .. tip:: 
+   
+      Just start somehow.The TYPO3 Documentation Team will give assistence.
 
 Description
    ((Should always be present first))
    
 Search
+   * Search for: `typo3+clever+search <https://www.startpage.com/do/dsearch?query=typo3+>`__
+   * Search for: `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22clever+search%22>`__
 
 Whatever
    ((To be written))
