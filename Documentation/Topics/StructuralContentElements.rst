@@ -47,6 +47,8 @@ Blueprints and RFCs
 See also
    * :doc:`Gridelements`
    * General example of a user story: :forge:`75671`
+   * CSS `Grid by Example: No clearing required
+     <https://gridbyexample.com/examples/example12/>`__
 
 Whatever
    ((to be written))
