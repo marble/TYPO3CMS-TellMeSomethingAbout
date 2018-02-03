@@ -4,9 +4,9 @@
 
 .. _This-can-be-your-new-topic:
 
-============================
-! THIS CAN BE YOUR NEW TOPIC
-============================
+========================================================
+THIS CAN BE YOUR NEW TOPIC
+========================================================
 
 How to add your new topic
    You want to add a topic that is not in the portfolio yet?
