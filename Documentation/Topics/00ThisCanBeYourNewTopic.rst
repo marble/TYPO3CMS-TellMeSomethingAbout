@@ -21,7 +21,7 @@ Description
    ((Should always be present first))
    
 Search
-   * Search for: `typo3+clever+search <https://www.startpage.com/do/dsearch?query=typo3+>`__
+   * Search for: `typo3+clever+search <https://www.startpage.com/do/dsearch?query=typo3+clever+search>`__
    * Search for: `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22clever+search%22>`__
 
 Whatever
@@ -34,27 +34,34 @@ Whatever
 
 Here are some ideas:
 
+Blogpostings
+   ...
+   
 Clever solution
    ...
 
 Definition
    ...
 
+Keywords
+   ...
+   
+Links
+   ...
+
+See also
+   * Like to a document. Example: :doc:`00ThisCanBeYourNewTopic`
+   * ...  
+
+Slides
+   ...
+   
 Techniques
    ...
    
 Tools
    ...
    
-Slides
-   ...
-   
-Blogpostings
-   ...
-   
 Videos
-   ...
-   
-Links
    ...
    
