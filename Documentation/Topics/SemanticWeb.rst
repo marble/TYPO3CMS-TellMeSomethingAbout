@@ -7,35 +7,48 @@ Semantic Web
 ========================================================
 
 Description
-   ((Should always be present first))
+   ((To be written))
+   
+   Important starting point: https://schema.org
+
    
 Search
-   * Search for TYPO3 extensions: 
-     `"semantic" <https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=semantic>`__
    * Search for: `typo3+semantic+web <https://www.startpage.com/do/dsearch?query=typo3+semantic+web>`__
    * Search for: `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22semantic+web%22>`__
+
+Website having structured data
+   * 
+   
+     https://www.thomaskieslich.de/ ,
+     https://hofhaeckerei.de/ ,
+     https://daten.berlin.de ,
+     https://opendata.leipzig.de ,
+     https://offenesdresden.de ,
+     https://transparenz.hamburg.de/open-data ,
+     https://www.opengov-muenchen.de ,
+
+
+TYPO3 extensions
+   * Search `"semantic" <https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=semantic>`__
+
+   * https://github.com/portrino/px_semantic
+
+   * ((3 extensions for TYPO3, nr_semantic_templates, www.siamar.de, egovapi, eGov Remote API TYPO3,
+     px_semantic))
+
+Test tool
+   * `Google test tool for structured data
+     <https://search.google.com/structured-data/testing-tool?hl=dehttps://search.google.com/structured-data/testing-tool?hl=de>`__: 
+     Give it a link!
 
 .. To be sorted: "Rough notes" from `#t3cmd`_+`@t3cmd`_:
 .. André Wuttke
 
 To be sorted - words I heard at `#t3cmd`_ + `@t3cmd`_
-   * dbpedia
-   * sparql
+   * dbpedia, sparql, jsonld, jsonldview
    * leds linked enterprise data services
-   * semann ckeditor example
    * Stanbol software
-   * daten.berlin.de, opendata.leipzig.de, offenesdresden.de, transparenz.hamburg.de/open-data,
-     www.opengov-muenchen.de
-   * 3 Extensions für TYPO3, nr_semantic_templates, www.siamar.de, egovapi, eGov Remote API TYPO3,
-     px_semantic
    * api-platform.com
-   * aus dem Vokabular von Schema.org
-   * jsonldview
-   * https://github.com/portrino/px_semantic
-   * has structured data: https://www.thomaskieslich.de/
-   * has structured data: hofhaeckerei.de
-   * Google test tool for structured data: Give it a link:
-     https://search.google.com/structured-data/testing-tool?hl=dehttps://search.google.com/structured-data/testing-tool?hl=de
    * "semantic annotations"
 
 Whatever
