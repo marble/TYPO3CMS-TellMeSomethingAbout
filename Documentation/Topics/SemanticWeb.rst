@@ -29,7 +29,7 @@ Website having structured data
 
 
 TYPO3 extensions
-   * Search `"semantic" <https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=semantic>`__
+   * Search extensions flagged `"semantic" <https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=semantic>`__
 
    * https://github.com/portrino/px_semantic
 
