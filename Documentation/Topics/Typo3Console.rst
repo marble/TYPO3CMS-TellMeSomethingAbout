@@ -50,7 +50,7 @@ Blogpostings (en)
      <http://insight.helhum.io/post/104528981610/about-the-beauty-and-power-of-typo3-console>`__
 
 Videos (de)
-   - 2017-05-19 Helmut Hummel, TYPO3 Camp Stuttgart:
+   - 2017-05-19 Helmut Hummel at `#t3cs`_ + `@t3cs`_:
      `TYPO3 Console - die Zukunft (de)
      <https://www.youtube.com/watch?v=7uKlsmfSXLI>`__
 
