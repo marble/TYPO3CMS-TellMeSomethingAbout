@@ -7,8 +7,11 @@
 Sitepackages
 ==================
 
-Whatever
-   ... ((to be written))
+Description
+   ((to be written))
+   
+Search
+   * Search for: `typo3+sitepackage <https://www.startpage.com/do/dsearch?query=typo3+sitepackage>`__
 
 Videos
    - Tutorial - Site Packages - Part 1
@@ -22,3 +25,7 @@ Videos
    - Tutorial - Site Packages - Part 3
    
      .. youtube:: SEoWOBT0rQE
+
+Whatever
+   ((to be written))
+
