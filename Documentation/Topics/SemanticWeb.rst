@@ -13,10 +13,10 @@ Search
    * Search for: `typo3+semantic+web <https://www.startpage.com/do/dsearch?query=typo3+semantic+web>`__
    * Search for: `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22semantic+web%22>`__
 
-.. To be sorted: "Rough notes" from `#t3cmd`_+`@t3cmd`:
+.. To be sorted: "Rough notes" from `#t3cmd`_+`@t3cmd`_:
 .. André Wuttke
 
-To be sorted - words I heard at `#t3cmd`_+`@t3cmd`
+To be sorted - words I heard at `#t3cmd`_+`@t3cmd`_
    * dbpedia
    * sparql
    * leds linked enterprise data services
