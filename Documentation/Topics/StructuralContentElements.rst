@@ -20,8 +20,9 @@ Discussions
    
 Links
    - Epic: :issue:`67134`
-     "The core must provide structured content elements which are configurable 
-     similar to backend layouts out of the box"
+   
+        The core must provide structured content elements which are configurable 
+        similar to backend layouts out of the box"
 
    - Blueprint: https://wiki.typo3.org/Blueprints/StructuredContentContainers
    
