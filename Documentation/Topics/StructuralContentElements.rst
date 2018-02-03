@@ -45,7 +45,8 @@ Blueprints and RFCs
         Google document "Content Grids"
    
 See also
-   - :doc:`Gridelements`
+   * :doc:`Gridelements`
+   * General example of a user story: :forge:`75671`
 
 Whatever
    ((to be written))
