@@ -26,6 +26,9 @@ Videos
    
      .. youtube:: SEoWOBT0rQE
 
+Featured packages
+   * https://github.com/thomaskieslich/tksite
+
 Whatever
    ((to be written))
 
