@@ -10,6 +10,8 @@ Description
    ((Should always be present first))
    
 Search
+   * Search for TYPO3 extensions: 
+     `"semantic" <https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=semantic>`__
    * Search for: `typo3+semantic+web <https://www.startpage.com/do/dsearch?query=typo3+semantic+web>`__
    * Search for: `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22semantic+web%22>`__
 
