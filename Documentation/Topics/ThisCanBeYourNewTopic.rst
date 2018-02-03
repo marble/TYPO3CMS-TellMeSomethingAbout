@@ -4,9 +4,9 @@
 
 .. _This-can-be-your-new-topic:
 
-==========================
-THIS CAN BE YOUR NEW TOPIC
-==========================
+============================
+! THIS CAN BE YOUR NEW TOPIC
+============================
 
 How to add your new topic
    You want to add a topic that is not in the portfolio yet?
@@ -15,8 +15,20 @@ How to add your new topic
    
    The TYPO3 Documentation Team will then give assistence.
 
+Description
+   ((Should always be present first))
+   
+Search
+
 Whatever
-   ...
+   ((To be written))
+
+
+-----
+
+**Add YOUR rubrics as needed.**
+
+Here are some ideas:
 
 Clever solution
    ...
