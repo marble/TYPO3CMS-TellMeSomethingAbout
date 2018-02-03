@@ -35,6 +35,14 @@ Videos (de)
      `Docker for Devs (de) <https://www.youtube.com/watch?v=kr6AUN2HmBE>`__
      
      .. youtube:: kr6AUN2HmBE
+     
+Domains for development
+   * example.org is reserved
+   * *.localhost is reserved
+     
+Also elaborate on:
+   * kitematic - Docker's own management tool
+   * portainer - management tool
 
 Whatever
    ((to be written))
