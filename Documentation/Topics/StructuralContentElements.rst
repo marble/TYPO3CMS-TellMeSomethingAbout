@@ -15,8 +15,11 @@ Search
      <https://www.startpage.com/do/dsearch?query=typo3+structural+content+elements>`__
 
 Discussions
-   - 2018-01-26 https://twitter.com/bunnyfield/status/957550452169674753
-   - 2018-01-26 Join us on Slack and help to write user stories to be decided on https://decisions.typo3.org/ then.
+   - 2018-01-26 Tweet: 
+     `You want to get structured content into the #TYPO3 core? This is for you!
+     <https://twitter.com/bunnyfield/status/957550452169674753>`__
+     Join us on Slack and help to write user stories to be decided on 
+     https://decisions.typo3.org/ then.
    
 Links
    - Epic: :issue:`67134`
