@@ -32,7 +32,7 @@ Links
    - Sponsoring development: https://www.paypal.me/helhum/19.99
 
 
-Blogpostings
+Blogpostings (en)
    - 2017-12-25 Daniel Goerz: 
      `CLI and TYPO3 
      <https://usetypo3.com/typo3-and-cli.html>`__
@@ -49,7 +49,7 @@ Blogpostings
      `About the beauty and power of TYPO3 Console 
      <http://insight.helhum.io/post/104528981610/about-the-beauty-and-power-of-typo3-console>`__
 
-Videos
+Videos (de)
    - 2017-05-19 Helmut Hummel, TYPO3 Camp Stuttgart:
      `TYPO3 Console - die Zukunft (de)
      <https://www.youtube.com/watch?v=7uKlsmfSXLI>`__
