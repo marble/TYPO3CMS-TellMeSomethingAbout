@@ -26,7 +26,7 @@ Links
 
    - Blueprint: https://wiki.typo3.org/Blueprints/StructuredContentContainers
    
-   - Slack Channel: https://typo3.slack.com/messages/C8Z2UM50Q/
+   - Slack Channel `#cig-structuredcontent <https://typo3.slack.com/messages/C8Z2UM50Q/>`__
    
 See also
    - :doc:`Gridelements`
