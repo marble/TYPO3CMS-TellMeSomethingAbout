@@ -47,6 +47,9 @@ Links
    * Image support for CKEditor for TYPO3:
      `ext:rte_ckeditor_image
      <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor_image/>`__
+     
+Online try out
+   * https://netresearch.github.io/semann/
 
 Videos
    * 2018-02-02 Thomas Kieslich `@T3Cmd`_ + `#t3cmd`_ 
