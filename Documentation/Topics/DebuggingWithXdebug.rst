@@ -7,6 +7,12 @@
 Debugging with xdebug (TBW)
 ===========================
 
+Description
+   ((to be written))
+   
+Search
+   * Search for: `typo3+xdebug <https://www.startpage.com/do/dsearch?query=typo3+xdebug>`__
+
 One
    ...
    
