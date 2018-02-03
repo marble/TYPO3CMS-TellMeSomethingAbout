@@ -27,9 +27,22 @@ Links
         The core must provide structured content elements which are configurable 
         similar to backend layouts out of the box"
 
-   - Blueprint: https://wiki.typo3.org/Blueprints/StructuredContentContainers
    
    - Slack Channel `#cig-structuredcontent <https://typo3.slack.com/messages/C8Z2UM50Q/>`__
+   
+Blueprints and RFCs
+   * Blueprint: https://wiki.typo3.org/Blueprints/StructuredContentContainers
+   * Google Document
+
+     `Content Grids
+     <https://docs.google.com/document/d/1DxxVWNCuH50nyWkmEXMScVNePm3sd47cvT3rJBJDnss/edit#heading=h.kmkvq6a7pe5j>`__
+     
+     .. figure:: StructuralContentElements-455.png
+        :class: with-shadow
+        :target: https://docs.google.com/document/d/1DxxVWNCuH50nyWkmEXMScVNePm3sd47cvT3rJBJDnss/edit#heading=h.kmkvq6a7pe5j
+        :alt: Google document "Content Grids"
+
+        Google document "Content Grids"
    
 See also
    - :doc:`Gridelements`
