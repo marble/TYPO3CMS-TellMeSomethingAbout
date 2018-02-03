@@ -7,6 +7,12 @@
 What's new in TYPO3?
 ====================
 
+Description
+   ((to be written))
+   
+Search
+   * Search for: `typo3 <https://www.startpage.com/do/dsearch?query=typo3>`__
+
 Changes
    - `TYPO3 CMS Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/>`__
 
