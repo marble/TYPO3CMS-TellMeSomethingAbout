@@ -14,6 +14,8 @@
 .. highlight:: php
 
 
-.. _t3cmd: https://www.typo3camp-mitteldeutschland.de/
+
 .. _`#t3cmd`: https://www.typo3camp-mitteldeutschland.de/
 .. _`@T3Cmd`: https://twitter.com/T3Cmd
+.. _`#t3cs`: https://t3cs.de/
+.. _`@t3cs`: https://twitter.com/t3cs
