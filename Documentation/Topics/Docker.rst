@@ -12,6 +12,7 @@ Description
 Search
    - Search for: `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
 
+__________________________________________________   
 
 Preconfigured containers
    * 
@@ -45,5 +46,9 @@ Also elaborate on:
    * portainer - management tool
 
 Whatever
-   ((to be written))
-   
+   ...
+
+__________________________________________________   
+
+See also
+   ...
