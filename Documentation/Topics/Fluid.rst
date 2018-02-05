@@ -28,6 +28,8 @@ Description
    
 Search
    * Search for: `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
+   
+__________________________________________________
 
 Debugging
    * 2018-02-05
@@ -51,10 +53,10 @@ Tools
 Viewhelpers
    * `Viewhelper reference <https://fluidtypo3.org/viewhelpers.html>`__
 
-((to be written))
-   whatever
+Whatever
+   ...
    
------
+__________________________________________________
 
 See also
    * `Pattern Lab Fluid Edition
