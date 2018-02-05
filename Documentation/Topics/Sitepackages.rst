@@ -13,6 +13,8 @@ Description
 Search
    * Search for: `typo3+sitepackage <https://www.startpage.com/do/dsearch?query=typo3+sitepackage>`__
 
+__________________________________________________   
+
 Videos
    - Tutorial - Site Packages - Part 1
    
@@ -30,5 +32,9 @@ Featured packages
    * https://github.com/thomaskieslich/tksite
 
 Whatever
-   ((to be written))
+   ...
 
+__________________________________________________
+
+See also
+   ...
