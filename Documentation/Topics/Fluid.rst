@@ -30,7 +30,8 @@ Search
    * Search for: `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
 
 Debugging
-   * .. figure:: Fluid-463.png
+   * 2018-02-05
+     .. figure:: Fluid-463.png
         :scale: 50 %
         :class: with-shadow
         :alt: screenshot of tweet
