@@ -14,6 +14,8 @@ Description
 
 Search
    - Search for: `ckeditor+typo3 <https://www.startpage.com/do/dsearch?query=ckeditor+typo3>`__
+   
+__________________________________________________   
 
 Blogpostings (en)
    * 2017-12-25 Daniel Goerz:
@@ -59,5 +61,10 @@ Videos
      .. youtube:: 83Q2r-nla2I
  
 Whatever
-   ((to be written))
+   ...
+   
+__________________________________________________   
+
+See also
+   ...
    
