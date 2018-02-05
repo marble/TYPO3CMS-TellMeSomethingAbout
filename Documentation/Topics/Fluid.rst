@@ -51,8 +51,8 @@ Tools
 Viewhelpers
    * `Viewhelper reference <https://fluidtypo3.org/viewhelpers.html>`__
 
-Whatever
-   ((to be written))
+((to be written))
+   whatever
    
 -----
 
