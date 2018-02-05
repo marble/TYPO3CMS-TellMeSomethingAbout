@@ -14,7 +14,8 @@ Search
    * Search for: `typo3+code+of+conduct <https://www.startpage.com/do/dsearch?query=typo3+code+of+conduct>`__
    * Search for: `code+of+conduct <https://www.startpage.com/do/dsearch?query=code+of+conduct>`__
    * Search for: `"code+of+conduct" <https://www.startpage.com/do/dsearch?query=%22code+of+conduct%22>`__
-   
+
+__________________________________________________   
    
 Blogpostings (de)
    - 2017-12-20 Mittwald: `Kennt ihr den TYPO3 Code of Conduct? (de)
@@ -24,5 +25,10 @@ Links
    ...
   
 Whatever
-   ((to be written))
+   ...
+   
+__________________________________________________   
+
+See also
+   ...
 
