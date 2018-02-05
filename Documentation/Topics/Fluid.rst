@@ -9,12 +9,9 @@ Fluid
 ========================================================
 
 Description
-   ((Should always be present first))
+   ((to be written))
    
-Search
-   * Search for: `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
-
-Some introductory text might include:
+   Possible catchwords:
 
    * from https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-Extbase/issues/92
    
@@ -28,5 +25,12 @@ Some introductory text might include:
      * How does the rendering and caching work internally?
      * Hints about Performance
 
+   
+Search
+   * Search for: `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
+
+Debugging
+   * https://twitter.com/t3extensions/status/960316417441595392
+   
 Whatever
    ((To be written))
