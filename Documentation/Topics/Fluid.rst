@@ -30,6 +30,11 @@ Search
    
 __________________________________________________
 
+Blogpostings
+   * 2018-02-05 Torben Hansen:
+     `How to render a Fluid standalone view multiple times in different languages
+     <https://www.derhansen.de/2018/02/multiple-localized-fluid-standalone-views-in-one-request.html>`__
+
 Debugging
    * 2018-02-05 TYPO3 CMS Fluid Debugging Assistant
    
