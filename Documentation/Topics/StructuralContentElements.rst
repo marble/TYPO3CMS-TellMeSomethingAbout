@@ -32,6 +32,7 @@ Links
    
 Blueprints and RFCs
    * Blueprint: https://wiki.typo3.org/Blueprints/StructuredContentContainers
+   * Clarification of terms: https://wiki.typo3.org/Talk:Blueprints/ContentElementDefinitions
    * Google document
      `Content Grids
      <https://docs.google.com/document/d/1DxxVWNCuH50nyWkmEXMScVNePm3sd47cvT3rJBJDnss/edit#heading=h.kmkvq6a7pe5j>`__,
