@@ -13,9 +13,8 @@ Description
 Search
    * Search for: `typo3+deployment <https://www.startpage.com/do/dsearch?query=typo3+deployment>`__
 
-Whatever
-   ((to be written))
-   
+__________________________________________________   
+
 Clever solution
    ...
 
@@ -40,3 +39,10 @@ Videos
 Links
    ...
    
+Whatever
+   ...
+
+__________________________________________________   
+
+See also
+   ...
