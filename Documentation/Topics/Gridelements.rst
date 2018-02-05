@@ -13,8 +13,12 @@ Description
 Search
    * Search for: `typo3 gridelements <https://www.startpage.com/do/dsearch?query=typo3+gridelements>`__
 
+__________________________________________________
+
+Whatever
+   ...
+
+__________________________________________________
+
 See also
    - :doc:`StructuralContentElements`
-   
-Whatever
-   ((to be written))
