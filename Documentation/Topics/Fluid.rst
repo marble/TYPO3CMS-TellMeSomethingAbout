@@ -31,6 +31,7 @@ Search
 
 Debugging
    * 2018-02-05
+   
      .. figure:: Fluid-463.png
         :scale: 50 %
         :class: with-shadow
