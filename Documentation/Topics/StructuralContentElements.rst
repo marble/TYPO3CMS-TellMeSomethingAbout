@@ -14,6 +14,8 @@ Search
    * Search for: `typo3+structural+content+elements 
      <https://www.startpage.com/do/dsearch?query=typo3+structural+content+elements>`__
 
+__________________________________________________   
+
 Discussions
    - 2018-01-26 Tweet: 
      `You want to get structured content into the #TYPO3 core? This is for you!
@@ -44,13 +46,14 @@ Blueprints and RFCs
         :alt: Google document "Content Grids"
 
         Google document "Content Grids"
+
+Whatever
+   ...
+
+__________________________________________________   
    
 See also
    * :doc:`Gridelements`
    * General example of a user story: :forge:`75671`
    * CSS `Grid by Example: No clearing required
      <https://gridbyexample.com/examples/example12/>`__
-
-Whatever
-   ((to be written))
-
