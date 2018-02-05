@@ -30,6 +30,7 @@ What's New Slides
       :target: https://typo3.org/download/release-notes/whats-new/
       :alt:    Teaser What's new in TYPO3 v9.1?
       :class:  with-shadow
+      :scale:  50 %
       
       TYPO3 CMS - What's New Slides (click image)
 
@@ -38,6 +39,7 @@ Archive of "What's New Slides"
       :target: https://forge.typo3.org/projects/documentation-whatsnew/files
       :alt:    Teaser for archive of What's new? slides
       :class:  with-shadow
+      :scale:  50 %
         
       Archive: What's New Slides (click image)
         
