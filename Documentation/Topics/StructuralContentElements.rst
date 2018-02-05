@@ -24,13 +24,13 @@ Discussions
      https://decisions.typo3.org/ then.
    
 Links
-   - Epic: :issue:`67134`
+   * Epic: :issue:`67134`:
+     The core must provide structured content elements which are configurable
+     similar to backend layouts out of the box"
+     
+   * :issue:`83776`: Definition of goals to create the stories
    
-        The core must provide structured content elements which are configurable 
-        similar to backend layouts out of the box"
-
-   
-   - Slack Channel `#cig-structuredcontent <https://typo3.slack.com/messages/C8Z2UM50Q/>`__
+   * Slack Channel `#cig-structuredcontent <https://typo3.slack.com/messages/C8Z2UM50Q/>`__
    
 Blueprints and RFCs
    * Blueprint: https://wiki.typo3.org/Blueprints/StructuredContentContainers
