@@ -11,14 +11,20 @@ Description
    ((to be written))
    
 Search
-   * Search for: `typo3+"what's new"<https://www.startpage.com/do/dsearch?query=typo3+%22what%27s+new%22>`__
+   * Search for: `typo3+"what's new" 
+     <https://www.startpage.com/do/dsearch?query=typo3+%22what%27s+new%22>`__
 
 Changes
-   - `TYPO3 CMS Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/>`__
+   * `TYPO3 CMS Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/>`__
 
 Release notes
-   - `Release notes <https://typo3.org/download/release-notes/>`__
+   * `Release notes <https://typo3.org/download/release-notes/>`__
 
+Blogpostings
+   * 2018-02-04 Marcus Schwemer:
+     `TYPO3 sprint releases 9.0 and 9.1 — The main changes
+     <https://typo3worx.eu/2018/02/typo3-v91-main-changes/>`__
+   
 What's New Slides
    .. figure:: WhatsNewInTypo3-450.png
       :target: https://typo3.org/download/release-notes/whats-new/
@@ -36,5 +42,5 @@ Archive of "What's New Slides"
       Archive: What's New Slides (click image)
         
 Whatever
-   ...
+   ((to be written))
  
