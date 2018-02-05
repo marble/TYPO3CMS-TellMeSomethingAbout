@@ -40,8 +40,24 @@ Debugging
         
         Tweet
 
+Tools
+   * `Fluid.SchemaGenerator: Creates XSD schemas for packages containing Fluid ViewHelpers
+     <https://github.com/TYPO3/Fluid.SchemaGenerator>`__
+
+   * `TYPO3/Fluid.Lint: Lint utility for TYPO3 Fluid templates
+     <https://github.com/TYPO3/Fluid.Lint>`__
+     
+     
 Viewhelpers
    * `Viewhelper reference <https://fluidtypo3.org/viewhelpers.html>`__
 
 Whatever
    ((to be written))
+   
+-----
+
+See also
+   * `Pattern Lab Fluid Edition
+     <https://github.com/NamelessCoder/patternlab-fluid-edition>`__
+
+
