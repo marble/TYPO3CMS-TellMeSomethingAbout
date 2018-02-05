@@ -13,6 +13,8 @@ Description
 Search
    - Search for: `solr+typo3 <https://www.startpage.com/do/dsearch?query=solr+typo3>`__
 
+__________________________________________________   
+
 Slides
    - 2018-01-31 Timo Hund at `@t3cmd`_ + `#t3cmd`_: `What will be new in EXT:solr 8.0.0
      <https://de.slideshare.net/timohund/whats-newinsolr8typo3camp>`__
@@ -23,4 +25,10 @@ Blogpostings (en)
      <https://blog.dkd.de/upcomming-solr-features-for-typo3-in-2018/>`__
 
 Whatever
-   ((to be written))
+   ...
+
+__________________________________________________
+
+See also
+   ...
+   
