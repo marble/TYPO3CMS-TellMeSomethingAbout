@@ -14,5 +14,12 @@ Search
    * Search for: `typo3+responsive+images <https://www.startpage.com/do/dsearch?query=typo3+responsive+images>`__
    * Search for: `typo3+"responsive images" <https://www.startpage.com/do/dsearch?query=typo3+%22responsive+images%22>`__
 
+__________________________________________________   
+
 Whatever
-   ((to be written))
+   ...
+
+__________________________________________________
+
+See also
+   ...
