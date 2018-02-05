@@ -30,7 +30,13 @@ Search
    * Search for: `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
 
 Debugging
-   * https://twitter.com/t3extensions/status/960316417441595392
+   * .. figure:: Fluid-463.png
+        :scale: 50 %
+        :class: with-shadow
+        :alt: screenshot of tweet
+        :target: https://twitter.com/t3extensions/status/960316417441595392
+        
+        Tweet
    
 Whatever
    ((To be written))
