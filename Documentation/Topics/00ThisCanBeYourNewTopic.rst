@@ -18,17 +18,18 @@ How to add your new topic
       Just start somehow.The TYPO3 Documentation Team will give assistence.
 
 Description
-   ((Should always be present first))
+   ((to be written))
+   
+   Should always be present first.
    
 Search
    * Search for: `typo3+clever+search <https://www.startpage.com/do/dsearch?query=typo3+clever+search>`__
    * Search for: `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22clever+search%22>`__
 
-Whatever
-   ((To be written))
 
+.. use 50 underscores to mark a transition (= hr = horizontal line)
 
------
+__________________________________________________
 
 **Add YOUR rubrics as needed.**
 
@@ -49,10 +50,6 @@ Keywords
 Links
    ...
 
-See also
-   * Like to a document. Example: :doc:`00ThisCanBeYourNewTopic`
-   * ...  
-
 Slides
    ...
    
@@ -65,3 +62,11 @@ Tools
 Videos
    ...
    
+Whatever
+   ...
+   
+__________________________________________________
+
+See also
+   * Link to a document. Example: :doc:`00ThisCanBeYourNewTopic`
+   * ...  
