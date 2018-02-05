@@ -39,6 +39,9 @@ Debugging
         :target: https://twitter.com/t3extensions/status/960316417441595392
         
         Tweet
-   
+
+Viewhelpers
+   * `Viewhelper reference <https://fluidtypo3.org/viewhelpers.html>`__
+
 Whatever
    ((to be written))
