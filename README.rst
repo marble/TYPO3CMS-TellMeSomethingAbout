@@ -19,3 +19,19 @@ Documentation: "Tell Me Something About…"
 :Contribute:   `How to contribute <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/About/Index.html#how-to-contribute>`__
 
 This manual is part of official TYPO3 documentation.
+
+
+Developing some ReST style guides for this manual
+=================================================
+
+* Define common, frequently needed link definitions in :file:`Includes.txt`.
+
+* Use the star `*` in general to mark up unordered list. It is better readable
+  in online editing.
+  
+* Use 50 underscores `_` to mark up a transistion. The minimum would be 4.
+
+* In general: Use upper in headlines only for the document title ('doctitle').
+
+* The first headline (= section) of a file is its document title.
+
