@@ -17,17 +17,24 @@ __________________________________________________
 Preconfigured containers
    * 
    
-     + Repository: https://github.com/webdevops/TYPO3-docker-boilerplate
-     + Website:
-       `TYPO3 Docker Boilerplate project (NGINX, Apache HTTPd, PHP-FPM, MySQL, Solr, Elasticsearch, Redis, FTP)
+     + `TYPO3 Docker Boilerplate project:
        <https://webdevops.io/projects/typo3-docker-boilerplate/>`__
-
+       (NGINX, Apache HTTPd, PHP-FPM, MySQL, Solr, Elasticsearch, Redis, FTP)
+     + `webdevops/TYPO3-docker-boilerplate <Repository: https://github.com/webdevops/TYPO3-docker-boilerplate>`__
+  
    * 
    
-     + Repository: https://github.com/t3easy/docker-typo3
-     + Packagist:
-       `Environment to develop and run TYPO3 in Docker containers
-       <https://packagist.org/packages/t3easy/typo3-bootcamp>`__
+     + `Environment to develop and run TYPO3 in Docker containers
+       <https://packagist.org/packages/t3easy/typo3-bootcamp>`__ (packagist)
+     + `t3easy/docker-typo3 <https://github.com/t3easy/docker-typo3>`__
+       
+   * 
+     + `thomaskieslich/TYPO3-docker-boilerplate <https://github.com/thomaskieslich/TYPO3-docker-boilerplate>`__
+     + 2018-02-05 For PHP-7.1: Use branch `ubuntu16.04-php7.1
+       <https://github.com/thomaskieslich/TYPO3-docker-boilerplate/tree/ubuntu16.04-php7.1>`__, 
+       `Dockerfile <https://github.com/thomaskieslich/TYPO3-docker-boilerplate/blob/0db2cd8b15539ff3fd050c385253b02a7c222694/Dockerfile.development#L64>`__ line 64 and 
+       `php71.sh <https://github.com/thomaskieslich/TYPO3-docker-boilerplate/blob/ubuntu16.04-php7.1/etc/php/php71.sh>`__
+   
    
 
 Videos (de)
