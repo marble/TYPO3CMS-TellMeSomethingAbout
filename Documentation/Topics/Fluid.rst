@@ -11,19 +11,18 @@ Fluid
 Description
    ((to be written))
    
-   Possible catchwords:
-
-   * from https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-Extbase/issues/92
+   Possible catchwords
+   from https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-Extbase/issues/92
    
-     * What is it used for
-     * Some explanation about fluid_styled_content
-     * Some explanations about FLUIDTEMPLATE
-     * How the core uses fluid
-     * How extensions can use fluid
-     * Naming conventions (e.g. Templates, Partials, Layouts), CamelCase for files
-     * What's in a fluid file (XML, namespaces, sections, partials view helpers)
-     * How does the rendering and caching work internally?
-     * Hints about Performance
+   | What is it used for
+   | Some explanation about fluid_styled_content
+   | Some explanations about FLUIDTEMPLATE
+   | How the core uses fluid
+   | How extensions can use fluid
+   | Naming conventions (e.g. Templates, Partials, Layouts), CamelCase for files
+   | What's in a fluid file (XML, namespaces, sections, partials view helpers)
+   | How does the rendering and caching work internally?
+   | Hints about Performance
 
    
 Search
@@ -44,7 +43,7 @@ Debugging
 
 Tools
    * `Fluid.SchemaGenerator: <https://github.com/TYPO3/Fluid.SchemaGenerator>`__
-      Creates XSD schemas for packages containing Fluid ViewHelpers
+     Creates XSD schemas for packages containing Fluid ViewHelpers
     
    * `TYPO3 CMS Fluid Debugging Assistant
      <https://github.com/NamelessCoder/typo3-cms-fluid-debug>`__
