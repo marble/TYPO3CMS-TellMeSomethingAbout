@@ -14,6 +14,8 @@ Search
    * Search for: `typo3+"what's new" 
      <https://www.startpage.com/do/dsearch?query=typo3+%22what%27s+new%22>`__
 
+__________________________________________________   
+
 Changes
    * `TYPO3 CMS Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/>`__
 
@@ -44,5 +46,9 @@ Archive of "What's New Slides"
       Archive: What's New Slides (click image)
         
 Whatever
-   ((to be written))
- 
+   ...
+
+__________________________________________________   
+
+See also
+   ...
