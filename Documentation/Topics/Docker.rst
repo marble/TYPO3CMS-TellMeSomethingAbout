@@ -6,8 +6,14 @@
 Docker
 =================
 
+.. _`What is Docker?`: https://www.docker.com/what-docker
+.. _docker: https://www.docker.com/
+
 Description
-   ((to be written))
+   `What is Docker?`_
+   
+      Docker_ is the world's leading software containerization platform.
+   
 
 Search
    - Search for: `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
