@@ -7,8 +7,10 @@
 Ckeditor
 =================
 
+.. _ckeditor: https://ckeditor.com/
+
 Description
-   CKEditor is the standard rich text editor for TYPO3 since version 8.7. 
+   CKEditor_ is the standard rich text editor for TYPO3 since version 8.7. 
    It is a third-party component loaded and configured in TYPO3 via the 
    system extension rte_ckeditor. Its functionalities can be extended using plugins.
 
