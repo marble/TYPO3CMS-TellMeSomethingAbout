@@ -14,7 +14,8 @@ Description
 Search
    * Search for: 
      `typo3+deployment <https://www.startpage.com/do/dsearch?query=typo3+deployment>`__
-     ✦`typo3+surf <https://www.startpage.com/do/dsearch?query=typo3+surf>`__
+     ✦
+     `typo3+surf <https://www.startpage.com/do/dsearch?query=typo3+surf>`__
 
 __________________________________________________   
 
