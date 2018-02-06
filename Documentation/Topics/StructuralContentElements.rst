@@ -11,8 +11,9 @@ Description
    ((to be written))
    
 Search
-   * Search for: `typo3+structural+content+elements 
-     <https://www.startpage.com/do/dsearch?query=typo3+structural+content+elements>`__
+   Search for:
+   • `typo3+structural+content+elements <https://www.startpage.com/do/dsearch?query=typo3+structural+content+elements>`__
+   •
 
 __________________________________________________   
 
@@ -53,7 +54,9 @@ Whatever
 __________________________________________________   
    
 See also
-   * :doc:`Gridelements`
-   * General example of a user story: :forge:`75671`
-   * CSS `Grid by Example: No clearing required
+   • :doc:`Gridelements`
+   • :doc:`CustomContentElements`
+   • General example of a user story: :forge:`75671`
+   • CSS `Grid by Example: No clearing required
      <https://gridbyexample.com/examples/example12/>`__
+   •  
