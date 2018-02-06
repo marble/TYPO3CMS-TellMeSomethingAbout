@@ -58,6 +58,5 @@ See also
    • :doc:`Gridelements`
    • :doc:`CustomContentElements`
    • General example of a user story: :forge:`75671`
-   • CSS `Grid by Example: No clearing required
-     <https://gridbyexample.com/examples/example12/>`__
+   • CSS `Grid by Example: No clearing required <https://gridbyexample.com/examples/example12/>`__
    •  
