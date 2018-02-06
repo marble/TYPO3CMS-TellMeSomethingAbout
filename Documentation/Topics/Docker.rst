@@ -17,15 +17,15 @@ Description
 
 Search
    Search for:
-   ✻ `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
-   ✻ `dockerfile+reference <https://www.startpage.com/do/dsearch?query=dockerfile+reference>`__
+   ✦ `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
+   ✦ `dockerfile+reference <https://www.startpage.com/do/dsearch?query=dockerfile+reference>`__
 
 __________________________________________________   
 
 Containers for TYPO3 development
    * `TYPO3 Docker Boilerplate project: <https://webdevops.io/projects/typo3-docker-boilerplate/>`__
      (NGINX, Apache HTTPd, PHP-FPM, MySQL, Solr, Elasticsearch, Redis, FTP)
-     ✻ `webdevops/TYPO3-docker-boilerplate <Repository: https://github.com/webdevops/TYPO3-docker-boilerplate>`__
+     ✦ `webdevops/TYPO3-docker-boilerplate <Repository: https://github.com/webdevops/TYPO3-docker-boilerplate>`__
   
    * `Environment to develop and run TYPO3 in Docker containers
      <https://packagist.org/packages/t3easy/typo3-bootcamp>`__
