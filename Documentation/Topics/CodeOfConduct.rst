@@ -11,9 +11,11 @@ Description
    ((to be written))
    
 Search
-   * Search for: `typo3+code+of+conduct <https://www.startpage.com/do/dsearch?query=typo3+code+of+conduct>`__
-   * Search for: `code+of+conduct <https://www.startpage.com/do/dsearch?query=code+of+conduct>`__
-   * Search for: `"code+of+conduct" <https://www.startpage.com/do/dsearch?query=%22code+of+conduct%22>`__
+   Search for: 
+   • `typo3+code+of+conduct <https://www.startpage.com/do/dsearch?query=typo3+code+of+conduct>`__
+   • `code+of+conduct <https://www.startpage.com/do/dsearch?query=code+of+conduct>`__
+   • `"code+of+conduct" <https://www.startpage.com/do/dsearch?query=%22code+of+conduct%22>`__
+   •
 
 __________________________________________________   
    
