@@ -4,31 +4,26 @@
 .. _tmsa-Custom-Content-Elements:
 
 =============================
-Custom Content Elements (TBW)
+Custom Content Elements
 =============================
 
 Description
-   ((to be written))
+   What are 'Custom Content Elements'? ...
    
 Search
-   * Search for: `typo3+custom+content+elements 
-     <https://www.startpage.com/do/dsearch?query=typo3+custom+content+elements>`__
+   Search for: 
+   • `typo3+custom+content+elements <https://www.startpage.com/do/dsearch?query=typo3+custom+content+elements>`__
+   •
 
 __________________________________________________   
 
 Links
-   * https://github.com/thomaskieslich/tkcontent Presented at `#t3cmd`__, `@t3cmd`__ 2018
+   * `Starter package tkcontent <https://github.com/thomaskieslich/tkcontent>`__ Presented at `#t3cmd`__, `@t3cmd`__ 2018
    
-Two
-   ...
-   
-Three
-   ...
-
 Whatever
    ...
 
 __________________________________________________   
 
 See also
-   ...
+   * :doc:`StructuralContentElements`
