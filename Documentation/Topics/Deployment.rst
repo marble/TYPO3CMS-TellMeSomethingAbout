@@ -22,7 +22,9 @@ Search
 __________________________________________________   
 
 Blogpostings
-   * https://typo3worx.eu/2016/12/deploy-typo3-cms-using-typo3-surf/
+   * 2017-12-07 Marcus Schwemer:
+     `Deploy TYPO3 CMS using TYPO3 Surf
+     <https://typo3worx.eu/2016/12/deploy-typo3-cms-using-typo3-surf/>`__
    
 Slides (de)
    * 2018-02-06 Kay Strobach:
