@@ -1,7 +1,7 @@
 
 .. include:: ../Includes.txt
 
-.. _Whats-new-in-TYPO3:
+.. _tmsa-Whats-new-in-TYPO3:
 
 ====================
 What's new in TYPO3?
