@@ -1,7 +1,7 @@
 
 .. include:: ../Includes.txt
 
-.. _Shops:
+.. _tmsa-Shops:
 
 =======================
 Shops
