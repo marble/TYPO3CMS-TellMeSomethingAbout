@@ -17,7 +17,7 @@ Search
 __________________________________________________
 
 Videos (de)
-   * 2018-02-02 Oliver Hader `@T3Cmd`_ `#t3cmd`_:
+   * 2018-02-02 Oliver Hader `@T3Cmd`_ ✦ `#t3cmd`_:
      
      `Contribution Workflow (de) <https://www.youtube.com/watch?v=2Nhx2lFJzNg>`__
      
