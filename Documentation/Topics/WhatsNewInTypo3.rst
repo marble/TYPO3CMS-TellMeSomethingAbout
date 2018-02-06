@@ -11,8 +11,9 @@ Description
    ((to be written))
    
 Search
-   * Search for: `typo3+"what's new" 
-     <https://www.startpage.com/do/dsearch?query=typo3+%22what%27s+new%22>`__
+   Search for:
+   • `typo3+"what's new" <https://www.startpage.com/do/dsearch?query=typo3+%22what%27s+new%22>`__
+   •
 
 __________________________________________________   
 
