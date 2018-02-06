@@ -1,6 +1,6 @@
 .. include:: ../Includes.txt
 
-.. _Docker:
+.. _tmsa-Docker:
 
 =================
 Docker
@@ -54,7 +54,7 @@ Videos (de)
      .. youtube:: kr6AUN2HmBE
      
 Tools
-   * `kitematic <https://kitematic.com/>`__ by Docker: 
+   * `kitematic <https://kitematic.com/>`__ by Docker_: 
      "Run containers through a simple, yet powerful graphical user interface."
 
    * `portainer.io: <https://portainer.io/>`__
