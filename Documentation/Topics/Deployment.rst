@@ -8,9 +8,7 @@ Deployment
 =================
 
 Description
-   What is Deployment?
-   
-   ...
+   What is Deployment? ...
    
    
 Search
