@@ -51,7 +51,8 @@ Videos (de)
      `Docker for Devs (de) <https://www.youtube.com/watch?v=kr6AUN2HmBE>`__
      
      .. youtube:: kr6AUN2HmBE
-        :height: 320
+        :height: 160
+        :aspect: 14:8
      
      
 Tools
