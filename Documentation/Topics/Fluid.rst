@@ -31,7 +31,9 @@ Description
 
    
 Search
-   * Search for: `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
+   Search for:
+   • `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
+   •
    
 __________________________________________________
 
