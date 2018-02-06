@@ -7,7 +7,7 @@
 Composer
 =================
 
-.. _composer: https://getcomposer.org/
+.. _Composer: https://getcomposer.org/
 
 
 Description
