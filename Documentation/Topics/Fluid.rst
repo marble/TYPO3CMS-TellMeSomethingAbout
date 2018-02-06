@@ -41,6 +41,11 @@ Blogpostings
    * 2018-02-05 Torben Hansen:
      `How to render a Fluid standalone view multiple times in different languages
      <https://www.derhansen.de/2018/02/multiple-localized-fluid-standalone-views-in-one-request.html>`__
+     
+   * 2017-12-25 Daniel Goerz: 
+     `Claus Due's 24 useful tips and tricks <https://usetypo3.com/24-fluid-tips.html>`__
+     In December 2017 Claus Due (developer and maintainer of TYPO3 Fluid) shared 24 useful tips and tricks. 
+     This post rebublishes all of them for future reference.  
 
 Debugging
    * 2018-02-05 TYPO3 CMS Fluid Debugging Assistant
