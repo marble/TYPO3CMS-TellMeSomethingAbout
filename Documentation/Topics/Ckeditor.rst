@@ -31,20 +31,20 @@ Blogpostings (en)
      <https://typo3worx.eu/2017/02/configure-ckeditor-in-typo3/>`__
   
 Blogpostings (de)
-   * 2017-06-20 clickstorm:
-     `Der neue TYPO3 RTE – CKEditor (de) 
+   * 2017-06-20 (de) clickstorm:
+     `Der neue TYPO3 RTE – CKEditor
      <https://www.clickstorm.de/blog/der-neue-typo3-rte-ckeditor/>`__
 
-   * 2017-06-16 Thomas Kieslich:
-     `Links im CKEditor mit eigenen CSS Klassen (de) 
+   * 2017-06-16 (de) Thomas Kieslich:
+     `Links im CKEditor mit eigenen CSS Klassen
      <https://www.thomaskieslich.de/blog/135-links-im-ckeditor-mit-eigenen-css-klassen/>`__
 
-   * 2017-06-09 Thomas Kieslich:
-     `TYPO3 Code Highlighting mit CKEditor und Prism (de) 
+   * 2017-06-09 (de) Thomas Kieslich:
+     `TYPO3 Code Highlighting mit CKEditor und Prism
      <https://www.thomaskieslich.de/blog/134-typo3-code-highlighting-mit-ckeditor-und-prism/>`__
 
-   * 2017-02-05 Thomas Kieslich:
-     `TYPO3 8.x ckeditor konfigurieren (de)
+   * 2017-02-05 (de) Thomas Kieslich:
+     `TYPO3 8.x ckeditor konfigurieren
      <https://www.thomaskieslich.de/blog/127-typo3-8x-ckeditor-konfigurieren/>`__
   
 Links
@@ -58,9 +58,9 @@ Online try out
    * https://netresearch.github.io/semann/
 
 Videos
-   * 2018-02-02 Thomas Kieslich `@T3Cmd`_ + `#t3cmd`_ 
+   * 2018-02-02 (de) Thomas Kieslich `@T3Cmd`_ ✦ `#t3cmd`_ 
    
-     `CKEditor (de) <https://www.youtube.com/watch?v=83Q2r-nla2I>`__
+     `CKEditor <https://www.youtube.com/watch?v=83Q2r-nla2I>`__
      
      .. youtube:: 83Q2r-nla2I
  
