@@ -4,7 +4,7 @@
 .. _tmsa-Deployment:
 
 =================
-Deployment (TBW)
+Deployment
 =================
 
 Description
@@ -14,7 +14,10 @@ Description
    
    
 Search
-   * Search for: `typo3+deployment <https://www.startpage.com/do/dsearch?query=typo3+deployment>`__
+   * Search for: 
+     • `typo3+deployment <https://www.startpage.com/do/dsearch?query=typo3+deployment>`__
+     • `typo3+surf <https://www.startpage.com/do/dsearch?query=typo3+surf>`__
+     • 
 
 __________________________________________________   
 
@@ -30,8 +33,11 @@ Clever solution
      https://github.com/launchdarkly/featureflags/wiki/Blue-Green-Deployments
 
 Tools
-   * https://github.com/TYPO3/Surf
-   * https://github.com/TYPO3-Console/TYPO3-Console
+   * `TYPO3/Surf: <https://github.com/TYPO3/Surf>`__ `Easy and powerful deployment tool
+
+   * `TYPO3 console <https://extensions.typo3.org/extension/typo3_console/>`__
+     • `Github <https://github.com/TYPO3-Console/TYPO3-Console>`__
+   
    * https://dkdeploy.github.io/
    
 Whatever
