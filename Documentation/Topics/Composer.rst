@@ -7,8 +7,13 @@
 Composer
 =================
 
+.. _composer: https://getcomposer.org/
+
+
 Description
-   ((to be written))
+   Composer_ is a tool for dependency management in PHP. It allows you to declare 
+   the libraries your project depends on and it will manage (install/update) them for you.
+
 
 Search
    - Search for: `composer+typo3 <https://www.startpage.com/do/dsearch?query=composer+typo3>`__
