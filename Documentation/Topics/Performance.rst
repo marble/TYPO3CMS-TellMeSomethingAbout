@@ -1,7 +1,7 @@
 
 .. include:: ../Includes.txt
 
-.. _Performance:
+.. _tmsa-Performance:
 
 =======================
 Performance
