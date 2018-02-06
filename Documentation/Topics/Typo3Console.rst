@@ -7,10 +7,10 @@
 TYPO3 Console
 =======================
 
-Description
-   From the manual:
+.. _`typo3 console`: https://extensions.typo3.org/extension/typo3_console/
 
-      **What does it do?**
+Description
+   What is `TYPO3 console`_?
 
       The goal of this extension to improve the command line usage with TYPO3 CMS
       inspired by the command line interface of TYPO3 Flow. It aims to provide a
