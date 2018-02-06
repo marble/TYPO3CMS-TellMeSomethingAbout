@@ -55,7 +55,7 @@ Blogpostings (en)
 Videos (de)
    - 2017-05-19 (de) Helmut Hummel at `#t3cs`_ ✦ `@t3cs`_:
    
-     `TYPO3 Console - die Zukunft <https://www.youtube.com/watch?v=7uKlsmfSXLI>`__
+     `(de) TYPO3 Console - die Zukunft <https://www.youtube.com/watch?v=7uKlsmfSXLI>`__
 
      .. youtube:: 7uKlsmfSXLI
 
