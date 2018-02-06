@@ -11,8 +11,10 @@ Description
    ((to be written))
    
 Search
-   * Search for: `typo3+backend+layout <https://www.startpage.com/do/dsearch?query=typo3+backend+layout>`__
-   * Search for: `typo3+"backend layout" <https://www.startpage.com/do/dsearch?query=typo3+%22backend+layout%22>`__
+   Search for: 
+   • `typo3+backend+layout <https://www.startpage.com/do/dsearch?query=typo3+backend+layout>`__
+   • `typo3+"backend layout" <https://www.startpage.com/do/dsearch?query=typo3+%22backend+layout%22>`__
+   •
    
 __________________________________________________   
 
