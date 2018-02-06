@@ -73,7 +73,7 @@ See also
         ◆ `2015-01-26 Blogposting <https://iyware.com/dont-use-dev-for-development/>`__
         ◆
 
-      * `wikipedia <https://en.wikipedia.org/wiki/Example.com>`__:
+      * `Wikipedia <https://en.wikipedia.org/wiki/Example.com>`__:
         "**example.com**, **example.net**, **example.org**, and **example.edu** are 
         second-level domain names reserved for documentation purposes and examples of 
         the use of domain names."
