@@ -1,7 +1,7 @@
 
 .. include:: ../Includes.txt
 
-.. _Ckeditor:
+.. _tmsa-Ckeditor:
 
 =================
 Ckeditor
