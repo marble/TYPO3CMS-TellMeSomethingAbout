@@ -28,18 +28,18 @@ Slides (de)
    * 2018-02-06 Kay Strobach:
      `T3CMD Workshop deployment (de) <https://www.slideshare.net/kaystrobach/deployment-87308314>`__
   
-Clever solution
-   * blue / green deployment, idea
-     https://github.com/launchdarkly/featureflags/wiki/Blue-Green-Deployments
-
 Tools
    * `TYPO3/Surf: <https://github.com/TYPO3/Surf>`__ `Easy and powerful deployment tool
 
    * `TYPO3 console <https://extensions.typo3.org/extension/typo3_console/>`__
      • `Github <https://github.com/TYPO3-Console/TYPO3-Console>`__
    
-   * https://dkdeploy.github.io/
+   * `dkdeploy: <https://dkdeploy.github.io/>`__ A Powerful Extension to Capistrano
    
+Clever solution
+   * blue / green deployment, idea
+     https://github.com/launchdarkly/featureflags/wiki/Blue-Green-Deployments
+
 Whatever
    ...
 
