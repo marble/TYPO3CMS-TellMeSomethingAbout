@@ -1,7 +1,7 @@
 
 .. include:: ../Includes.txt
 
-.. _CodeOfConduct:
+.. _tmsa-Code-Of-Conduct:
 
 =================
 Code Of Conduct
