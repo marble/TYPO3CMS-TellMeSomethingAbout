@@ -51,13 +51,12 @@ Videos (de)
      
      .. youtube:: kr6AUN2HmBE
      
-Domains for development
-   * example.org is reserved
-   * *.localhost is reserved
-     
-Also elaborate on:
-   * kitematic - Docker's own management tool
-   * portainer - management tool
+Tools
+   * `kitematic <https://kitematic.com/>`__ by Docker: 
+     "Run containers through a simple, yet powerful graphical user interface."
+
+   * `portainer.io: <https://portainer.io/>`__
+     "Manage your Docker environments with ease"
 
 Whatever
    ...
@@ -65,12 +64,16 @@ Whatever
 __________________________________________________   
 
 See also
-   * Reserved top level DNS names:
-     • `RFC2606 <https://tools.ietf.org/html/rfc2606>`__
-     • `2015-01-26 Blogposting <https://iyware.com/dont-use-dev-for-development/>`__
-     •
+   Reserved domains for development:
 
-   * `wikipedia <https://en.wikipedia.org/wiki/Example.com>`__:
-     "**example.com**, **example.net**, **example.org**, and **example.edu** are 
-     second-level domain names reserved for documentation purposes and examples of 
-     the use of domain names."
+      * Reserved top level DNS names:
+        • `RFC2606 <https://tools.ietf.org/html/rfc2606>`__
+        • `2015-01-26 Blogposting <https://iyware.com/dont-use-dev-for-development/>`__
+        •
+
+      * `wikipedia <https://en.wikipedia.org/wiki/Example.com>`__:
+        "**example.com**, **example.net**, **example.org**, and **example.edu** are 
+        second-level domain names reserved for documentation purposes and examples of 
+        the use of domain names."
+        
+   ...
