@@ -1,13 +1,13 @@
 
 .. include:: ../Includes.txt
 
-.. _Composer:
+.. _tmsa-Composer:
 
 =================
 Composer
 =================
 
-.. _Composer: https://getcomposer.org/
+.. _composer: https://getcomposer.org/
 
 
 Description
