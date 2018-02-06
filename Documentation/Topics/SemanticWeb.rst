@@ -14,22 +14,22 @@ Description
    
 Search
    Search for: 
-   • `typo3+semantic+web <https://www.startpage.com/do/dsearch?query=typo3+semantic+web>`__
-   • `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22semantic+web%22>`__
-   •
+   `typo3+semantic+web <https://www.startpage.com/do/dsearch?query=typo3+semantic+web>`__
+   ✦
+   `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22semantic+web%22>`__
 
 __________________________________________________   
 
 Websites that have structured data
    * 
    
-     https://www.thomaskieslich.de/ ,
-     https://hofhaeckerei.de/ ,
-     https://daten.berlin.de ,
-     https://opendata.leipzig.de ,
-     https://offenesdresden.de ,
-     https://transparenz.hamburg.de/open-data ,
-     https://www.opengov-muenchen.de ,
+     https://www.thomaskieslich.de/ ✦
+     https://hofhaeckerei.de/ ✦
+     https://daten.berlin.de ✦
+     https://opendata.leipzig.de ✦
+     https://offenesdresden.de ✦
+     https://transparenz.hamburg.de/open-data ✦
+     https://www.opengov-muenchen.de
 
 TYPO3 extensions
    * Search extensions flagged `"semantic" <https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=semantic>`__
@@ -58,9 +58,9 @@ __________________________________________________
 .. André Wuttke
 
 Incoming - to be sorted
-   Words I heard at `#t3cmd`_ + `@t3cmd`_:
+   Words I heard at `#t3cmd`_ ✦ `@t3cmd`_:
 
-* dbpedia, sparql, jsonld, jsonldview
+      * dbpedia, sparql, jsonld, jsonldview
       * leds linked enterprise data services
       * Stanbol software
       * api-platform.com
