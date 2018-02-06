@@ -20,8 +20,10 @@ Description
 
 
 Search
-   * Search for: `typo3+console <https://www.startpage.com/do/dsearch?query=typo3+console>`__
-   * Search for: `"typo3 console" <https://www.startpage.com/do/dsearch?query=%22typo3+console%22>`__
+   Search for: 
+   • `typo3+console <https://www.startpage.com/do/dsearch?query=typo3+console>`__
+   • Search for: `"typo3 console" <https://www.startpage.com/do/dsearch?query=%22typo3+console%22>`__
+   •
 
 __________________________________________________
 
