@@ -3,9 +3,9 @@
 
 .. _tmsa-Custom-Content-Elements:
 
-=============================
+=======================
 Custom Content Elements
-=============================
+=======================
 
 Description
    What are 'Custom Content Elements'? ...
@@ -18,7 +18,7 @@ Search
 __________________________________________________   
 
 Links
-   * `Starter package tkcontent <https://github.com/thomaskieslich/tkcontent>`__ Presented at `#t3cmd`__, `@t3cmd`__ 2018
+   * `Starter package tkcontent <https://github.com/thomaskieslich/tkcontent>`__ Presented at `#t3cmd`__ `@t3cmd`__ 2018
    
 Whatever
    ...
