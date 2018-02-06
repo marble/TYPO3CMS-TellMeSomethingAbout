@@ -1,7 +1,7 @@
 
 .. include:: ../Includes.txt
 
-.. _TYPO3-Console:
+.. _tmsa-TYPO3-Console:
 
 =======================
 TYPO3 Console
