@@ -16,7 +16,8 @@ Search
 __________________________________________________   
 
 Clever solution
-   ...
+   * blue / green deployment, idea
+     https://github.com/launchdarkly/featureflags/wiki/Blue-Green-Deployments
 
 Definition
    ...
