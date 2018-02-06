@@ -1,7 +1,7 @@
 
 .. include:: ../Includes.txt
 
-.. _Responsive-Images:
+.. _tmsa-Responsive-Images:
 
 =======================
 Responsive Images (TBW)
