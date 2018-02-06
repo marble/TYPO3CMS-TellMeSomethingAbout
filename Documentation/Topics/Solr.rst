@@ -7,8 +7,13 @@
 Solr
 =================
 
+.. _`What is Solr?`: http://lucene.apache.org/solr/features.html
+.. _solr: http://lucene.apache.org/solr/
+
 Description
-   ((to be written))
+   `What is Solr?`_
+   
+      Solr_ is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™.
 
 Search
    - Search for: `solr+typo3 <https://www.startpage.com/do/dsearch?query=solr+typo3>`__
