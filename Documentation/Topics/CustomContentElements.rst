@@ -8,17 +8,18 @@ Custom Content Elements
 =======================
 
 Description
-   What are 'Custom Content Elements'? ...
+   What are 'Custom Content Elements'?
+   
+   ...
    
 Search
    Search for: 
-   • `typo3+custom+content+elements <https://www.startpage.com/do/dsearch?query=typo3+custom+content+elements>`__
-   •
+   `typo3+custom+content+elements <https://www.startpage.com/do/dsearch?query=typo3+custom+content+elements>`__
 
 __________________________________________________   
 
 Links
-   * `Starter package tkcontent <https://github.com/thomaskieslich/tkcontent>`__ Presented at `#t3cmd`__ `@t3cmd`__ 2018
+   * 2018-02 `Starter package tkcontent <https://github.com/thomaskieslich/tkcontent>`__
    
 Whatever
    ...
