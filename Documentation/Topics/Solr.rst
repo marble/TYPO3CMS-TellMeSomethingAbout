@@ -1,7 +1,7 @@
 
 .. include:: ../Includes.txt
 
-.. _Solr:
+.. _tmsa-Solr:
 
 =================
 Solr
