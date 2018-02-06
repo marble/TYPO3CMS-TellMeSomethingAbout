@@ -21,9 +21,9 @@ Description
 
 Search
    Search for: 
-   • `typo3+console <https://www.startpage.com/do/dsearch?query=typo3+console>`__
-   • Search for: `"typo3 console" <https://www.startpage.com/do/dsearch?query=%22typo3+console%22>`__
-   •
+   `typo3+console <https://www.startpage.com/do/dsearch?query=typo3+console>`__
+   ✦
+   Search for: `"typo3 console" <https://www.startpage.com/do/dsearch?query=%22typo3+console%22>`__
 
 __________________________________________________
 
@@ -53,10 +53,9 @@ Blogpostings (en)
      <http://insight.helhum.io/post/104528981610/about-the-beauty-and-power-of-typo3-console>`__
 
 Videos (de)
-   - 2017-05-19 Helmut Hummel at `#t3cs`_ + `@t3cs`_:
+   - 2017-05-19 (de) Helmut Hummel at `#t3cs`_ ✦ `@t3cs`_:
    
-     `TYPO3 Console - die Zukunft (de)
-     <https://www.youtube.com/watch?v=7uKlsmfSXLI>`__
+     `TYPO3 Console - die Zukunft <https://www.youtube.com/watch?v=7uKlsmfSXLI>`__
 
      .. youtube:: 7uKlsmfSXLI
 
