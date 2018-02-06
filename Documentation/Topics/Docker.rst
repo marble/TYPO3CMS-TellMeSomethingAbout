@@ -46,7 +46,7 @@ Container to render Documentation
    * `t3docs/docker-render-documentation <https://github.com/t3docs/docker-render-documentation>`__
 
 Videos (de)
-   * 2018-02-02 Thomas Kieslich `@T3Cmd`_ + `#T3Cmd`_
+   * 2018-02-02 Thomas Kieslich `@T3Cmd`_ ✦ `#T3Cmd`_
    
      `Docker for Devs (de) <https://www.youtube.com/watch?v=kr6AUN2HmBE>`__
      
