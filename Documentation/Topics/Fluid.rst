@@ -14,7 +14,10 @@ Description
    ((to be written))
    
    Possible catchwords
-   from https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-Extbase/issues/92
+   
+   | Templating engine
+   
+   From https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-Extbase/issues/92
    
    | What is it used for
    | Some explanation about fluid_styled_content
