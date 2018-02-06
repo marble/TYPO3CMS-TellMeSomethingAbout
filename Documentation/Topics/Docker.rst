@@ -35,7 +35,6 @@ Containers for TYPO3 development
      `t3easy/docker-typo3 <https://github.com/t3easy/docker-typo3>`__
        
    * 2018-02-05 For PHP-7.1: 
-   
      `thomaskieslich/TYPO3-docker-boilerplate <https://github.com/thomaskieslich/TYPO3-docker-boilerplate>`__
      ◆
      Use branch `ubuntu16.04-php7.1
