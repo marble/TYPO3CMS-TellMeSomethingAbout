@@ -51,9 +51,8 @@ Videos (de)
      `Docker for Devs (de) <https://www.youtube.com/watch?v=kr6AUN2HmBE>`__
      
      .. youtube:: kr6AUN2HmBE
-        :height: 160
-        :aspect: 14:8
-     
+        :width: 280 px
+        :height: 130 px
      
 Tools
    * `kitematic <https://kitematic.com/>`__ by Docker_: 
