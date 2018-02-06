@@ -7,8 +7,10 @@
 Debugging with xdebug
 ===========================
 
+.. _xdebug: https://xdebug.org
+
 Description
-   ((to be written))
+   Xdebug_ is an extension for PHP to assist with debugging and development.
    
 Search
    * Search for: `typo3+xdebug <https://www.startpage.com/do/dsearch?query=typo3+xdebug>`__
