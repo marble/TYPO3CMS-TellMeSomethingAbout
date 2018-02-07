@@ -27,7 +27,15 @@ Search
 __________________________________________________
 
 Official documentation
-   * :ref:`t3coreapi:error-handling`
+   ✦
+   :ref:`t3coreapi:error-handling`
+   ✦
+   
+Page error handling
+   ✦
+   `ext:pagenotfoundhandling <https://extensions.typo3.org/extension/pagenotfoundhandling/>`__
+   ✦
+
 
 Whatever
    ...
@@ -35,5 +43,4 @@ Whatever
 __________________________________________________
 
 See also
-   ✦ ... 
-   ✦
+   ✦ ... ✦
