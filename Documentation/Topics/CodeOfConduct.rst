@@ -25,9 +25,6 @@ Blogpostings (de)
    - 2017-12-20 (de) Mittwald: `Kennt ihr den TYPO3 Code of Conduct?
      <https://www.typo3.net/artikel/kennt-ihr-den-typo3-code-of-conduct/>`__
      
-Links
-   ...
-  
 Whatever
    ...
    
