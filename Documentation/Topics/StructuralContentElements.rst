@@ -28,7 +28,7 @@ Links
      The core must provide structured content elements which are configurable
      similar to backend layouts out of the box"
      
-   * :issue:`83776`: Definition of goals to create the stories
+   * :issue:`83776`: Definition of goals plus user stories
    
    * Slack Channel `#cig-structuredcontent <https://typo3.slack.com/messages/C8Z2UM50Q/>`__
    
@@ -57,8 +57,6 @@ See also
    :doc:`Gridelements`
    ✦
    :doc:`CustomContentElements`
-   ✦
-   General example of a user story: :forge:`75671`
    ✦
    CSS `Grid by Example: No clearing required <https://gridbyexample.com/examples/example12/>`__
    ✦
