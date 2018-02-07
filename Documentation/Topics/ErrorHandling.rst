@@ -30,6 +30,8 @@ Official documentation
    ✦
    :ref:`t3coreapi:error-handling`
    ✦
+   :ref:`t3tsref:data-type-gettext-debug`
+   ✦
    
 Page error handling
    ✦
