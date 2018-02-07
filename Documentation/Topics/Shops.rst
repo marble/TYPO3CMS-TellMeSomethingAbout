@@ -24,4 +24,8 @@ Whatever
 __________________________________________________
 
 See also
-   ...
+   * Blogpostings: 
+     ✦
+     `(de) Mittwald: 9 unverzichtbare SEO-Maßnahmen für Onlineshops
+     <https://www.mittwald.de/blog/online-marketing/seo/seo-massnahmen-fuer-onlineshops>`__
+     ✦
