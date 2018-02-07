@@ -32,9 +32,8 @@ Description
    
 Search
    Search for:
-   • `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
-   •
-   
+   `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
+      
 __________________________________________________
 
 Blogpostings
@@ -74,6 +73,14 @@ Viewhelpers
 Whatever
    ...
    
+__________________________________________________
+
+Fluid template rendering engine - Standalone version
+   * `TYPO3.Fluid Rendering Engine: <https://github.com/TYPO3/Fluid>`__
+     "TYPO3 community template engine - composer-enabled, Flow/CMS dependency-free PSR-4 edition"
+     ✦
+     With `lots of docs <https://github.com/TYPO3/Fluid/tree/master/doc>`__
+
 __________________________________________________
 
 See also
