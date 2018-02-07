@@ -13,7 +13,6 @@ Description
    `Download <https://github.com/benvantende/typo3-event-coc/blob/master/README.md>`__
    
 Search
-   Search for: 
    `typo3+code+of+conduct <https://www.startpage.com/do/dsearch?query=typo3+code+of+conduct>`__
    ✦
    `code+of+conduct <https://www.startpage.com/do/dsearch?query=code+of+conduct>`__
