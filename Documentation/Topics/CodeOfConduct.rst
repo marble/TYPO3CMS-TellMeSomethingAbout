@@ -8,7 +8,9 @@ Code Of Conduct
 =================
 
 Description
-   `Code of conduct for TYPO3 Events <https://typo3.org/community/event-code-of-conduct/>`__
+   `Reading: Code of conduct for TYPO3 Events <https://typo3.org/community/event-code-of-conduct/>`__
+   ✦
+   `Download <https://github.com/benvantende/typo3-event-coc/blob/master/README.md>`__
    
 Search
    Search for: 
