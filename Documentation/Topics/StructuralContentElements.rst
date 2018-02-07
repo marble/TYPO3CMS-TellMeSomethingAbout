@@ -66,4 +66,8 @@ See also
    ✦
    `Video: Drupal Layout Builder preview <https://www.youtube.com/watch?v=Hx4EEzI7aNE&feature=youtu.be>`__
    ✦
+   `Wordpress with Gutenberg <https://wordpress.org/gutenberg/>`__
+   ✦
+   `Video: Wordpress at 37:17 <https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/>`__
+   ✦
    
