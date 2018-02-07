@@ -53,7 +53,7 @@ Whatever
 __________________________________________________   
    
 See also
-   See:
+   ✦
    :doc:`Gridelements`
    ✦
    :doc:`CustomContentElements`
