@@ -13,10 +13,11 @@ Description
 
    
 Search
-   Search for: 
+   ✦
    `typo3+semantic+web <https://www.startpage.com/do/dsearch?query=typo3+semantic+web>`__
    ✦
    `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22semantic+web%22>`__
+   ✦
 
 __________________________________________________   
 
