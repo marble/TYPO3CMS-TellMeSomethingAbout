@@ -11,8 +11,10 @@ Description
    ((to be written))
    
 Search
-   Search for:
-   `typo3+structural+content+elements <https://www.startpage.com/do/dsearch?query=typo3+structural+content+elements>`__
+   ✦
+   `typo3+structural+content+elements 
+   <https://www.startpage.com/do/dsearch?query=typo3+structural+content+elements>`__
+   ✦
 
 __________________________________________________   
 
