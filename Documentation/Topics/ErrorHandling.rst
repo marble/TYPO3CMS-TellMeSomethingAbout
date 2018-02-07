@@ -15,9 +15,11 @@ Search
    ✦
    `typo3+error+handling <https://www.startpage.com/do/dsearch?query=typo3+error+handling>`__
    ✦
-   `typo3+page+error+handling <https://www.startpage.com/do/dsearch?query=typo3+page+error+handling>`__
+   `typo3+pagenotfound+handling <https://www.startpage.com/do/dsearch?query=typo3+pagenotfound+handling>`__
    ✦
    `typo3+page+not+found+handling <https://www.startpage.com/do/dsearch?query=typo3+page+not+found+handling>`__
+   ✦
+   `typo3+page+error+handling <https://www.startpage.com/do/dsearch?query=typo3+page+error+handling>`__
    ✦
    `php+error+handling" <https://www.startpage.com/do/dsearch?query=php+error+handling>`__
    ✦
