@@ -76,10 +76,10 @@ Whatever
 __________________________________________________
 
 Fluid template rendering engine - Standalone version
-   * `TYPO3.Fluid Rendering Engine: <https://github.com/TYPO3/Fluid>`__
-     "TYPO3 community template engine - composer-enabled, Flow/CMS dependency-free PSR-4 edition"
-     ✦
-     With `lots of docs <https://github.com/TYPO3/Fluid/tree/master/doc>`__
+   `TYPO3.Fluid Rendering Engine: <https://github.com/TYPO3/Fluid>`__
+   "TYPO3 community template engine - composer-enabled, Flow/CMS dependency-free PSR-4 edition"
+   ✦
+   With `lots of docs <https://github.com/TYPO3/Fluid/tree/master/doc>`__
 
 __________________________________________________
 
