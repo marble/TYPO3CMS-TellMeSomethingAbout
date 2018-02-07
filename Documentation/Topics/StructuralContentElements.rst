@@ -61,3 +61,6 @@ See also
    General example of a user story: :forge:`75671`
    ✦
    CSS `Grid by Example: No clearing required <https://gridbyexample.com/examples/example12/>`__
+   ✦
+   `Video: NEOS <https://www.youtube.com/watch?v=IuvMDSzpPLY>`__
+   
