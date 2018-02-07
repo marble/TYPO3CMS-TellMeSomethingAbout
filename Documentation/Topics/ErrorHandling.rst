@@ -30,8 +30,17 @@ Official documentation
    ✦
    :ref:`t3coreapi:error-handling`
    ✦
+   :ref:`t3tsref:setup-config-debug`
+   ✦
    :ref:`t3tsref:data-type-gettext-debug`
    ✦
+   :ref:`t3tsref:stdwrap-debug`
+   ✦
+   :ref:`t3tsref:stdwrap-debugfunc`
+   ✦
+   :ref:`t3tsref:stdwrap-debugdata`
+   ✦
+  
    
 Page error handling
    ✦
