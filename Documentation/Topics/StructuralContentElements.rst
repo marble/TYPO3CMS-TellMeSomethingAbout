@@ -61,4 +61,7 @@ See also
    CSS `Grid by Example: No clearing required <https://gridbyexample.com/examples/example12/>`__
    ✦
    `Video: NEOS <https://www.youtube.com/watch?v=IuvMDSzpPLY>`__
+   ✦
+   `Video: Drupal Layout Builder preview <https://www.youtube.com/watch?v=Hx4EEzI7aNE&feature=youtu.be>`__
+   ✦
    
