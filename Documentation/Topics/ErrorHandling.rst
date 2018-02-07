@@ -20,6 +20,9 @@ Search
 
 __________________________________________________
 
+Official documentation
+   * :ref:`t3coreapi:error-handling`
+
 Whatever
    ...
    
