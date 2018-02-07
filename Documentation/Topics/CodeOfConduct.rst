@@ -8,7 +8,7 @@ Code Of Conduct
 =================
 
 Description
-   ((to be written))
+   `Code of conduct for TYPO3 Events <https://typo3.org/community/event-code-of-conduct/>`__
    
 Search
    Search for: 
