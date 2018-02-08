@@ -8,12 +8,18 @@ Performance
 =======================
 
 Description
-   ((to be written))
+   ...
    
 Search
-   * Search for: `typo3+performance <https://www.startpage.com/do/dsearch?query=typo3+performance>`__
+   ✦ `typo3+performance <https://www.startpage.com/do/dsearch?query=typo3+performance>`__
+   ✦
 
-__________________________________________________   
+__________________________________________________
+
+Blogpostings
+   - 2018-02-07 Marcus Schwemer: `TYPO3 Performance – Caching, TypoScript and more
+     <https://typo3worx.eu/2018/02/typo3-performance-caching-typoscript/>`__
+
 
 Slides
    - 2017-10-01 (de) Marcus Schwemer:
