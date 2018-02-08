@@ -61,8 +61,8 @@ Tools
    * `portainer.io: <https://portainer.io/>`__
      "Manage your Docker environments with ease"
 
-Awaiting evaluation
-   ✦ `ddev: a local development environment management system <https://github.com/drud/ddev >`__
+To be evaluated
+   ✦ `ddev: a local development environment management system <https://github.com/drud/ddev>`__
    ✦
    
 Whatever
