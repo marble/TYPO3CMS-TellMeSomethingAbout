@@ -62,7 +62,7 @@ Tools
      "Manage your Docker environments with ease"
 
 To be evaluated
-   * 2018-02-08 `nagel/docker-typo3: WIP - Docker files for TYPO3 CMS <https://github.com/fnagel/docker-typo3>`__
+   ✦ 2018-02-08 `nagel/docker-typo3: WIP - Docker files for TYPO3 CMS <https://github.com/fnagel/docker-typo3>`__
    ✦ 2018-02-07 `ddev: a local development environment management system <https://github.com/drud/ddev>`__
    ✦
    
