@@ -20,8 +20,11 @@ Search
    `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
    ✦ 
    `dockerfile+reference <https://www.startpage.com/do/dsearch?query=dockerfile+reference>`__
+   ✦ 
+   `docker-compose+reference <https://www.startpage.com/do/dsearch?query=docker-compose+reference>`__
    ✦
-__________________________________________________   
+
+   __________________________________________________   
 
 Docker setups for TYPO3 development
    * `TYPO3 Docker Boilerplate project: <https://webdevops.io/projects/typo3-docker-boilerplate/>`__
