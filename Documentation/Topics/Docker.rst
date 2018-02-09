@@ -23,7 +23,7 @@ Search
    ✦
 __________________________________________________   
 
-Containers for TYPO3 development
+Docker setups for TYPO3 development
    * `TYPO3 Docker Boilerplate project: <https://webdevops.io/projects/typo3-docker-boilerplate/>`__
      (NGINX, Apache HTTPd, PHP-FPM, MySQL, Solr, Elasticsearch, Redis, FTP)
      ✦ 
