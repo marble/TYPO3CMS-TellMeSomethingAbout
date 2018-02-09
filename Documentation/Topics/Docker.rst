@@ -45,7 +45,7 @@ Docker setups for TYPO3 development
      `Dockerfile <https://github.com/thomaskieslich/TYPO3-docker-boilerplate/blob/0db2cd8b15539ff3fd050c385253b02a7c222694/Dockerfile.development#L64>`__ line 64 and 
      `php71.sh <https://github.com/thomaskieslich/TYPO3-docker-boilerplate/blob/ubuntu16.04-php7.1/etc/php/php71.sh>`__
    
-Container to render Documentation
+Docker image ready to render TYPO3 documentation
    * `t3docs/docker-render-documentation <https://github.com/t3docs/docker-render-documentation>`__
 
 Videos (de)
