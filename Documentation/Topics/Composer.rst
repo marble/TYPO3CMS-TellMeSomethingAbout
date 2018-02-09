@@ -23,6 +23,9 @@ Search
 __________________________________________________   
 
 Blogpostings (en)
+   * 2018-02-08 typo3.org: `Certificate issue with composer
+     <https://typo3.org/news/article/certificate-issue-with-composer/>`__
+     
    * 2018-02-02 Daniel Goerz:
      `The TYPO3 Subtree Split and Composer <https://usetypo3.com/typo3-subtree-split-and-composer.html>`__
      ✦
