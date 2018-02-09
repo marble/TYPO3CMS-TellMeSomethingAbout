@@ -16,11 +16,11 @@ Description
    
 
 Search
-   Search for:
+   ✦
    `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
    ✦ 
    `dockerfile+reference <https://www.startpage.com/do/dsearch?query=dockerfile+reference>`__
-
+   ✦
 __________________________________________________   
 
 Containers for TYPO3 development
