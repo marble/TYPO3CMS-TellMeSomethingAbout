@@ -70,4 +70,6 @@ See also
    ✦
    `Video: Wordpress at 37:17 <https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/>`__
    ✦
+   `Video: Visualcomposer for Wordpress <https://visualcomposer.io/>`__
+   ✦
 
