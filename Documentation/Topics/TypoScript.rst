@@ -29,6 +29,10 @@ Links
      <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/TypoScriptSyntax/Syntax/Includes.html>`__
 
 
+Videos
+   - 2018-02-16 `Feature Demo - New syntax for importing TypoScript files (Youtube)
+     <https://www.youtube.com/watch?v=kYkWl67udUQ>`__
+
 Whatever
    ...
 
