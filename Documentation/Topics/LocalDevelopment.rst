@@ -13,11 +13,6 @@ Description
    
 __________________________________________________
 
-In general
-==========
-
-...
-
 PhpStorm
 ========
 
@@ -25,6 +20,10 @@ Blogpostings
    * `(de) Several postings about TYPO3 extension development with PhpStorm
      <http://blog.chriwo.de/tagged/PhpStorm>`__
    
+
+Other tools
+===========
+
 Clever solutions
    ...
 
