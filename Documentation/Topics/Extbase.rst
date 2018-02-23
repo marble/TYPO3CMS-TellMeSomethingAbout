@@ -32,7 +32,7 @@ Blog-Example
      `ext:blog_example (Last update 2011-03-07) <https://extensions.typo3.org/extension/blog_example/>`__
      
 Whatever
-   ✦ ... ✦
+   ✦ ... ... ✦
    
 __________________________________________________   
 
