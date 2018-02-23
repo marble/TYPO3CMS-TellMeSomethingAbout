@@ -26,12 +26,14 @@ Search
 __________________________________________________   
    
 Blogpostings
-   ✦
-   `2014-03-18 (de) WebDevLog: TYPO3: Eine Extbase Extension per Typoscript einbinden
-   <http://blog.teamgeist-medien.de/2014/03/typo3-eine-extbase-extension-per-typoscript-einbinden.html>`__
-   ✦
+   * 2016-01-17 Torben Hansen:
+     `TYPO3 ExtBase - Hidden and deleted property of domain models
+     <https://www.derhansen.de/2016/01/typo3-extbase-hidden-and-deleted.html>`__
      
-Blog-Example
+   * `2014-03-18 (de) WebDevLog: TYPO3: Eine Extbase Extension per Typoscript einbinden
+     <http://blog.teamgeist-medien.de/2014/03/typo3-eine-extbase-extension-per-typoscript-einbinden.html>`__
+     
+The Blog-Example from the book
    * 2018-02-23 Probably the latest version is: 
      `plobacher/extbasebookexample <https://github.com/plobacher/extbasebookexample>`__,
      see the `extbasebook <https://leanpub.com/typo3extbase-en>`__ or
