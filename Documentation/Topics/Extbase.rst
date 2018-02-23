@@ -24,7 +24,9 @@ Blogpostings
      
 Blog-Example
    * 2018-02-23 Probably the latest version is: 
-     `plobacher/extbasebookexample <https://github.com/plobacher/extbasebookexample>`__
+     `plobacher/extbasebookexample <https://github.com/plobacher/extbasebookexample>`__,
+     see the `extbasebook <https://leanpub.com/typo3extbase-en>`__ or
+     `(de) Extbasebuch <https://leanpub.com/typo3extbase>`__
 
    * 2018-02-23 This version is outdated:
      `ext:blog_example (Last update 2011-03-07) <https://extensions.typo3.org/extension/blog_example/>`__
