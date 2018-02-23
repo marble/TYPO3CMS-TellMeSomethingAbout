@@ -11,7 +11,16 @@ Description
    ...
    
 Search
+   ✦
    `typo3+extbase <https://www.startpage.com/do/dsearch?query=typo3+extbase>`__
+   ✦
+   `mapOnProperty+crdate <https://www.google.de/search?q=mapOnProperty+crdate>`__
+   ✦
+   `mapOnProperty+hidden <https://www.google.de/search?q=mapOnProperty+hidden>`__
+   ✦
+   `mapOnProperty+deleted <https://www.google.de/search?q=mapOnProperty+deleted>`__
+   ✦
+   
 
 
 __________________________________________________   
