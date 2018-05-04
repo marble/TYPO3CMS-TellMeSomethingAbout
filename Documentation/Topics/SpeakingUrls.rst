@@ -46,11 +46,3 @@ Blogpostings
    <http://stichwort.org/typo3/kurze-urls-mit-extbase-und-realurl/>`__
    ✦
    
-   
-Whatever
-   ...
-   
-__________________________________________________
-
-See also
-   ...
