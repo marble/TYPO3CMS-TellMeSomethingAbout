@@ -1,6 +1,7 @@
 
 
 .. include:: ../Includes.txt
+.. highlight:: none
 
 .. _Speaking-Urls:
 
@@ -12,23 +13,19 @@ Speaking Urls
 .. _cooluri: https://extensions.typo3.org/extension/cooluri/
 
 Description
-
-   TYPO3 currently relies on external extensions like realurl_ and cooluri_ to transform its frontend URLs from 
-  
-   .. code-block::
-     
+   TYPO3 currently relies on external extensions like realurl_ and cooluri_ to transform its 
+   frontend URLs from::
+   
       www.mysite.com/index.php?id=12&L=1&tx_myext%5Bmyext%5D=1...
   
-   into a more understandable and SEO-friendly
-  
-   .. code-block::
-    
+   into a more understandable and SEO-friendly::
+      
       www.mysite.com/en/title-of-my-page/details/title-of-my-extension-record/
    
-   also, the webserver must be configured to rewrite urls; for example Apache must have the module :file:`mod_rewrite` installed and working.
+   For this to work the webserver must be configured to rewrite URLs. 
+   Apache, for example, must have the module `mod_rewrite` installed and working.
    
-   .. note::
-      An integrated solution is planned for the release of version 9 LTS    
+   *Note:* An integrated solution is planned for TYPO3 version 9 LTS.
    
    
 Search
