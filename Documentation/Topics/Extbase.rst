@@ -30,7 +30,7 @@ Blogpostings
      `TYPO3 ExtBase - Hidden and deleted property of domain models
      <https://www.derhansen.de/2016/01/typo3-extbase-hidden-and-deleted.html>`__
      
-   * `2014-03-18 (de) WebDevLog: TYPO3: Eine Extbase Extension per Typoscript einbinden
+   * 2014-03-18 (de) WebDevLog: `TYPO3: Eine Extbase Extension per Typoscript einbinden
      <http://blog.teamgeist-medien.de/2014/03/typo3-eine-extbase-extension-per-typoscript-einbinden.html>`__
      
 The Blog-Example from the book
@@ -43,10 +43,5 @@ The Blog-Example from the book
      `ext:blog_example (Last update 2011-03-07) <https://extensions.typo3.org/extension/blog_example/>`__
      
 Whatever
-   ✦ ... ... ✦
+   ✦ ... ✦
    
-__________________________________________________   
-
-See also
-   ...
-
