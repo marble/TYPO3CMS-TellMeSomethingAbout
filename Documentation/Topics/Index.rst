@@ -6,12 +6,11 @@
 Topics
 ===========================
 
-About topics
-   What is a topic?
-   
-   ((bündelt verschiedene Arten von Information zu einem Thema.))
-   
-   ((to be written))
+See `About contributing to :ref:`about` for information.
+
+
+.. todo: add Information about:  What is a topic?
+.. - collect various information about one topic
 
 .. toctree::
    :glob:
