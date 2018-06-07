@@ -20,7 +20,7 @@ __________________________________________________
 
 Blogpostings
    ✦
-   2018-06-06, Marcus Schwemer: `10 TYPO3 Commerce Solutions 
+   `2018-06-06, Marcus Schwemer: 10 TYPO3 Commerce Solutions 
    <https://typo3worx.eu/2018/06/ten-typo3-commerce-solutions/>`__
    ✦
    `(de) Mittwald: 9 unverzichtbare SEO-Maßnahmen für Onlineshops
