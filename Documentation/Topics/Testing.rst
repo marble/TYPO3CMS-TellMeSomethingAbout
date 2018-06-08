@@ -21,7 +21,7 @@ Search
 __________________________________________________   
 
 Blog posts
-   * 2018-06-08, Daniel Siepmann: `Executing TYPO3 acceptance tests
+   * `2018-06-08, Daniel Siepmann: Executing TYPO3 acceptance tests
      <https://daniel-siepmann.de/Posts/2018/2018-06-08-executing-typo3-acceptance-tests.html>`__
 
 __________________________________________________   
