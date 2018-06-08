@@ -8,10 +8,15 @@ Sitepackages
 ==================
 
 Description
-   ((to be written))
+   …
    
 Search
    * Search for: `typo3+sitepackage <https://www.startpage.com/do/dsearch?query=typo3+sitepackage>`__
+
+__________________________________________________   
+
+Tutorials
+   * https://docs.typo3.org/typo3cms/SitePackageTutorial/
 
 __________________________________________________   
 
@@ -31,10 +36,3 @@ Videos
 Featured packages
    * https://github.com/thomaskieslich/tksite
 
-Whatever
-   ...
-
-__________________________________________________
-
-See also
-   ...
