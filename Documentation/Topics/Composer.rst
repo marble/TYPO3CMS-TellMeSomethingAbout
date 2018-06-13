@@ -26,10 +26,10 @@ Blogpostings (en)
    * 2018-06-13, Helmut Hummel: `Improvements to composer.typo3.org
      <https://insight.helhum.io/post/174851830180/improvements-to-composertypo3org>`__
 
-   * 2018-02-08 typo3.org: `Certificate issue with composer
+   * 2018-02-08, typo3.org: `Certificate issue with composer
      <https://typo3.org/news/article/certificate-issue-with-composer/>`__
      
-   * 2018-02-02 Daniel Goerz:
+   * 2018-02-02, Daniel Goerz:
      `The TYPO3 Subtree Split and Composer <https://usetypo3.com/typo3-subtree-split-and-composer.html>`__
      ✦
      `Tweet <https://twitter.com/ervaude/status/959435077372600321>`__
