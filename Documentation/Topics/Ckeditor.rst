@@ -50,6 +50,9 @@ Blogpostings (de)
 Links
    * https://ckeditor.com/
    
+   * Article: `Status of the Frontend Editor (2017-09-21)
+     <https://typo3.org/article/status-of-the-frontend-editor/>`__
+     
    * Image support for CKEditor for TYPO3:
      `ext:rte_ckeditor_image
      <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor_image/>`__
