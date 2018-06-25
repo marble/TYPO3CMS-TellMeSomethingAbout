@@ -66,7 +66,7 @@ Tools
       Lint utility for TYPO3 Fluid templates
 
    *  `FluidConverter <http://www.fluid-converter.com/>`__: Convert Fluid tags
-      into inline notation
+      into inline notation | `source code <https://github.com/stat1x/fluid-converter>`__
 
       .. figure:: Fluid-FluidConverter.png
          :width:  50 %
