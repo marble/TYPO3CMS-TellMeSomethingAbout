@@ -10,7 +10,7 @@ Rendered: |today|
 
 This manual contains frequently searched topics with explanations and links.
 
-:Title:        Tell Me Something About X
+:Title:        Tell Me Something About Topic X
 :Author:       TYPO3 Documentation Team
 :Description:  Frequently searched topics with explanations and links
 :Published at:  https://docs.typo3.org/typo3cms/TellMeSomethingAbout/
