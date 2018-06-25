@@ -11,7 +11,9 @@ Fluid
 Description
    What is Fluid?
 
-   Possible catchwords
+   Fluid is an XML based templating engine. It was born when making
+   FLOW3 and Phoenix which are now named FLOW and NEOS.
+   Nowadays Fluid is a `standalone project <https://github.com/TYPO3/Fluid>`__.
 
    | Templating engine
 
