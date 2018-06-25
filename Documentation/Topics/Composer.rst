@@ -33,5 +33,9 @@ Blogpostings (en)
      `The TYPO3 Subtree Split and Composer <https://usetypo3.com/typo3-subtree-split-and-composer.html>`__
      ✦
      `Tweet <https://twitter.com/ervaude/status/959435077372600321>`__
+     
+Presentations
+   * 2018-06-23, Helmut Hummel: `Your Perfect TYPO3 Distribution
+     <https://speakerdeck.com/helhum/your-perfect-typo3-distribution>`__
 
    
