@@ -33,7 +33,13 @@ Blogpostings (en)
      `The TYPO3 Subtree Split and Composer <https://usetypo3.com/typo3-subtree-split-and-composer.html>`__
      ✦
      `Tweet <https://twitter.com/ervaude/status/959435077372600321>`__
-     
+
+Composer and TYPO3 extensions
+   * `TYPO3 CMS Composer Package Generator <https://github.com/TYPO3/CmsComposerPackageGenerator>`__
+
+        This script generates among other a custom packages.json enabling 
+        to deploy TYPO3 CMS packages by Composer. 
+
 Presentations
    * 2018-06-23, Helmut Hummel: `Your Perfect TYPO3 Distribution
      <https://speakerdeck.com/helhum/your-perfect-typo3-distribution>`__
