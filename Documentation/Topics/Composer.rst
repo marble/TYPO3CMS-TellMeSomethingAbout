@@ -37,8 +37,9 @@ Blogpostings (en)
 Composer and TYPO3 extensions
    * `TYPO3 CMS Composer Package Generator <https://github.com/TYPO3/CmsComposerPackageGenerator>`__
 
-        This script generates among other a custom packages.json enabling 
-        to deploy TYPO3 CMS packages by Composer. 
+        This script generates among other things it does a custom 
+        :file:`packages.json` file enabling to deploy TYPO3 CMS 
+        packages by Composer. 
 
 Presentations
    * 2018-06-23, Helmut Hummel: `Your Perfect TYPO3 Distribution
