@@ -8,7 +8,7 @@ Performance
 =======================
 
 Description
-   ...
+   …
    
 Search
    ✦ `typo3+performance <https://www.startpage.com/do/dsearch?query=typo3+performance>`__
@@ -17,8 +17,11 @@ Search
 __________________________________________________
 
 Blogpostings
-   - 2018-02-07 Marcus Schwemer: `TYPO3 Performance – Caching, TypoScript and more
-     <https://typo3worx.eu/2018/02/typo3-performance-caching-typoscript/>`__
+   *  2018-08-09 Marcus Schwemer: `TYPO3 Performance – TYPO3 CMS and extensions
+      <https://typo3worx.eu/2018/08/typo3-performance-typo3-cms-extensions/>`__
+
+   *  2018-02-07 Marcus Schwemer: `TYPO3 Performance – Caching, TypoScript and more
+      <https://typo3worx.eu/2018/02/typo3-performance-caching-typoscript/>`__
 
 
 Slides
@@ -26,10 +29,3 @@ Slides
      `Die sieben Schichten der TYPO3 Performance
      <https://www.slideshare.net/mschwemer/typo3-performance-typo3camp-hh-2017>`__
 
-Whatever
-   ...
-
-__________________________________________________
-
-See also
-   ...
