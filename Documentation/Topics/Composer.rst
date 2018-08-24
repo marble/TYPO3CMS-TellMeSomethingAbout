@@ -45,6 +45,9 @@ Documentation
    * 2018-07-31, Installation guide: `How to upgrade an existing TYPO3 installation to Composer
      <https://docs.typo3.org/typo3cms/InstallationGuide/MigrateToComposer/Index.html>`__
      
+Explore this
+   * `Private Packagist <https://packagist.com/>` - Composer package archive as a service for PHP
+     
 Presentations
    * 2018-06-23, Helmut Hummel: `Your Perfect TYPO3 Distribution
      <https://speakerdeck.com/helhum/your-perfect-typo3-distribution>`__
