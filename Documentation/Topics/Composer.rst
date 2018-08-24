@@ -46,7 +46,11 @@ Documentation
      <https://docs.typo3.org/typo3cms/InstallationGuide/MigrateToComposer/Index.html>`__
      
 Explore this
-   * `Private Packagist <https://packagist.com/>` - Composer package archive as a service for PHP
+   * `Private Packagist <https://packagist.com/>`__ - Composer package archive as a service for PHP
+     ✦
+     `Tweet <https://twitter.com/helhum/status/1032911116157034496>`__
+ 
+   
      
 Presentations
    * 2018-06-23, Helmut Hummel: `Your Perfect TYPO3 Distribution
