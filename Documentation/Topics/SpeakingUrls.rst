@@ -45,4 +45,11 @@ Blogpostings
    (de) URL mit Realurl und Extbase möglichst kurz machen
    <http://stichwort.org/typo3/kurze-urls-mit-extbase-und-realurl/>`__
    ✦
+ __________________________________________________
+
+Development
+   ✦ 
+   Adding core feature `[FEATURE] Introduce Page-based URL handling
+   <https://github.com/TYPO3/TYPO3.CMS/commit/6308b461916daaccc2e08f60d069c8082f1390c9>`__
+   ✦
    
