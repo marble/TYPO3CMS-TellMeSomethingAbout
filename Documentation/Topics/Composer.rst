@@ -41,6 +41,12 @@ Composer and TYPO3 extensions
         :file:`packages.json` file enabling to deploy TYPO3 CMS 
         packages by Composer. 
 
+Composer patches instead of TYPO3 xclassing
+   * `Simple patches plugin for Composer <https://github.com/cweagans/composer-patches>`__
+     ✦
+     `Tweet <https://twitter.com/xperseguers/status/1034807948386742273>`__
+
+
 Documentation
    * 2018-07-31, Installation guide: `How to upgrade an existing TYPO3 installation to Composer
      <https://docs.typo3.org/typo3cms/InstallationGuide/MigrateToComposer/Index.html>`__
