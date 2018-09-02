@@ -8,7 +8,11 @@ What's new in TYPO3?
 ====================
 
 Description
-   ((to be written))
+   Every TYPO3 release (except bugfix releases) comes with new features, changes
+   and improvements. Due to the number of changes, it is sometimes not easy to
+   keep track.
+   
+   The following resources can be used to learn what's new in each TYPO3 release.   
    
 Search
    Search for:
@@ -20,7 +24,7 @@ Changes
    * `TYPO3 CMS Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/>`__
 
 Release notes
-   * `Release notes <https://typo3.org/download/release-notes/>`__
+   * `Release notes <https://get.typo3.org/release-notes/>`__ of the latest TYPO3 version
 
 Blogpostings
    * 2018-02-04 Marcus Schwemer:
@@ -29,7 +33,7 @@ Blogpostings
    
 What's New Slides
    .. figure:: WhatsNewInTypo3-450.png
-      :target: https://typo3.org/download/release-notes/whats-new/
+      :target: https://typo3.org/help/documentation/whats-new/
       :alt:    Teaser What's new in TYPO3 v9.1?
       :class:  with-shadow
       :scale:  50 %
