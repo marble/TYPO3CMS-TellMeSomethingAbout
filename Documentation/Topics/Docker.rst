@@ -27,6 +27,12 @@ Search
    __________________________________________________   
 
 Docker setups for TYPO3 development
+   * 2018-09-15 (de), speakerdeck, Peter Kraume: 
+     `Lokale TYPO3-Entwicklungsumgebung mit DDEV
+     <https://speakerdeck.com/peterkraume/lokale-typo3-entwicklungsumgebung-mit-ddev>`__
+     ✦ 
+     `Tweet <https://twitter.com/Cybersmog/status/1041584566081925121/photo/1>`__
+     
    * `TYPO3 Docker Boilerplate project: <https://webdevops.io/projects/typo3-docker-boilerplate/>`__
      (NGINX, Apache HTTPd, PHP-FPM, MySQL, Solr, Elasticsearch, Redis, FTP)
      ✦ 
