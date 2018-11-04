@@ -66,7 +66,7 @@ Explore this
 Presentations
    * 2018-11-04, Helmut Hummel, live at #t3crr:
 
-     ::
+     * ::
         
              composer create-project helhum/typo3-distribution
              
@@ -79,8 +79,8 @@ Presentations
              composer require foo/bar
              
              
-        * https://github.com/helhum/typo3-distribution
-        * https://packagist.org/ - points to the repository of the package.
+     * https://github.com/helhum/typo3-distribution
+     * https://packagist.org/ - points to the repository of the package.
           Example: https://github.com/helhum/typo3-console
 
    * 2018-06-23, Helmut Hummel: `Your Perfect TYPO3 Distribution
