@@ -64,9 +64,9 @@ Explore this
    
      
 Presentations
-
    * 2018-11-04, Helmut Hummel, live at #t3crr:
-      * ::
+
+     ::
         
              composer create-project helhum/typo3-distribution
              
