@@ -24,6 +24,9 @@ Search
 
 __________________________________________________   
 
+Important
+   * https://composer.typo3.org (docs)
+   
 Blogpostings (en)
    * 2018-06-13, Helmut Hummel: `Improvements to composer.typo3.org
      <https://insight.helhum.io/post/174851830180/improvements-to-composertypo3org>`__
