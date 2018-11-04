@@ -77,6 +77,9 @@ Presentations
              # composer install
              
              composer require foo/bar
+             # lookup packagist for newest version of package
+             # change (or create) composer.json
+             # composer update foo/bar
              
              
      * https://github.com/helhum/typo3-distribution
