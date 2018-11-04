@@ -64,7 +64,19 @@ Presentations
 
    * 2018-11-04, Helmut Hummel, live at #t3crr:
    
-        * composer create-project helhum/typo3-distribution
+        * ::
+        
+             composer create-project helhum/typo3-distribution
+             
+             composer create-project foo/bar project-folder
+             # lookup packagist for <repo-url>
+             # git clone <repo-url> project-folder
+             # cd project-folder
+             # composer install
+             
+             composer require foo/bar
+             
+             
         * https://github.com/helhum/typo3-distribution
         * https://packagist.org/ - points to the repository of the package.
           Example: https://github.com/helhum/typo3-console
