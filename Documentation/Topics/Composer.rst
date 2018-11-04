@@ -10,6 +10,8 @@ Composer
 .. _composer: https://getcomposer.org/
 
 
+2018-11-04
+
 Description
    What is composer?
    
@@ -59,6 +61,12 @@ Explore this
    
      
 Presentations
+
+   * 2018-11-04, Helmut Hummel, live at #t3crr:
+   
+        * composer create-project helhum/typo3-distribution
+        * https://github.com/helhum/typo3-distribution
+
    * 2018-06-23, Helmut Hummel: `Your Perfect TYPO3 Distribution
      <https://speakerdeck.com/helhum/your-perfect-typo3-distribution>`__
 
