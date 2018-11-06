@@ -12,6 +12,8 @@ Speaking Urls
 .. _realurl: https://extensions.typo3.org/extension/realurl/
 .. _cooluri: https://extensions.typo3.org/extension/cooluri/
 
+2018-11-07
+
 Description
    TYPO3 currently relies on external extensions like realurl_ and cooluri_ to transform its 
    frontend URLs from::
@@ -52,4 +54,8 @@ Development
    Adding core feature `[FEATURE] Introduce Page-based URL handling
    <https://github.com/TYPO3/TYPO3.CMS/commit/6308b461916daaccc2e08f60d069c8082f1390c9>`__
    ✦
-   
+
+Solutions
+   `How to add the trailing slash TYPO3 v9 urls 
+   <https://stackoverflow.com/questions/53144596/how-a-add-an-appending-to-typo3-v9-urls>`__
+
