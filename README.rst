@@ -5,6 +5,7 @@ Navigation: \|
 `Changes <CHANGES.rst>`__ \|
 `License <LICENSE.rst>`__ \|
 `Version <VERSION.rst>`__ \|
+`Contributing <CONTRIBUTING.md>`__ \|
 
 =========================================
 Documentation: "Tell Me Something About…"
