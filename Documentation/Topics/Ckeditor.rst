@@ -21,6 +21,9 @@ Search
    
 __________________________________________________   
 
+Official Documentation (en)
+   * `rte_ckeditor <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>`__
+
 Blogpostings (en)
    * 2017-12-25 Daniel Goerz:
      `Feature Spotlight: CKEditor 
