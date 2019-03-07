@@ -26,7 +26,7 @@ Blogpostings
 FLUIDTEMPLATE
 =============
 
-   * https://docs.typo3.org/typo3cms/TemplatingTutorial/
+* https://docs.typo3.org/typo3cms/TemplatingTutorial/
 
 Other templating
 ================
