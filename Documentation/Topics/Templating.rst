@@ -8,7 +8,7 @@ Templating
 ========================================================
 
 Description
-   ((to be written))
+   …
    
 Search
    ✦
@@ -26,7 +26,7 @@ Blogpostings
 FLUIDTEMPLATE
 =============
 
-...
+   * https://docs.typo3.org/typo3cms/TemplatingTutorial/
 
 Other templating
 ================
