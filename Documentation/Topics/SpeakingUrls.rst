@@ -12,7 +12,7 @@ Speaking Urls
 .. _realurl: https://extensions.typo3.org/extension/realurl/
 .. _cooluri: https://extensions.typo3.org/extension/cooluri/
 
-2018-11-07
+2019-03-08
 
 Description
    TYPO3 currently relies on external extensions like realurl_ and cooluri_ to transform its 
@@ -42,6 +42,9 @@ Search
 __________________________________________________
 
 Blogpostings
+   ✦ 
+   2018-10-14, Marcus Schwemer: `TYPO3 Site Management and Routing
+   <https://typo3worx.eu/2018/10/typo3-site-management-and-routing/>`__
    ✦
    `(de) 2018-02-14 stichwort.org:
    (de) URL mit Realurl und Extbase möglichst kurz machen
