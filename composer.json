@@ -1,0 +1,9 @@
+{
+    "name": "typo3/guide-tell-me-something-about",
+    "type": "typo3-cms-documentation",
+    "description": "This manual contains lists of topics that are frequently searched for. The plan is to add explanations and links over the time.",
+    "license": "OPL-1.0",
+    "require": {
+      "typo3/cms-core": "^9.5"
+    }
+}
