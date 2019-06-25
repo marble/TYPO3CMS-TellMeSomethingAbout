@@ -9,17 +9,15 @@ Custom Content Elements
 
 Description
    What are 'Custom Content Elements'?
-   
+
    ...
-   
+
 Search
-   Search for: 
+   Search for:
    `typo3+custom+content+elements <https://www.startpage.com/do/dsearch?query=typo3+custom+content+elements>`__
 
 __________________________________________________
 
-Blogpostings
-   * 2017-07-12 (de) Mittwald: `Steckbrief Extension Mask <>`__
 
 Links
    `ext:mask <https://extensions.typo3.org/extension/mask/>`__
@@ -28,12 +26,7 @@ Links
    ✦
    `github:tkcontent <https://github.com/thomaskieslich/tkcontent>`__
 
-
-   
-Whatever
-   ...
-
-__________________________________________________   
+__________________________________________________
 
 See also
    * :doc:`StructuralContentElements`

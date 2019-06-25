@@ -40,18 +40,10 @@ Official documentation
    ✦
    :ref:`t3tsref:stdwrap-debugdata`
    ✦
-  
-   
+
+
 Page error handling
    ✦
    `ext:pagenotfoundhandling <https://extensions.typo3.org/extension/pagenotfoundhandling/>`__
-   ✦
 
-
-Whatever
-   ...
-   
 __________________________________________________
-
-See also
-   ✦ ... ✦
