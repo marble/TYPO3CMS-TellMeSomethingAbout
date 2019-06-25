@@ -7,16 +7,15 @@
 Caching
 =================
 
-Description
-   …
-   
-Search
-   …
-   
-__________________________________________________   
-   
+Official Documentation
+======================
+
+* :ref:`t3coreapi:caching`
+
 Videos
-   * 
-     + Caching basics
-     + .. youtube:: https://youtu.be/UUW2YE3Tnp0
-   
+======
+
+2017-10-27 by Benni Mack: "Tutorial - Caching Basics"
+
+.. youtube:: UUW2YE3Tnp0
+
