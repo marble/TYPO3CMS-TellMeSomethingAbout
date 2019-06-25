@@ -7,16 +7,10 @@
 Caching
 =================
 
-Description
-   …
-   
-Search
-   …
-   
-__________________________________________________   
+__________________________________________________
    
 Videos
-   * 
+   *
      + Caching basics
-     + .. youtube:: https://youtu.be/UUW2YE3Tnp0
-   
+     + .. youtube:: UUW2YE3Tnp0
+
