@@ -8,22 +8,27 @@ Extbase
 =================
 
 Description
-   ...
-
-Search
-   ✦
-   `typo3+extbase <https://www.startpage.com/do/dsearch?query=typo3+extbase>`__
-   ✦
-   `mapOnProperty+crdate <https://www.google.de/search?q=mapOnProperty+crdate>`__
-   ✦
-   `mapOnProperty+hidden <https://www.google.de/search?q=mapOnProperty+hidden>`__
-   ✦
-   `mapOnProperty+deleted <https://www.google.de/search?q=mapOnProperty+deleted>`__
-   ✦
-
-
-
+ Extbase is a framework for extension development. It is part of the TYPO3
+ core as the system extension `extbase`.
 __________________________________________________
+
+Official Documentation
+
+* :ref:`t3extbasebook:start`
+
+This official book is part of the official documentation. It is currently
+partly outdated.
+
+.. tip::
+
+   For TYPO3 9, you may want to check out the 3rd edition of
+   the book `Michael Schams: "TYPO3 Extbase: Modern Extension
+   Development for TYPO3 CMS with Extbase & Fluid"
+   <https://www.extbase-book.org/>`__. This is *not official
+   TYPO3 documentation*, but it was just released for TYPO3 9
+   and should be up to date.
+_______________________________________________
+
 
 Blogpostings
    * 2016-01-17 Torben Hansen:
