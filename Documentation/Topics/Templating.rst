@@ -9,7 +9,7 @@ Templating
 
 Description
    …
-   
+
 Search
    ✦
    `typo3+templating <https://www.startpage.com/do/dsearch?query=typo3+templating>`__
@@ -28,11 +28,3 @@ FLUIDTEMPLATE
 
 * https://docs.typo3.org/typo3cms/TemplatingTutorial/
 
-Other templating
-================
-
-...
-
-Whatever
-   ✦ ... ✦
-   
