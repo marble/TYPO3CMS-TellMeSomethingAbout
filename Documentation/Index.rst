@@ -13,7 +13,7 @@ This manual contains frequently searched topics with explanations and links.
 :Title:        Tell Me Something About Topic X
 :Author:       TYPO3 Documentation Team
 :Description:  Frequently searched topics with explanations and links
-:Published at:  https://docs.typo3.org/typo3cms/TellMeSomethingAbout/
+:Published at:  https://docs.typo3.org/m/typo3/guide-tell-me-something-about/master/en-us/
 :Repository:   https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/
 :License:      `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__
 :Contribute:   :ref:`How to contribute <h2document:docs-contribute>`
