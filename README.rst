@@ -14,7 +14,7 @@ Documentation: "Tell Me Something About…"
 :Title:        Tell Me Something About…
 :Author:       TYPO3 Documentation Team
 :Description:  Frequently searched topics with explanations and links
-:Publication:  https://docs.typo3.org/typo3cms/TellMeSomethingAbout/
+:Publication:  https://docs.typo3.org/m/typo3/guide-tell-me-something-about/master/en-us/
 :Repository:   https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/
 :License:      `Creative Commons (CC BY 4.0) <LICENSE.rst>`__
 :Contribute:   `How to contribute <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/About/Index.html#how-to-contribute>`__
