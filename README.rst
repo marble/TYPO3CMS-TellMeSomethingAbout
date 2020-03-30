@@ -1,4 +1,8 @@
-This is README.rst
+|badge| This is README.rst
+
+.. |badge| image:: https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/workflows/CI/badge.svg
+   :alt: CI.yml
+   :target: https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/actions?query=workflow%3ACI
 
 Navigation: \|
 `Read Me <README.rst>`__  \|
