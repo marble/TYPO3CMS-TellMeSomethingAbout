@@ -63,7 +63,7 @@ Blogpostings
    * 2017-12-25 Daniel Goerz:
      `Claus Due's 24 useful tips and tricks <https://usetypo3.com/24-fluid-tips.html>`__
      In December 2017 Claus Due (developer and maintainer of TYPO3 Fluid) shared 24 useful tips and tricks.
-     This post rebublishes all of them for future reference.
+     This post republishes all of them for future reference.
 
 Debugging
    * 2018-02-05 TYPO3 CMS Fluid Debugging Assistant
