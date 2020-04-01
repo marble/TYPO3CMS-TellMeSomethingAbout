@@ -15,7 +15,7 @@ How to add your new topic
    
    .. tip:: 
    
-      Just start somehow. The TYPO3 Documentation Team will give assistence.
+      Just start somehow. The TYPO3 Documentation Team will give assistance.
 
 Description
    ((to be written))
