@@ -13,7 +13,7 @@ Description
    TypoScript is a notation used within TYPO3 to specify data structures.
    It can be compared to Json or Yaml. The main purpose of TypoScript
    is its role in page generation. TYPO3 first compile a very large array
-   when a page is requested. It then follows predefined pattern to interprete the
+   when a page is requested. It then follows predefined pattern to interpret the
    data in the array as tags ...
 
 Search
