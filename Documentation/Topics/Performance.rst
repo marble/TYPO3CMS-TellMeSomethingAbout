@@ -23,3 +23,8 @@ Blogpostings
    *  2018-02-07 Marcus Schwemer: `TYPO3 Performance – Caching, TypoScript and more
       <https://typo3worx.eu/2018/02/typo3-performance-caching-typoscript/>`__
 
+   *  2017-08-18 NITSAN: `30 Tips & Tricks for Optimum TYPO3 Website Speed and Performance
+      <https://www.nitsan.in/blog/30-tips-tricks-for-optimum-typo3-website-speed-and-performance/>`__
+      
+   *  2020-02-13 T3Terminal: `45+ Ultimate Ways to Speed Up Your TYPO3 Performance
+      <https://t3terminal.com/blog/typo3-speed-performance/>`__
