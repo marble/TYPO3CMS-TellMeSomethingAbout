@@ -20,9 +20,14 @@ Search
 __________________________________________________
 
 Blogpostings
+
    * 2017-12-07 Marcus Schwemer:
      `Deploy TYPO3 CMS using TYPO3 Surf
      <https://typo3worx.eu/2016/12/deploy-typo3-cms-using-typo3-surf/>`__
+     
+   * 2020-07-17 T3Terminal:
+     `Automise Your TYPO3 Deployment (2020)
+     <https://t3terminal.com/blog/typo3-deploy/>`__
 
 
 Tools
