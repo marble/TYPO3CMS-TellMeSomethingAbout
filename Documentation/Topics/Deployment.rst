@@ -20,6 +20,11 @@ Search
 __________________________________________________
 
 Blogpostings
+
+   * 2020-08-21 T3Terminal:
+     `Manual or Automatic Deployment to TYPO3 Extensions to TER
+     <https://t3terminal.com/blog/ter-typo3-extensions/>`__
+
    * 2017-12-07 Marcus Schwemer:
      `Deploy TYPO3 CMS using TYPO3 Surf
      <https://typo3worx.eu/2016/12/deploy-typo3-cms-using-typo3-surf/>`__
