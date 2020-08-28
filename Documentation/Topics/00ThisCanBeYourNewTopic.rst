@@ -2,31 +2,26 @@
 
 .. include:: ../Includes.txt
 
-.. _This-can-be-your-new-topic:
+.. typo3-security:
 
-========================================================
-THIS CAN BE YOUR NEW TOPIC
-========================================================
+==============
+TYPO3 Security
+==============
 
-How to add your new topic
-   You want to add a topic that is not in the portfolio yet?
-   
-   Start writing here.
-   
+Topics about TYPO3 security
+      
    .. tip:: 
    
-      Just start somehow. The TYPO3 Documentation Team will give assistance.
+      ((to be written))
 
 Description
    ((to be written))
    
-   Should always be present first.
-   
 Search
    ✦
-   `typo3+clever+search <https://www.startpage.com/do/dsearch?query=typo3+clever+search>`__
+   `typo3+security <https://www.startpage.com/do/dsearch?query=typo3+securityh>`__
    ✦
-   `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22clever+search%22>`__
+   `typo3+"security" <https://www.startpage.com/do/dsearch?query=typo3+%22security%22>`__
    ✦
 
 .. use 50 underscores to mark a transition (= hr = horizontal line)
@@ -38,7 +33,18 @@ __________________________________________________
 Here are some ideas:
 
 Blogpostings
-   ...
+
+   * 2020-08-28 T3Terminal:
+     `Quick Guide to Harden TYPO3 Security
+     <https://t3terminal.com/blog/typo3-security-web/>`__
+     
+   * 2020-05-29 T3Terminal:
+     `30 Steps to Improve Your TYPO3 Security
+     <https://t3terminal.com/blog/typo3-security/>`__
+     
+   * 2019-05-01 NITSAN:
+     `How To Secure Your TYPO3 Sites From Hack Attempts?
+     <https://www.nitsan.in/blog/how-to-secure-your-typo3-sites-from-hack-attempts/>`__
    
 Clever solution
    ...
