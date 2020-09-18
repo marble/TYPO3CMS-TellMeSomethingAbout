@@ -18,6 +18,9 @@ Search
 
 __________________________________________________
 
+Blogpostings (en)
+   * 2020-09-18, T3Terminal: `Learn TYPO3 Custom Elements with Core Ways
+     <https://insight.helhum.io/post/174851830180/improvements-to-composertypo3org>`__
 
 Links
    `ext:mask <https://extensions.typo3.org/extension/mask/>`__
