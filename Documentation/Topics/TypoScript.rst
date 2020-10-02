@@ -27,6 +27,9 @@ Links
 
    - `How to include TypoScript files
      <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/TypoScriptSyntax/Syntax/Includes.html>`__
+     
+   - `21 TypoScript Conditions Cheatsheet
+     <https://t3terminal.com/blog/typoscript-conditions-cheatsheet/>`__
 
 
 Videos
