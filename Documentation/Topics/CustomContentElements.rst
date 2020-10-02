@@ -18,6 +18,11 @@ Search
 
 __________________________________________________
 
+Blogpostings (en)
+
+   * 2020-09-18, T3Terminal: `Learn TYPO3 Custom Elements with Core Ways
+     <https://t3terminal.com/blog/typo3-custom-elements/>`__
+
 
 Links
    `ext:mask <https://extensions.typo3.org/extension/mask/>`__
