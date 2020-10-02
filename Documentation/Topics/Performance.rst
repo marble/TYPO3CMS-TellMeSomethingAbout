@@ -17,6 +17,10 @@ Search
 __________________________________________________
 
 Blogpostings
+
+   *  2020-10-02 T3Terminal: `TYPO3 Speed & Performance - Essential Extensions!
+      <https://t3terminal.com/blog/typo3-performance-extension/>`__
+
    *  2018-08-09 Marcus Schwemer: `TYPO3 Performance – TYPO3 CMS and extensions
       <https://typo3worx.eu/2018/08/typo3-performance-typo3-cms-extensions/>`__
 
