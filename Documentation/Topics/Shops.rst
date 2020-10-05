@@ -19,8 +19,11 @@ Search
 __________________________________________________
 
 Blogpostings
-   ✦
-   `2018-06-06, Marcus Schwemer: 10 TYPO3 Commerce Solutions
-   <https://typo3worx.eu/2018/06/ten-typo3-commerce-solutions/>`__
+   *  `2020-04-28, T3Terminal: 8 Best TYPO3 Ecommerce Extensions For Your TYPO3 Shop
+      <https://t3terminal.com/blog/typo3-shop-ecommerce-extensions/>`__
+
+   *  `2018-06-06, Marcus Schwemer: 10 TYPO3 Commerce Solutions
+      <https://typo3worx.eu/2018/06/ten-typo3-commerce-solutions/>`__
+   
 
 __________________________________________________
