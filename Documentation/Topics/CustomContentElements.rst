@@ -1,6 +1,4 @@
-
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _tmsa-Custom-Content-Elements:
 
 =======================
@@ -10,7 +8,6 @@ Custom Content Elements
 Description
    What are 'Custom Content Elements'?
 
-   ...
 
 Search
    Search for:
@@ -18,9 +15,10 @@ Search
 
 __________________________________________________
 
-Blogpostings (en)
-   * 2020-09-18, T3Terminal: `Learn TYPO3 Custom Elements with Core Ways
-     <https://insight.helhum.io/post/174851830180/improvements-to-composertypo3org>`__
+Blog postings (en)
+   •  2020-09-18, T3Terminal: `Learn TYPO3 Custom Elements with Core Ways
+      <https://t3terminal.com/blog/typo3-custom-elements/>`__
+
 
 Links
    `ext:mask <https://extensions.typo3.org/extension/mask/>`__
@@ -32,4 +30,4 @@ Links
 __________________________________________________
 
 See also
-   * :doc:`StructuralContentElements`
+   •  :doc:`StructuralContentElements`
