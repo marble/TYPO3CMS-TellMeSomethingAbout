@@ -1,5 +1,4 @@
-
-.. include:: ../Includes.txt
+.. include:: /Includes.txt
 
 .. _tmsa-Deployment:
 
@@ -20,6 +19,10 @@ Search
 __________________________________________________
 
 Blogpostings
+   * 2020-08-21 T3Terminal:
+     `Manual or Automatic Deployment to TYPO3 Extensions to TER
+     <https://t3terminal.com/blog/ter-typo3-extensions/>`__
+
    * 2020-07-17 T3Terminal:
      `Automise Your TYPO3 Deployment (2020)
      <https://t3terminal.com/blog/typo3-deploy/>`__
@@ -27,7 +30,7 @@ Blogpostings
    * 2017-12-07 Marcus Schwemer:
      `Deploy TYPO3 CMS using TYPO3 Surf
      <https://typo3worx.eu/2016/12/deploy-typo3-cms-using-typo3-surf/>`__
-     
+
 
 Tools
    * `TYPO3/Surf: <https://github.com/TYPO3/Surf>`__ Easy and powerful deployment tool
