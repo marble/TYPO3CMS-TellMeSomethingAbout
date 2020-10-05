@@ -27,9 +27,31 @@ Release notes
    * `Release notes <https://get.typo3.org/release-notes/>`__ of the latest TYPO3 version
 
 Blogpostings
+   * 2020-04-10 T3Terminal: 
+     `TYPO3 v10 Series 5: 40+ Enhancement in TYPO3 v10 for Developers
+     <https://t3terminal.com/blog/40-enhancement-in-typo3-v10-for-developers-series-5/>`__
+
+   * 2020-03-28 T3Terminal:
+     `TYPO3 v10 Series 4: 21 Limelights in TYPO3 v10 for Integrators
+     <https://t3terminal.com/blog/21-limelights-in-typo3-v10-for-integrators-series-4/>`__
+   
+   * 2020-03-19 T3Terminal:
+     `TYPO3 v10 Series 3: 7 Highlights for Administrators
+     <https://t3terminal.com/blog/7-highlights-for-administrators-in-typo3-v10-series-3/>`__
+   
+   * 2020-03-12 T3Terminal:
+     `TYPO3 v10 Series 2: 10 Spotlights for Editors
+     <https://t3terminal.com/blog/10-spotlights-for-editors-in-typo3-v10-series-2/>`__
+   
+   * 2020-03-05 T3Terminal:
+     `TYPO3 v10 Series 1: Get Prepared for TYPO3 v10 - Before It’s Release
+     <https://t3terminal.com/blog/get-prepared-for-typo3-v10-before-its-release/>`__
+
    * 2018-02-04 Marcus Schwemer:
      `TYPO3 sprint releases 9.0 and 9.1 — The main changes
      <https://typo3worx.eu/2018/02/typo3-v91-main-changes/>`__
+     
+
 
 What's New Slides
    .. figure:: WhatsNewInTypo3-450.png
