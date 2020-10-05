@@ -21,6 +21,11 @@ Search
 
 __________________________________________________
 
+Blog posts
+   - 2020-06-25: T3Terminal, `Myth: TypoScript Is a Scripting Language
+     <https://t3terminal.com/blog/typoscript/>`__
+
+
 Links
    - `TypoScript Reference Manual
      <https://docs.typo3.org/typo3cms/TyposcriptReference/>`__
@@ -28,8 +33,6 @@ Links
    - `How to include TypoScript files
      <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/TypoScriptSyntax/Syntax/Includes.html>`__
 
-   - 2020-06-25: T3Terminal, `Myth: TypoScript Is a Scripting Language
-     <https://t3terminal.com/blog/typoscript/>`__
 
 Videos
    - 2018-02-16 `Feature Demo - New syntax for importing TypoScript files (Youtube)
