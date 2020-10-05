@@ -1,5 +1,4 @@
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _tmsa-Semantic-Web:
 
 ========================================================
@@ -8,10 +7,10 @@ Semantic Web
 
 Description
    ((To be written))
-   
+
    Important starting point: https://schema.org
 
-   
+
 Search
    ✦
    `typo3+semantic+web <https://www.startpage.com/do/dsearch?query=typo3+semantic+web>`__
@@ -19,7 +18,7 @@ Search
    `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22semantic+web%22>`__
    ✦
 
-__________________________________________________   
+__________________________________________________
 
 Websites that have structured data
    ✦ https://www.thomaskieslich.de/
@@ -41,7 +40,7 @@ TYPO3 extensions
 
 Test tool
    * `Google test tool for structured data
-     <https://search.google.com/structured-data/testing-tool?hl=dehttps://search.google.com/structured-data/testing-tool?hl=de>`__: 
+     <https://search.google.com/structured-data/testing-tool?hl=dehttps://search.google.com/structured-data/testing-tool?hl=de>`__:
      Give it a link!
 
 Whatever

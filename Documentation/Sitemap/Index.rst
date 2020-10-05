@@ -1,7 +1,6 @@
 :template: sitemap.html
 
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _Sitemap:
 
 =======

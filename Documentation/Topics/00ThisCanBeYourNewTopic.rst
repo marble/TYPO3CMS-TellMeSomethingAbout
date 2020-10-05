@@ -1,5 +1,4 @@
 .. include:: /Includes.txt
-
 .. _This-can-be-your-new-topic:
 
 ========================================================

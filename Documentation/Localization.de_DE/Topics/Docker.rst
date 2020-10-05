@@ -1,5 +1,4 @@
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _tmsa-Docker:
 
 =================
@@ -7,7 +6,7 @@ Docker
 =================
 
 
-   __________________________________________________
+__________________________________________________
 
 Docker setups for TYPO3 development
 

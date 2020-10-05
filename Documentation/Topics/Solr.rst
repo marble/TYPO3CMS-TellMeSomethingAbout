@@ -1,6 +1,4 @@
-
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _tmsa-Solr:
 
 =================
@@ -28,10 +26,10 @@ Blogpostings (en)
    * 2020-07-31 T3Terminal:
      `Comprehensive Guide to TYPO3 Solr Search: Series 3
      <https://t3terminal.com/blog/typo3-solr-extension/>`__
-     
+
    * 2018-01-11 dkd:
      `Upcoming Apache Solr for TYPO3 releases
      <https://blog.dkd.de/upcomming-solr-features-for-typo3-in-2018/>`__
-     
+
 __________________________________________________
 

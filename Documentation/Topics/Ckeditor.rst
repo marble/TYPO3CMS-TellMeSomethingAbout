@@ -1,6 +1,4 @@
-
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _tmsa-Ckeditor:
 
 =================
@@ -32,7 +30,7 @@ Blogpostings (en)
    * 2018-05-04 NITSAN:
      `Simple Steps to Configure CKEditor in TYPO3
      <https://www.nitsan.in/blog/simple-steps-to-configure-ckeditor-typo3/>`__
-     
+
    * 2017-12-25 Daniel Goerz:
      `Feature Spotlight: CKEditor
      <https://usetypo3.com/ckeditor.html>`__
@@ -40,7 +38,7 @@ Blogpostings (en)
    * 2017-02-23 Marcus Schwemer:
      `Configure CKEditor in TYPO3
      <https://typo3worx.eu/2017/02/configure-ckeditor-in-typo3/>`__
-     
+
 
 Links
    * https://ckeditor.com/

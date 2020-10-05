@@ -1,7 +1,4 @@
-
-
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _Error-handling:
 
 ========================================================

@@ -1,6 +1,4 @@
-
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _tmsa-Shops:
 
 =======================
@@ -24,6 +22,6 @@ Blogpostings
 
    *  `2018-06-06, Marcus Schwemer: 10 TYPO3 Commerce Solutions
       <https://typo3worx.eu/2018/06/ten-typo3-commerce-solutions/>`__
-   
+
 
 __________________________________________________

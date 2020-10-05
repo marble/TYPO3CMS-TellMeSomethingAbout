@@ -1,6 +1,4 @@
-
-.. include:: ../Includes.txt
-
+.. include:: /Includes.txt
 .. _tmsa-Form-Framework:
 
 =======================
@@ -11,10 +9,10 @@ Description
    ((to be written))
 
 Search
-   - Search for: `typo3+"form framework" 
+   - Search for: `typo3+"form framework"
      <https://www.startpage.com/do/dsearch?query=typo3+%22form+framework%22>`__
 
-__________________________________________________   
+__________________________________________________
 
 Slides
    - 2018-01-29 Tritum at `@T3cmd`_ ✦ `#t3cmd`_: `TYPO3 Form framework - features for v9
@@ -23,7 +21,7 @@ Slides
 Whatever
    ...
 
-__________________________________________________   
+__________________________________________________
 
 See also
    ...
