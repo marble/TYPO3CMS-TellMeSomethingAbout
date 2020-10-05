@@ -68,7 +68,7 @@ See also
       * Reserved top level DNS names:
         `RFC2606 <https://tools.ietf.org/html/rfc2606>`__
         ✦
-        `2015-01-26 Blogposting <https://iyware.com/dont-use-dev-for-development/>`__
+        `2015-01-26 Blog postinging <https://iyware.com/dont-use-dev-for-development/>`__
 
       * `Wikipedia <https://en.wikipedia.org/wiki/Example.com>`__:
         "**example.com**, **example.net**, **example.org**, and **example.edu** are

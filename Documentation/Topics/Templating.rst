@@ -13,7 +13,7 @@ Search
 Templating and Backend Layouts
 ==============================
 
-Blogpostings
+Blog postings
    * 2020-06-05 T3Terminal: `[Wanted] Official TYPO3 Templates Builder Since 20 Years!
      <https://t3terminal.com/blog/typo3-templates-builder/>`__
 

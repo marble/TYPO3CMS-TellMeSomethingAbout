@@ -21,7 +21,7 @@ Official Documentation
 Official Dashboard Initiative
    * `initiative <https://typo3.org/community/teams/typo3-development/initiatives/typo3-dashboard-initiative>`__
 
-Blogpostings (en)
+Blog postings (en)
 
    * 2019-11-07, Richard Haeser: `Dashboard for TYPO3 - The past, the present and the future
      <https://t3terminal.com/blog/typo3-dashboard/>`__

@@ -40,7 +40,7 @@ Links
    • TYPO3PWA Initiative: `Progressive Web Apps Initiative
      <https://typo3.org/community/teams/typo3-development/initiatives/pwa>`__
 
-Blogpostings
+Blog postings
    • 2020-09-11 T3Terminal: `Trending: What Is TYPO3 Headless CMS? <https://t3terminal.com/blog/typo3-headless-cms/>`__
 
    • 2020-03-19 Macopedia at Medium: `Transform Your Enterprise Website into a Progressive

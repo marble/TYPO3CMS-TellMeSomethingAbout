@@ -33,7 +33,7 @@ Links
    - Sponsoring development: https://www.paypal.me/helhum/19.99
 
 
-Blogpostings (en)
+Blog postings (en)
    - 2017-12-25 Daniel Goerz:
      `CLI and TYPO3
      <https://usetypo3.com/typo3-and-cli.html>`__

@@ -7,7 +7,7 @@ Custom Content Elements
 
 __________________________________________________
 
-Blogpostings
+Blog postings
    * 2017-07-12 (de) Mittwald: `Steckbrief Extension Mask <>`__
 
 __________________________________________________

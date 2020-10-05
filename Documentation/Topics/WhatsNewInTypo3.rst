@@ -24,7 +24,7 @@ Changes
 Release notes
    * `Release notes <https://get.typo3.org/release-notes/>`__ of the latest TYPO3 version
 
-Blogpostings
+Blog postings
    * 2020-04-10 T3Terminal:
      `TYPO3 v10 Series 5: 40+ Enhancement in TYPO3 v10 for Developers
      <https://t3terminal.com/blog/40-enhancement-in-typo3-v10-for-developers-series-5/>`__

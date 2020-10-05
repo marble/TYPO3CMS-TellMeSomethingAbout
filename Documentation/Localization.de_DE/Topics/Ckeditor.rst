@@ -11,7 +11,7 @@ __________________________________________________
 Official Documentation (en)
    * `rte_ckeditor <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>`__
 
-Blogpostings (de)
+Blog postings (de)
    * 2017-06-20 (de) clickstorm:
      `Der neue TYPO3 RTE – CKEditor
      <https://www.clickstorm.de/blog/der-neue-typo3-rte-ckeditor/>`__

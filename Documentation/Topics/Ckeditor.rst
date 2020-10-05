@@ -22,7 +22,7 @@ __________________________________________________
 Official Documentation (en)
    * `rte_ckeditor <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>`__
 
-Blogpostings (en)
+Blog postings (en)
    * 2020-05-25 T3Terminal:
      `TYPO3 + CKEditor: Everything You Need To Know
      <https://t3terminal.com/blog/typo3-ckeditor/>`__

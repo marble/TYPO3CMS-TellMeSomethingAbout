@@ -8,7 +8,7 @@ Extbase
 
 __________________________________________________
 
-Blogpostings
+Blog postings
 
    * 2014-03-18 (de) WebDevLog: `TYPO3: Eine Extbase Extension per Typoscript einbinden
      <http://blog.teamgeist-medien.de/2014/03/typo3-eine-extbase-extension-per-typoscript-einbinden.html>`__

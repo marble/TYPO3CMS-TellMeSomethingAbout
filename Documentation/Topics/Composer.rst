@@ -23,7 +23,7 @@ __________________________________________________
 Important
    * https://composer.typo3.org (docs)
 
-Blogpostings (en)
+Blog postings (en)
    * 2020-07-03, T3Terminal: The Best Guide to TYPO3 Composer`
      <https://t3terminal.com/blog/guide-typo3-composer/>`__
 

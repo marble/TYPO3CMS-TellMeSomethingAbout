@@ -23,7 +23,7 @@ Search
 
 __________________________________________________
 
-Blogpostings (en)
+Blog postings (en)
    * 2020-06-23, T3Terminal: `20 Most Common TYPO3 Errors (And How to Fix Them)
      <https://t3terminal.com/blog/typo3-errors/>`__
 

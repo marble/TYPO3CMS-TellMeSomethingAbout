@@ -38,7 +38,7 @@ Search
 
 __________________________________________________
 
-Blogpostings
+Blog postings
    ✦
    2018-10-14, Marcus Schwemer: `TYPO3 Site Management and Routing
    <https://typo3worx.eu/2018/10/typo3-site-management-and-routing/>`__

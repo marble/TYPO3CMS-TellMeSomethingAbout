@@ -28,7 +28,7 @@ partly outdated.
 _______________________________________________
 
 
-Blogpostings
+Blog postings
    * 2016-01-17 Torben Hansen:
      `TYPO3 ExtBase - Hidden and deleted property of domain models
      <https://www.derhansen.de/2016/01/typo3-extbase-hidden-and-deleted.html>`__

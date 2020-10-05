@@ -22,7 +22,7 @@ Slides
    - 2018-01-31 Timo Hund at `@t3cmd`_ ✦ `#t3cmd`_: `What will be new in EXT:solr 8.0.0
      <https://de.slideshare.net/timohund/whats-newinsolr8typo3camp>`__
 
-Blogpostings (en)
+Blog postings (en)
    * 2020-07-31 T3Terminal:
      `Comprehensive Guide to TYPO3 Solr Search: Series 3
      <https://t3terminal.com/blog/typo3-solr-extension/>`__

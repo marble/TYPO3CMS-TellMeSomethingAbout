@@ -15,7 +15,7 @@ Search
 
 __________________________________________________
 
-Blogpostings
+Blog postings
    * 2018-02-05 Jetbrains PhpStorm Blog: `Getting PhpStorm ready for Xdebug 2.6
      <https://blog.jetbrains.com/phpstorm/2018/02/getting-phpstorm-ready-for-xdebug-2-6/>`__
 

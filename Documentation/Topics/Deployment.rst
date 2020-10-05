@@ -17,7 +17,7 @@ Search
 
 __________________________________________________
 
-Blogpostings
+Blog postings
    * 2020-08-21 T3Terminal:
      `Manual or Automatic Deployment to TYPO3 Extensions to TER
      <https://t3terminal.com/blog/ter-typo3-extensions/>`__

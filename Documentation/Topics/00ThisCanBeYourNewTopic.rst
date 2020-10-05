@@ -35,7 +35,7 @@ __________________________________________________
 
 Here are some ideas:
 
-Blogpostings
+Blog postings
    ...
 
 Clever solution

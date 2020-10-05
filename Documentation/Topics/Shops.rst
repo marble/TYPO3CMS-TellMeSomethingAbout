@@ -16,7 +16,7 @@ Search
 
 __________________________________________________
 
-Blogpostings
+Blog postings
    *  `2020-04-28, T3Terminal: 8 Best TYPO3 Ecommerce Extensions For Your TYPO3 Shop
       <https://t3terminal.com/blog/typo3-shop-ecommerce-extensions/>`__
 
