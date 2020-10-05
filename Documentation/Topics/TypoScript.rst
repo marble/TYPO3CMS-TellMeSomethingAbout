@@ -21,6 +21,11 @@ Search
 
 __________________________________________________
 
+Blog posts
+   - 2020-06-25: T3Terminal, `Myth: TypoScript Is a Scripting Language
+     <https://t3terminal.com/blog/typoscript/>`__
+
+
 Links
    - `TypoScript Reference Manual
      <https://docs.typo3.org/typo3cms/TyposcriptReference/>`__
