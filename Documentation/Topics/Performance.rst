@@ -7,9 +7,6 @@
 Performance
 =======================
 
-Description
-   …
-
 Search
    ✦ `typo3+performance <https://www.startpage.com/do/dsearch?query=typo3+performance>`__
    ✦
@@ -17,7 +14,6 @@ Search
 __________________________________________________
 
 Blogpostings
-
    *  2020-10-02 T3Terminal: `TYPO3 Speed & Performance - Essential Extensions!
       <https://t3terminal.com/blog/typo3-performance-extension/>`__
 
