@@ -1,4 +1,5 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _tmsa-Fluid:
 
 ========================================================
@@ -29,7 +30,9 @@ Description
 
 Search
    Search for:
+   ✦
    `typo3+fluid <https://www.startpage.com/do/dsearch?query=typo3+fluid>`__
+   ✦
 
 __________________________________________________
 

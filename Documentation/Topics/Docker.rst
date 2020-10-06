@@ -1,4 +1,5 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _tmsa-Docker:
 
 =================
@@ -15,6 +16,7 @@ Description
 
 
 Search
+   Search for:
    ✦
    `docker+typo3 <https://www.startpage.com/do/dsearch?query=docker+typo3>`__
    ✦

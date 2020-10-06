@@ -1,9 +1,10 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _tmsa-Caching:
 
-=================
+=======
 Caching
-=================
+=======
 
 Official Documentation
 ======================
@@ -13,7 +14,7 @@ Official Documentation
 Videos
 ======
 
-2017-10-27 by Benni Mack: "Tutorial - Caching Basics"
+2017-10-27, Benni Mack: "Tutorial - Caching Basics"
 
 .. youtube:: UUW2YE3Tnp0
 

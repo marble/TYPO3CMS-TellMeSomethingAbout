@@ -1,4 +1,5 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _This-can-be-your-new-topic:
 
 ========================================================

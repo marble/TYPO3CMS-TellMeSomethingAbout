@@ -1,4 +1,5 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _tmsa-Code-Of-Conduct:
 
 =================
@@ -11,11 +12,14 @@ Description
    `Download <https://github.com/benvantende/typo3-event-coc/blob/master/README.md>`__
 
 Search
+   Search for:
+   ✦
    `typo3+code+of+conduct <https://www.startpage.com/do/dsearch?query=typo3+code+of+conduct>`__
    ✦
    `code+of+conduct <https://www.startpage.com/do/dsearch?query=code+of+conduct>`__
    ✦
    `"code+of+conduct" <https://www.startpage.com/do/dsearch?query=%22code+of+conduct%22>`__
+   ✦
 
 __________________________________________________
 

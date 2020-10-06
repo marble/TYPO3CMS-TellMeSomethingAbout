@@ -1,4 +1,5 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _Error-handling:
 
 ========================================================
@@ -9,6 +10,7 @@ Description
    ...
 
 Search
+   Search for:
    ✦
    `typo3+error+handling <https://www.startpage.com/do/dsearch?query=typo3+error+handling>`__
    ✦
@@ -24,8 +26,9 @@ Search
 __________________________________________________
 
 Blog postings (en)
-   * 2020-06-23, T3Terminal: `20 Most Common TYPO3 Errors (And How to Fix Them)
-     <https://t3terminal.com/blog/typo3-errors/>`__
+   *  2020-06-23, t3terminal:
+      `20 Most Common TYPO3 Errors (And How to Fix Them)
+      <https://t3terminal.com/blog/typo3-errors/>`__
 
 Official documentation
    ✦
@@ -44,7 +47,7 @@ Official documentation
 
 
 Page error handling
-   ✦
-   `ext:pagenotfoundhandling <https://extensions.typo3.org/extension/pagenotfoundhandling/>`__
+   •  `ext:pagenotfoundhandling
+      <https://extensions.typo3.org/extension/pagenotfoundhandling/>`__
 
 __________________________________________________

@@ -1,9 +1,10 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _tmsa-Debugging-with-xdebug:
 
-===========================
+=====================
 Debugging with xdebug
-===========================
+=====================
 
 .. _xdebug: https://xdebug.org
 
@@ -11,7 +12,10 @@ Description
    Xdebug_ is an extension for PHP to assist with debugging and development.
 
 Search
-   * Search for: `typo3+xdebug <https://www.startpage.com/do/dsearch?query=typo3+xdebug>`__
+   Search for:
+   ✦
+   `typo3+xdebug <https://www.startpage.com/do/dsearch?query=typo3+xdebug>`__
+   ✦
 
 __________________________________________________
 

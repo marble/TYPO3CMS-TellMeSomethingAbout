@@ -1,18 +1,20 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _tmsa-Backend-Layouts:
 
-=================
+===============
 Backend Layouts
-=================
+===============
 
-Description
-   ((to be written))
+__________________________________________________
 
 Search
    Search for:
+   ✦
    `typo3+backend+layout <https://www.startpage.com/do/dsearch?query=typo3+backend+layout>`__
    ✦
    `typo3+"backend layout" <https://www.startpage.com/do/dsearch?query=typo3+%22backend+layout%22>`__
+   ✦
 
 __________________________________________________
 
@@ -25,6 +27,3 @@ Videos (en)
      .. youtube:: RoHaeo4fq34
 
 __________________________________________________
-
-Whatever
-   ...

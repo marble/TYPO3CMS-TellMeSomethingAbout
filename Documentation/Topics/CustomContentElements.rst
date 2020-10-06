@@ -1,4 +1,5 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _tmsa-Custom-Content-Elements:
 
 =======================
@@ -10,13 +11,15 @@ Description
 
 
 Search
+   ✦
    Search for:
    `typo3+custom+content+elements <https://www.startpage.com/do/dsearch?query=typo3+custom+content+elements>`__
-
+   ✦
 __________________________________________________
 
 Blog postings (en)
-   •  2020-09-18, T3Terminal: `Learn TYPO3 Custom Elements with Core Ways
+   •  2020-09-18, t3terminal:
+      `Learn TYPO3 Custom Elements with Core Ways
       <https://t3terminal.com/blog/typo3-custom-elements/>`__
 
 

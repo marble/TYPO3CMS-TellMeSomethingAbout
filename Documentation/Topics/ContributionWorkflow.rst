@@ -1,4 +1,5 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. _tmsa-Contribution-Workflow:
 
 =====================
@@ -18,8 +19,11 @@ Description
    section in the TYPO3 Contribution Guide.
 
 Search
-   * Search for: `typo3+contribution+workflow
-     <https://www.startpage.com/do/dsearch?query=typo3+contribution+workflow>`__
+   Search for:
+   ✦
+   `typo3+contribution+workflow
+   <https://www.startpage.com/do/dsearch?query=typo3+contribution+workflow>`__
+   ✦
 
 __________________________________________________
 

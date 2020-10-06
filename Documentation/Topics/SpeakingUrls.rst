@@ -1,4 +1,5 @@
 .. include:: /Includes.txt
+.. special chars for copy and paste: • ✦
 .. highlight:: none
 .. _Speaking-Urls:
 
@@ -43,7 +44,8 @@ Blog postings
    2018-10-14, Marcus Schwemer: `TYPO3 Site Management and Routing
    <https://typo3worx.eu/2018/10/typo3-site-management-and-routing/>`__
    ✦
-  _________________________________________________
+
+_________________________________________________
 
 Development
    ✦
