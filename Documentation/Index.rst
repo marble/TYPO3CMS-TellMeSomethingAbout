@@ -32,7 +32,9 @@ This manual is part of official TYPO3 documentation.
    :titlesonly:
    :glob:
 
-   Sitemap/Index
+
    Topics/Index
    About/Index
+   Sitemap/Index
    Linktargets/Index
+   genindex

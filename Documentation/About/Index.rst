@@ -35,6 +35,8 @@ Terms and spellings
 In this manual we are using:
 *blog postings*, …
 
+See also: :ref:`h2document:preferred-terms`
+
 
 How to contribute
 =================
