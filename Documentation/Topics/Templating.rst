@@ -2,19 +2,24 @@
 .. special chars for copy and paste: • ✦
 .. _Templating:
 
-========================================================
+==========
 Templating
-========================================================
+==========
+
+__________________________________________________
 
 Search
    ✦
-   `typo3+templating <https://www.startpage.com/do/dsearch?query=typo3+templating>`__
+   `typo3+templating
+   <https://www.startpage.com/do/dsearch?query=typo3+templating>`__
    ✦
 
-Templating and Backend Layouts
-==============================
+__________________________________________________
 
 Blog postings
+
+   Templating and backend layouts
+
    *  2020-06-05, t3terminal:
       `[Wanted] Official TYPO3 Templates Builder Since 20 Years!
       <https://t3terminal.com/blog/typo3-templates-builder/>`__
@@ -27,10 +32,10 @@ Blog postings
       `The Basics: Templating With Backend Layouts
       <https://usetypo3.com/backend-layouts.html>`__
 
+__________________________________________________
 
+Tutorials
+   *  Fluidtemplate:
+      https://docs.typo3.org/typo3cms/TemplatingTutorial/
 
-FLUIDTEMPLATE
-=============
-
-*  https://docs.typo3.org/typo3cms/TemplatingTutorial/
-
+__________________________________________________

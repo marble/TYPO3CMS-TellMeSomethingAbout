@@ -55,6 +55,8 @@ Development
       <https://github.com/TYPO3/TYPO3.CMS/commit/6308b461916daaccc2e08f60d069c8082f1390c9>`__
       - adding core feature
 
+__________________________________________________
+
 Solutions
    •  `How to add the trailing slash TYPO3 v9 urls
       <https://stackoverflow.com/questions/53144596/how-a-add-an-appending-to-typo3-v9-urls>`__

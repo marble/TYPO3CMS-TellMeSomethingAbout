@@ -6,8 +6,12 @@
 Error Handling
 ========================================================
 
+__________________________________________________
+
 Description
    ...
+
+__________________________________________________
 
 Search
    Search for:
@@ -25,10 +29,12 @@ Search
 
 __________________________________________________
 
-Blog postings (en)
+Blog postings
    *  2020-06-23, t3terminal:
       `20 Most Common TYPO3 Errors (And How to Fix Them)
       <https://t3terminal.com/blog/typo3-errors/>`__
+
+__________________________________________________
 
 Official documentation
    ✦
@@ -45,6 +51,7 @@ Official documentation
    :ref:`t3tsref:stdwrap-debugdata`
    ✦
 
+__________________________________________________
 
 Page error handling
    •  `ext:pagenotfoundhandling

@@ -6,6 +6,8 @@
 TypoScript
 ==========
 
+__________________________________________________
+
 Description
    What is TypoScript?
 
@@ -14,6 +16,8 @@ Description
    is its role in page generation. TYPO3 first compile a very large array
    when a page is requested. It then follows predefined pattern to interpret the
    data in the array as tags ...
+
+__________________________________________________
 
 Search
    `typo3+typoscript <https://www.startpage.com/do/dsearch?query=typo3+typoscript>`__
@@ -24,6 +28,8 @@ Blog posts
    -  2020-06-25, t3terminal:
       `Myth: TypoScript Is a Scripting Language
       <https://t3terminal.com/blog/typoscript/>`__
+
+__________________________________________________
 
 Links
    - `TypoScript Reference Manual
@@ -36,6 +42,8 @@ Links
       `21 TypoScript Conditions Cheatsheet
       <https://t3terminal.com/blog/typoscript-conditions-cheatsheet/>`__
 
+
+__________________________________________________
 
 Videos
    -  2018-02-16:

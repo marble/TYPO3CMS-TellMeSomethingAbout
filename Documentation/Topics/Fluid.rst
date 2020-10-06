@@ -2,9 +2,11 @@
 .. special chars for copy and paste: • ✦
 .. _tmsa-Fluid:
 
-========================================================
+=====
 Fluid
-========================================================
+=====
+
+__________________________________________________
 
 Description
    What is Fluid?
@@ -28,6 +30,8 @@ Description
    | Hints about Performance
 
 
+__________________________________________________
+
 Search
    Search for:
    ✦
@@ -38,7 +42,7 @@ __________________________________________________
 
 Official Documentation
 
-* :ref:`t3extbasebook:start`
+• :ref:`t3extbasebook:start`
 
 This official book is part of the official documentation. It is currently
 partly outdated.
@@ -54,19 +58,20 @@ partly outdated.
 
 __________________________________________________
 
-
 Blog postings
-   * 2018-02-05 Torben Hansen:
+   • 2018-02-05 Torben Hansen:
      `How to render a Fluid standalone view multiple times in different languages
      <https://www.derhansen.de/2018/02/multiple-localized-fluid-standalone-views-in-one-request.html>`__
 
-   * 2017-12-25 Daniel Goerz:
+   • 2017-12-25 Daniel Goerz:
      `Claus Due's 24 useful tips and tricks <https://usetypo3.com/24-fluid-tips.html>`__
      In December 2017 Claus Due (developer and maintainer of TYPO3 Fluid) shared 24 useful tips and tricks.
      This post republishes all of them for future reference.
 
+__________________________________________________
+
 Debugging
-   * 2018-02-05 TYPO3 CMS Fluid Debugging Assistant
+   • 2018-02-05 TYPO3 CMS Fluid Debugging Assistant
 
      .. figure:: Fluid-463.png
         :scale: 50 %
@@ -75,6 +80,8 @@ Debugging
         :target: https://twitter.com/t3extensions/status/960316417441595392
 
         Tweet
+
+__________________________________________________
 
 Tools
    *  `Fluid.SchemaGenerator: <https://github.com/TYPO3/Fluid.SchemaGenerator>`__
@@ -96,9 +103,10 @@ Tools
          :target: http://www.fluid-converter.com/
 
 
-Viewhelpers
-   * `Viewhelper reference <https://fluidtypo3.org/viewhelpers.html>`__
+__________________________________________________
 
+Viewhelpers
+   • `Viewhelper reference <https://fluidtypo3.org/viewhelpers.html>`__
 
 __________________________________________________
 
@@ -111,8 +119,9 @@ Fluid template rendering engine - Standalone version
 __________________________________________________
 
 See also
-   * `Pattern Lab Fluid Edition
+   • `Pattern Lab Fluid Edition
      <https://github.com/NamelessCoder/patternlab-fluid-edition>`__
 
-   * https://usetypo3.com/json-view.html
+   • https://usetypo3.com/json-view.html
 
+__________________________________________________

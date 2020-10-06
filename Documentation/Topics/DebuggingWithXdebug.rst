@@ -8,8 +8,12 @@ Debugging with xdebug
 
 .. _xdebug: https://xdebug.org
 
+__________________________________________________
+
 Description
    Xdebug_ is an extension for PHP to assist with debugging and development.
+
+__________________________________________________
 
 Search
    Search for:
@@ -20,14 +24,9 @@ Search
 __________________________________________________
 
 Blog postings
-   * 2018-02-05 Jetbrains PhpStorm Blog: `Getting PhpStorm ready for Xdebug 2.6
-     <https://blog.jetbrains.com/phpstorm/2018/02/getting-phpstorm-ready-for-xdebug-2-6/>`__
-
-
-Whatever
-   ...
+   •  2018-02-05, jetbrains:
+      `Getting PhpStorm ready for Xdebug 2.6
+      <https://blog.jetbrains.com/phpstorm/2018/02/getting-phpstorm-ready-for-xdebug-2-6/>`__
 
 __________________________________________________
 
-See also
-   ...

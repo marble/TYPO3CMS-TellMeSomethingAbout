@@ -8,6 +8,8 @@ TYPO3 Console
 
 .. _`typo3 console`: https://extensions.typo3.org/extension/typo3_console/
 
+__________________________________________________
+
 Description
    What is `TYPO3 console`_?
 
@@ -17,6 +19,8 @@ Description
       developers. Every command that is shipped provides helpful information
       about usage and is easy to understand and use.
 
+
+__________________________________________________
 
 Search
    Search for:
@@ -34,7 +38,9 @@ Links
    - Sponsoring development: https://www.paypal.me/helhum/19.99
 
 
-Blog postings (en)
+__________________________________________________
+
+Blog postings
    - 2017-12-25 Daniel Goerz:
      `CLI and TYPO3
      <https://usetypo3.com/typo3-and-cli.html>`__
@@ -50,4 +56,6 @@ Blog postings (en)
    - 2014-12-07 Helmut Hummel:
      `About the beauty and power of TYPO3 Console
      <http://insight.helhum.io/post/104528981610/about-the-beauty-and-power-of-typo3-console>`__
+
+__________________________________________________
 

@@ -2,14 +2,20 @@
 .. special chars for copy and paste: • ✦
 .. _tmsa-Code-Of-Conduct:
 
-=================
+===============
 Code Of Conduct
-=================
+===============
+
+__________________________________________________
 
 Description
+   ✦
    `Reading: Code of conduct for TYPO3 Events <https://typo3.org/community/event-code-of-conduct/>`__
    ✦
    `Download <https://github.com/benvantende/typo3-event-coc/blob/master/README.md>`__
+   ✦
+
+__________________________________________________
 
 Search
    Search for:
@@ -23,7 +29,10 @@ Search
 
 __________________________________________________
 
-Blog postings (de)
-   - 2017-12-20 (de) Mittwald: `Kennt ihr den TYPO3 Code of Conduct?
-     <https://www.typo3.net/artikel/kennt-ihr-den-typo3-code-of-conduct/>`__
+Blog postings
+   •  2017-12-20 (de), Mittwald:
+      `Kennt ihr den TYPO3 Code of Conduct?
+      <https://www.typo3.net/artikel/kennt-ihr-den-typo3-code-of-conduct/>`__
+
+__________________________________________________
 

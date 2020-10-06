@@ -2,12 +2,11 @@
 .. special chars for copy and paste: • ✦
 .. _tmsa-Responsive-Images:
 
-=======================
-Responsive Images (TBW)
-=======================
+=================
+Responsive Images
+=================
 
-Description
-   ((to be written))
+__________________________________________________
 
 Search
    Search for:
@@ -16,11 +15,3 @@ Search
    `typo3+"responsive images" <https://www.startpage.com/do/dsearch?query=typo3+%22responsive+images%22>`__
 
 __________________________________________________
-
-Whatever
-   ...
-
-__________________________________________________
-
-See also
-   ...

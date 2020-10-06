@@ -8,6 +8,8 @@ Security
 
 About TYPO3 security.
 
+__________________________________________________
+
 Search
    ✦
    `typo3+security <https://www.startpage.com/do/dsearch?query=typo3+security>`__
@@ -22,6 +24,8 @@ Official documentation
    and advises how to protect a TYPO3 site in order to ensure it is and
    stays secure and stable.
 
+__________________________________________________
+
 Blog postings
    •  2020-08-28, t3terminal:
       `Quick Guide to Harden TYPO3 Security
@@ -35,3 +39,4 @@ Blog postings
       `How To Secure Your TYPO3 Sites From Hack Attempts?
       <https://www.nitsan.in/blog/how-to-secure-your-typo3-sites-from-hack-attempts/>`__
 
+__________________________________________________

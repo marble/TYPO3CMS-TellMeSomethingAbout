@@ -6,6 +6,8 @@
 Contribution Workflow
 =====================
 
+__________________________________________________
+
 Description
    "Contribution workflow" is a term for "How to Contribute" to TYPO3. It
    usually means contributing to the Source Code but it in a more general
@@ -18,6 +20,8 @@ Description
    :ref:`"Other ways to contribute" <t3contrib:other-ways-to-contribute>`
    section in the TYPO3 Contribution Guide.
 
+__________________________________________________
+
 Search
    Search for:
    ✦
@@ -28,13 +32,17 @@ Search
 __________________________________________________
 
 Official Documentation
-   * :ref:`"TYPO3 Contribution Guide for TYPO3 core development" <t3contrib:start>`
+   *  :ref:`"TYPO3 Contribution Guide for TYPO3 core development"
+      <t3contrib:start>`
 
-Videos (English)
-   * 2018-02-09 Mathias Schreiber
+__________________________________________________
 
-     `How to fix a bug in the core <https://www.youtube.com/watch?v=gN8BVSBlgfU>`__
+Videos
+   *  2018-02-09, Mathias Schreiber:
+      `How to fix a bug in the core
+      <https://www.youtube.com/watch?v=gN8BVSBlgfU>`__
 
-     .. youtube:: gN8BVSBlgfU
+      .. youtube:: gN8BVSBlgfU
 
+__________________________________________________
 

@@ -6,6 +6,8 @@
 Headless TYPO3 CMS
 ========================================================
 
+__________________________________________________
+
 Description
    A headless CMS is a back-end only content management system (CMS).
    It is built up from ground as a content repository that makes content
@@ -32,6 +34,8 @@ Blog postings
       `Transform Your Enterprise Website into a Progressive Web App
       <https://medium.com/@macopedia/transform-your-enterprise-website-into-a-progressive-web-app-6fb90aa95e20>`__
 
+__________________________________________________
+
 Links
    •  Headless initiative:
       `TYPO3 Extension Headless
@@ -50,7 +54,7 @@ Links
       <https://github.com/TYPO3-Initiatives/create-nuxt-typo3>`__
 
    •  :ext:`Headless_news`:
-      `TYPO3 extension to provide support for *ext:news* in *ext:headless*
+      `TYPO3 extension to provide support for *ext:news• in *ext:headless*
       <https://github.com/TYPO3-Initiatives/headless_news>`__
 
    •  :ext:`pwa_manifest`:
@@ -62,7 +66,11 @@ Links
    •  TYPO3PWA Initiative: `Progressive Web Apps Initiative
       <https://typo3.org/community/teams/typo3-development/initiatives/pwa>`__
 
+__________________________________________________
+
 Slides
    •  2020-03-19, Macopedia at Initiative webinar presentation (TYPO3PWA):
       `TYPO3 Headless & PWA - Progressive Web Apps
       <https://www.slideshare.net/macopedia/typo3-headless-pwa-webinar>`__
+
+__________________________________________________
