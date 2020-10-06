@@ -3,12 +3,14 @@
 .. highlight:: none
 .. _Speaking-Urls:
 
-========================================================
+=============
 Speaking Urls
-========================================================
+=============
 
 .. _realurl: https://extensions.typo3.org/extension/realurl/
 .. _cooluri: https://extensions.typo3.org/extension/cooluri/
+
+_________________________________________________
 
 2019-03-08
 
@@ -27,8 +29,10 @@ Description
 
    *Note:* An integrated solution is planned for TYPO3 version 9 LTS.
 
+_________________________________________________
 
 Search
+   Search for:
    ✦
    `typo3+speaking+urls <https://www.startpage.com/do/dsearch?query=typo3+speaking+urls>`__
    ✦
@@ -40,20 +44,19 @@ Search
 __________________________________________________
 
 Blog postings
-   ✦
-   2018-10-14, Marcus Schwemer: `TYPO3 Site Management and Routing
-   <https://typo3worx.eu/2018/10/typo3-site-management-and-routing/>`__
-   ✦
+   •  2018-10-14, Marcus Schwemer:
+      `TYPO3 Site Management and Routing
+      <https://typo3worx.eu/2018/10/typo3-site-management-and-routing/>`__
 
 _________________________________________________
 
 Development
-   ✦
-   Adding core feature `[FEATURE] Introduce Page-based URL handling
-   <https://github.com/TYPO3/TYPO3.CMS/commit/6308b461916daaccc2e08f60d069c8082f1390c9>`__
-   ✦
+   •  `[FEATURE] Introduce Page-based URL handling
+      <https://github.com/TYPO3/TYPO3.CMS/commit/6308b461916daaccc2e08f60d069c8082f1390c9>`__
+      - adding core feature
 
 Solutions
-   `How to add the trailing slash TYPO3 v9 urls
-   <https://stackoverflow.com/questions/53144596/how-a-add-an-appending-to-typo3-v9-urls>`__
+   •  `How to add the trailing slash TYPO3 v9 urls
+      <https://stackoverflow.com/questions/53144596/how-a-add-an-appending-to-typo3-v9-urls>`__
 
+_________________________________________________
