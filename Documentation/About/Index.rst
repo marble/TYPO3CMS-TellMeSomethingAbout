@@ -11,6 +11,7 @@ About
 .. _TYPO3 Slack invite: https://forger.typo3.com/slack
 .. _typo3-documentation channel at Slack: https://typo3.slack.com/messages/C028JEPJL
 
+
 Introduction
 ============
 
@@ -20,6 +21,19 @@ how-to. **1.** The goal is to name and list topics that people often need help
 with. **2.** Hopefully the list then inspires knowledgable members of the community
 to provide some explanations. **3.** And finally the intention is to have a place
 to provide links to other community writings like blog postings.
+
+
+Conventions
+===========
+
+.. index:: conventions; terms and spellings
+.. _Terms-and-spellings:
+
+Terms and spellings
+-------------------
+
+In this manual we are using:
+*blog postings*, …
 
 
 How to contribute
