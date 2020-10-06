@@ -16,6 +16,8 @@ Description
 
       Solr_ is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™.
 
+      -- `lucene.apache.org <https://lucene.apache.org/solr/>`__
+
 __________________________________________________
 
 Search

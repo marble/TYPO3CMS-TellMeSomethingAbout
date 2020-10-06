@@ -16,6 +16,8 @@ Description
 
       Docker_ is the world's leading software containerization platform.
 
+      -- docker.com
+
 __________________________________________________
 
 Search

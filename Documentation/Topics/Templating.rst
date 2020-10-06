@@ -17,7 +17,6 @@ Search
 __________________________________________________
 
 Blog postings
-
    Templating and backend layouts
 
    *  2020-06-05, t3terminal:

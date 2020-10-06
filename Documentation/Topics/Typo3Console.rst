@@ -19,6 +19,8 @@ Description
       developers. Every command that is shipped provides helpful information
       about usage and is easy to understand and use.
 
+      -- `docs.typo3.org <https://docs.typo3.org/p/helhum/typo3-console/master/en-us/Introduction/>`__
+
 
 __________________________________________________
 
