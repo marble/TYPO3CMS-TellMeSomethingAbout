@@ -6,18 +6,22 @@
 Caching
 =======
 
-__________________________________________________
+.. contents::
+   :local:
+   :backlinks: top
+
 
 Official Documentation
-   •  `t3coreapi:caching`
+======================
 
-__________________________________________________
+•  `t3coreapi:caching`
+
 
 Videos
-   •  2017-10-27, Benni Mack:
-      `Tutorial - Caching Basics
-      <https://www.youtube.com/watch?v=UUW2YE3Tnp0>`__
+======
 
-      .. youtube:: UUW2YE3Tnp0
+•  2017-10-27, Benni Mack:
+   `Tutorial - Caching Basics
+   <https://www.youtube.com/watch?v=UUW2YE3Tnp0>`__
 
-__________________________________________________
+   .. youtube:: UUW2YE3Tnp0

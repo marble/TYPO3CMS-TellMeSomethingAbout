@@ -6,110 +6,135 @@
 THIS CAN BE YOUR NEW TOPIC
 ========================================================
 
+.. contents::
+   :local:
+   :backlinks: top
+
+
 How to add your new topic
-   You want to add a topic that is not in the portfolio yet?
+=========================
 
-   .. attention::
+You want to add a topic that is not in the portfolio yet?
 
-      Make a copy of this file and give it an appropriate name.
-      Then start editing the copied file.
+.. attention::
 
-   .. tip::
+   Make a copy of this file and give it an appropriate name.
+   Then start editing the copied file.
 
-      Just start somehow. The TYPO3 Documentation Team will give assistance.
+.. tip::
 
-__________________________________________________
+   Just start somehow. The TYPO3 Documentation Team will give assistance.
+
 
 Description
-   *Should* always be present first.
+===========
 
-__________________________________________________
+Would be nice to always have a short description here.
+
 
 Search
-   Search for:
-   ✦
-   `typo3+clever+search <https://www.startpage.com/do/dsearch?query=typo3+clever+search>`__
-   ✦
-   `typo3+"clever+search" <https://www.startpage.com/do/dsearch?query=typo3+%22clever+search%22>`__
-   ✦
+======
 
-.. use 50 underscores to mark a transition (= hr = horizontal line)
+Search for:
+✦
+`typo3+clever+search
+<https://www.startpage.com/do/dsearch?query=typo3+clever+search>`__
+✦
+`typo3+"clever+search"
+<https://www.startpage.com/do/dsearch?query=typo3+%22clever+search%22>`__
+✦
 
-__________________________________________________
+.. Make your points here.
+   Just start somehow.
+   In general use alphabetical order.
+   Here are some ideas:
 
-**Add YOUR rubrics as needed.**
 
-Here are some ideas:
+My first new headline
+=====================
 
-__________________________________________________
+...
 
-Official documentation
-   Where is this covered in the official docs?
-
-__________________________________________________
 
 Blog postings
-   ...
+=============
 
-__________________________________________________
+...
+
 
 Clever solution
-   ...
+===============
 
-__________________________________________________
+...
+
 
 Definition
-   ...
+==========
 
-__________________________________________________
+...
+
 
 Discussions
-   ...
+===========
 
-__________________________________________________
+...
+
 
 Keywords
-   ...
+========
 
-__________________________________________________
+...
 
-Links
-   ...
 
-__________________________________________________
+Links - to be sorted
+====================
 
-Slides
-   ...
+...
 
-__________________________________________________
 
-Techniques
-   ...
+Official documentation
+======================
 
-__________________________________________________
+Where is this covered in the official docs?
 
-Tools
-   ...
-
-__________________________________________________
-
-Videos
-   ...
-
-__________________________________________________
-
-Whatever
-   ...
-   ✦
-   ...
-   ✦
-   ...
-   ✦
-
-__________________________________________________
 
 See also
-   • Link to a document. Example: :doc:`00ThisCanBeYourNewTopic`
-   • ...
+========
 
-__________________________________________________
+• Example link to another document. Example: :doc:`00ThisCanBeYourNewTopic`
+• ...
+
+
+Slides
+======
+
+...
+
+
+Techniques
+==========
+
+...
+
+
+Tools
+=====
+
+...
+
+
+Videos
+======
+
+...
+
+
+Whatever
+========
+
+...
+✦
+...
+✦
+...
+✦

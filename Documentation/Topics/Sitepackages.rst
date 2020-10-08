@@ -6,38 +6,44 @@
 Sitepackages
 ==================
 
-__________________________________________________
+.. contents::
+   :local:
+   :backlinks: top
+
 
 Search
-   Search for:
-   ✦
-   `typo3+sitepackage
-   <https://www.startpage.com/do/dsearch?query=typo3+sitepackage>`__
-   ✦
+======
 
-__________________________________________________
+Search for:
+✦
+`typo3+sitepackage
+<https://www.startpage.com/do/dsearch?query=typo3+sitepackage>`__
+✦
+
 
 Tutorials
-   • https://docs.typo3.org/typo3cms/SitePackageTutorial/
+=========
 
-__________________________________________________
+• https://docs.typo3.org/typo3cms/SitePackageTutorial/
+
 
 Videos
-   - Tutorial - Site Packages - Part 1
+======
 
-     .. youtube:: HtBmim7pc0o
+•  Tutorial - Site Packages - Part 1
 
-   - Tutorial - Site Packages - Part 2
+   .. youtube:: HtBmim7pc0o
 
-     .. youtube:: deSMVfCSCXY
+•  Tutorial - Site Packages - Part 2
 
-   - Tutorial - Site Packages - Part 3
+   .. youtube:: deSMVfCSCXY
 
-     .. youtube:: SEoWOBT0rQE
+•  Tutorial - Site Packages - Part 3
 
-__________________________________________________
+   .. youtube:: SEoWOBT0rQE
+
 
 Featured packages
-   • https://github.com/thomaskieslich/tksite
+=================
 
-__________________________________________________
+•  https://github.com/thomaskieslich/tksite

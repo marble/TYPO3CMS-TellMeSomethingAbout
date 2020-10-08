@@ -6,40 +6,48 @@
 Custom Content Elements
 =======================
 
-__________________________________________________
+.. contents::
+   :local:
+   :backlinks: top
+
 
 Description
-   What are 'Custom Content Elements'?
+===========
 
-__________________________________________________
+What are 'Custom Content Elements'?
+
 
 Search
-   ✦
-   Search for:
-   `typo3+custom+content+elements <https://www.startpage.com/do/dsearch?query=typo3+custom+content+elements>`__
-   ✦
+======
 
-__________________________________________________
+Search for:
+✦
+`typo3+custom+content+elements
+<https://www.startpage.com/do/dsearch?query=typo3+custom+content+elements>`__
+✦
+
 
 Blog postings
-   •  2020-09-18, t3terminal:
-      `Learn TYPO3 Custom Elements with Core Ways
-      <https://t3terminal.com/blog/typo3-custom-elements/>`__
+=============
 
-__________________________________________________
+•  2020-09-18, t3terminal:
+   `Learn TYPO3 Custom Elements with Core Ways
+   <https://t3terminal.com/blog/typo3-custom-elements/>`__
+
 
 Links
-   ✦
-   `ext:mask <https://extensions.typo3.org/extension/mask/>`__
-   ✦
-   `ext:mask_export <https://extensions.typo3.org/extension/mask_export/>`__
-   ✦
-   `github:tkcontent <https://github.com/thomaskieslich/tkcontent>`__
-   ✦
+=====
 
-__________________________________________________
+✦
+`ext:mask <https://extensions.typo3.org/extension/mask/>`__
+✦
+`ext:mask_export <https://extensions.typo3.org/extension/mask_export/>`__
+✦
+`github:tkcontent <https://github.com/thomaskieslich/tkcontent>`__
+✦
+
 
 See also
-   •  :doc:`StructuralContentElements`
+========
 
-__________________________________________________
+•  :doc:`StructuralContentElements`

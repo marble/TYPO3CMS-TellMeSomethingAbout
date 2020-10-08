@@ -6,23 +6,28 @@
 Gridelements
 ============
 
-__________________________________________________
+.. contents::
+   :local:
+   :backlinks: top
+
 
 Search
-   Search for:
-   ✦
-   `typo3 gridelements
-   <https://www.startpage.com/do/dsearch?query=typo3+gridelements>`__
-   ✦
+======
 
-__________________________________________________
+Search for:
+✦
+`typo3 gridelements
+<https://www.startpage.com/do/dsearch?query=typo3+gridelements>`__
+✦
+
 
 Tutorials
-   •  https://coders.care/blog/tutorial/gridelements-and-cms-8/
+=========
 
-__________________________________________________
+•  https://coders.care/blog/tutorial/gridelements-and-cms-8/
+
 
 See also
-   :doc:`StructuralContentElements`
+========
 
-__________________________________________________
+:doc:`StructuralContentElements`
