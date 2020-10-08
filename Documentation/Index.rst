@@ -53,9 +53,9 @@ version >v2.6))
 
    digraph Knowledge_by_topics  {
    layout=neato;
-   ratio="0.75"
-   size="8.27,11.69"; // 210mmx297mm
-   graph[label="",labelloc="t",tooltip="",bgcolor="#f0f0f0"];
+   ratio="0.6"
+   // size="8.27,11.69"; // 210mmx297mm
+   graph[label="",labelloc="t",tooltip="Structuring knowledge by topics",bgcolor="#f0f0f0"];
    node [fontsize = 14, style = solid];
 
    Looking_for [label="Looking for …",fillcolor=white,shape=rectangle,style="dashed,filled",tooltip="Suppose you are trying to find out about a topic …"];
@@ -68,7 +68,7 @@ version >v2.6))
    Looking_for -> Sitepackages;
    Looking_for -> More;
 
-   node[fontsize=10,margin=".06",width=.75,height=.20,shape=ellipse,style=filled,fillcolor=white]
+   node[fontsize=10,margin=".05",width=.75,height=.40,shape=ellipse,style=filled,fillcolor=white]
 
    CKEditor -> CKEditor_blogpostings;
    CKEditor -> CKEditor_official_docs;
