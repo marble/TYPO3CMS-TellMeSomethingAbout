@@ -35,7 +35,7 @@ Changes
 =======
 
 •  `TYPO3 CMS Core ChangeLog
-   <https://docs.typo3.org/typo3cms/extensions/core/>`__
+   <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
 
 
 Release notes
@@ -77,7 +77,7 @@ Blog postings
 What's New Slides
 =================
 
-.. figure:: WhatsNewInTypo3-450.png
+.. figure:: files/WhatsNewInTypo3-450.png
    :target: https://typo3.org/help/documentation/whats-new/
    :alt:    Teaser What's new in TYPO3 v9.1?
    :class:  with-shadow
@@ -89,7 +89,7 @@ What's New Slides
 Archive of "What's New Slides"
 ==============================
 
-.. figure:: WhatsNewInTypo3-449.png
+.. figure:: files/WhatsNewInTypo3-449.png
    :target: https://forge.typo3.org/projects/documentation-whatsnew/files
    :alt:    Teaser for archive of What's new? slides
    :class:  with-shadow

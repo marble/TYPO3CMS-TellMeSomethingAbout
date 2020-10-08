@@ -35,13 +35,13 @@ Blog postings
    <https://t3terminal.com/blog/typo3-custom-elements/>`__
 
 
-Links
-=====
+TYPO3 extensions
+================
 
 ✦
-`ext:mask <https://extensions.typo3.org/extension/mask/>`__
+:t3ext:`mask`
 ✦
-`ext:mask_export <https://extensions.typo3.org/extension/mask_export/>`__
+:t3ext:`mask_export`
 ✦
 `github:tkcontent <https://github.com/thomaskieslich/tkcontent>`__
 ✦

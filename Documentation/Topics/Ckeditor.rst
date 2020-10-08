@@ -36,7 +36,7 @@ Search for:
 ✦
 
 
-Official Documentation
+Official documentation
 ======================
 
 •  TYPO3 system extension `rte_ckeditor

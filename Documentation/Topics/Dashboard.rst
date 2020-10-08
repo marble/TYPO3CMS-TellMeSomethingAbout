@@ -30,14 +30,14 @@ Search for: `dashboard+typo3
 Official Documentation
 ======================
 
-•  `documentation
+•  `Dashboard core extension
    <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>`__
 
 
 Official Dashboard Initiative
 =============================
 
-•  `dashboard initiative
+•  `Dashboard initiative
    <https://typo3.org/community/teams/typo3-development/initiatives/typo3-dashboard-initiative>`__
 
 

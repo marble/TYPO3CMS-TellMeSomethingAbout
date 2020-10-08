@@ -24,14 +24,13 @@ This manual is part of official TYPO3 documentation.
 
 **What is this?**
 
-•  intended to be a help for developers to quickly find some interesting
-   starting points when diving into a topic you are not familiar with
-•  a collection of short information pointers, structured by topics
-•  a collection of short information pointers, structured by topics
-•  a collection of topics that are important in TYPO3 context
-•  a place to keep search results when doing internet research
-•  a collection of links to content that somehow sticks out
-•  a time saver for you - hopefully
+•  intended to be of help for developers
+•  quickly find some interesting starting points to new topics
+•  a collection of pointers, structured by topics
+•  give an idea about what topics are of interest in TYPO3 context
+•  a place to keep search results
+•  a curated list
+•  a time saver for you - hopefully!
 
 
 .. // http://www.graphviz.org/doc/info/attrs.html
@@ -45,76 +44,91 @@ This manual is part of official TYPO3 documentation.
    // https://renenyffenegger.ch/notes/tools/Graphviz/examples/index
 
 
+((The graph will be shown as soon as we update the rendering to Docker image
+version >v2.6))
+
 .. graphviz::
+   :caption: Structuring knowledge by topics. Note there are tooltips. Some
+             nodes have operational hyperlinks.
 
-   digraph G  {
-      layout=neato;
-      node[fontsize=14,style=solid];
-      SEARCHING [label="Looking for",style=dashed,shape=rectangle];
+   digraph Knowledge_by_topics  {
+   layout=neato;
+   ratio="0.75"
+   size="8.27,11.69"; // 210mmx297mm
+   graph[label="",labelloc="t",tooltip="",bgcolor="#f0f0f0"];
+   node [fontsize = 14, style = solid];
 
-      node[fontsize=12,style=filled];
-      SEARCHING -> Caching;
-      SEARCHING -> Fluid;
-      SEARCHING -> Performance;
-      SEARCHING -> more_1;
-      SEARCHING -> more_2;
-      SEARCHING -> CKEditor;
-      SEARCHING -> Deployment;
+   Looking_for [label="Looking for …",fillcolor=white,shape=rectangle,style="dashed,filled",tooltip="Suppose you are trying to find out about a topic …"];
+
+   node [fontsize=12,style=filled,width=.75,height=.50];
+
+   Looking_for -> Your_topic;
+   Looking_for -> CKEditor;
+   Looking_for -> Deployment;
+   Looking_for -> Sitepackages;
+   Looking_for -> More;
+
+   node[fontsize=10,margin=".06",width=.75,height=.20,shape=ellipse,style=filled,fillcolor=white]
+
+   CKEditor -> CKEditor_blogpostings;
+   CKEditor -> CKEditor_official_docs;
+   CKEditor -> CKEditor_onlinetryouts;
+
+   Deployment -> Deployment_blog_postings;
+   Deployment -> Deployment_clever_solutions;
+   Deployment -> Deployment_tools;
+
+   More -> More_best_practise;
+   More -> More_resources;
+
+   Sitepackages -> Sitepackages_tutorials;
+   Sitepackages -> Sitepackages_videos;
+
+   CKEditor               [                       href="../Topics/Ckeditor.html"                       ,target=_top,tooltip="CKEditor"];
+   CKEditor_blogpostings  [label="Blog postings" ,href="../Topics/Ckeditor.html#blog-postings"         ,target=_top,tooltip="CKEditor: Blog postings"];
+   CKEditor_official_docs [label="Official docs" ,href="../Topics/Ckeditor.html#official-documentation",target=_top,tooltip="CKEditor: Official documentation"];
+   CKEditor_onlinetryouts [label="Online tryouts",href="../Topics/Ckeditor.html#online-tryouts"        ,target=_top,tooltip="CKEditor: Online tryouts"];
+
+   Deployment                  [                         href="../Topics/Deployment.html"                 ,target=_top,tooltip="Deployment"];
+   Deployment_blog_postings    [label="Blog postings"   ,href="../Topics/Deployment.html#blog-postings"   ,target=_top,tooltip="Deployment: Blog postings"];
+   Deployment_tools            [label="Tools"           ,href="../Topics/Deployment.html#tools"           ,target=_top,tooltip="Deployment: Tools"];
+   Deployment_clever_solutions [label="Clever solutions",href="../Topics/Deployment.html#clever-solutions",target=_top,tooltip="Deployment: Cever solutions"];
+
+   More               [label="More…"        ,tooltip="There are more topics in this manual"];
+   More_best_practise [label="Best practise",tooltip="More: Best practise"];
+   More_resources     [label="Resources"    ,tooltip="More: Resources"];
+
+   Sitepackages           [                  href="../Topics/Sitepackages.html"           ,target=_top,tooltip="Sitepackages"];
+   Sitepackages_tutorials [label="Tutorials",href="../Topics/Sitepackages.html#tutorials" ,target=_top,tooltip="Sitepackages: Tutorials"];
+   Sitepackages_videos    [label="Videos"   ,href="../Topics/Sitepackages.html#videos"    ,target=_top,tooltip="Sitepackages: Videos"];
+
+   Your_topic             [label="Your topic…", tooltip="This can be your topic - if you contribute"];
 
 
-      node[fontsize=8,width=.1,height=.1,shape=ellipse,style=filled,fillcolor=white]
-      Caching -> offdocs_1;
-      Caching -> blogpostings_1;
-      Caching -> videos_1;
-      CKEditor -> CKEditor_whatisit;
-      CKEditor -> CKEditor_resources;
-      CKEditor -> CKEditor_blogpostings;
-      CKEditor -> CKEditor_onlinetryouts;
-      Deployment -> Deployment_blog_postings;
-      Deployment -> Deployment_clever_solution;
-      Deployment -> Deployment_tools;
-      Fluid -> offdocs_2;
-      Fluid -> blogpostings_2;
-      Fluid -> Tools;
-      Fluid -> Viewhelpers;
-      Performance -> offdocs_3;
-      Performance -> blogpostings_3;
-      Performance -> tutorials_4;
-      Performance -> Links;
+   node [label="",shape=point,width=.1,height=.1];
 
-      node[label="",shape=circle,width=.1,height=0.1]
-      Performance -> performance_1;
-      Caching -> caching_1;
-      Fluid -> fluid_1;
-      more_1 -> more_1_1;
-      more_1 -> more_1_2;
-      more_1 -> more_1_3;
-      more_1 -> more_1_4;
-      more_1 -> more_1_5;
-      more_1 -> more_1_6;
-      more_2 -> more_2_1;
-      more_2 -> more_2_2;
-      more_2 -> more_2_3;
+   CKEditor     -> CKEditor_more;
+   Deployment   -> Deployment_more;
+   More         -> More_more;
+   Sitepackages -> Sitepackages_more;
+   Your_topic   -> Your_topic_more_1;
+   Your_topic   -> Your_topic_more_2;
+   Your_topic   -> Your_topic_more_3;
+   Your_topic   -> Your_topic_more_4;
+   Your_topic   -> Your_topic_more_5;
 
-      blogpostings_1 [label="Blog postings"];
-      blogpostings_2 [label="Blog postings"];
-      blogpostings_3 [label="Blog postings"];
-      more_1 [label="Your idea"];
-      more_2 [label="More..."];
-      offdocs_1 [label="Official docs",tooltip="Official docs"];
-      offdocs_2 [label="Official docs",tooltip="Official docs"];
-      offdocs_3 [label="Official docs",tooltip="Official docs"];
-      tutorials_4 [label="Tutorials"];
-      videos_1 [label="Videos"];
 
-      CKEditor [href="../Topics/Ckeditor.html",target=_top];
-      CKEditor_blogpostings  [label="Blog postings" ,href="../Topics/Ckeditor.html#blog-postings" ,target=_top,tooltip="Blog postings"];
-      CKEditor_onlinetryouts [label="Online tryouts",href="../Topics/Ckeditor.html#online-tryouts",target=_top];
-      CKEditor_whatisit      [label="What is it?"   ,href="../Topics/Ckeditor.html#description"   ,target=_top];
-      CKEditor_resources     [label="Resources"     ,href="../Topics/Ckeditor.html#resources"     ,target=_top];
-      Deployment [label="Blog postings",href="../Topics/Deployment.html#blog-postings" ,target=_top,tooltip="Blog postings"];
-      Deployment [label="Tools",href="../Topics/Deployment.html#tools" ,target=_top,tooltip="Tools"];
-      Deployment  [label="Clever solutions",href="../Topics/Deployment.html#clever-solutions" ,target=_top,tooltip="Clever solutions"];
+   Deployment_more   [label = "", tooltip = "Deployment: More…"];
+   More_more         [label = "", tooltip = "More: …"];
+   Your_topic_more_1 [label = "", tooltip = "More…"];
+   Your_topic_more_2 [label = "", tooltip = "More…"];
+   Your_topic_more_3 [label = "", tooltip = "More…"];
+   Your_topic_more_4 [label = "", tooltip = "More…"];
+   Your_topic_more_5 [label = "", tooltip = "More…"];
+
+   CKEditor_more          [label=""                                                                                ,tooltip="CKEditor: More…"];
+   Sitepackages_more      [label=""                                                                   ,tooltip="Sitepackages: More…"];
+
    }
 
 
@@ -131,7 +145,9 @@ This manual is part of official TYPO3 documentation.
 
 **Doesn't seem very complete and up to date?**
 
-Up to now only a few people have done a - very - little bit of contribution
+Well - you can change that.
+
+Up to now only a very few people have done a - very - little bit of contribution
 here. Can you imagine how useful this could be if YOU would add your knowledge
 and search results too? As a developer we often find ourselves with a special
 topic in the foreground of our thinking. That's the moment when we start
@@ -169,11 +185,25 @@ IF IN DOUBT
 
 --------------------------------------------------
 
+**Tip: Easily open many links**
+
+Get yourself a browser extensions that lets you mark a block of text to open
+all links in there in one go. Many links in this manual are written in a very
+compact form to facilitate this procedure.
+
+.. figure:: files/easily-open-many-links-027.png
+   :alt: How to mark a section of text and open all links in one go
+   :class: with-shadow with-border
+
+   Using FireFox addon 'Snap Links'
+
+
+--------------------------------------------------
+
 **Contents:**
 
 .. rst-class:: compact-list
 .. toctree::
-   :titlesonly:
 
    Topics/Index
    About/Index
