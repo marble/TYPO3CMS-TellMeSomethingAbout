@@ -33,9 +33,9 @@ Search for:
 Blog postings
 =============
 
-•  2020-09-11, nitsan:
+•  2020-09-11, T3Terminal:
    `Trending: What Is TYPO3 Headless CMS?
-   <https://nitsan.com/blog/typo3-headless-cms/>`__
+   <https://t3terminal.com/blog/typo3-headless-cms/>`__
 
 •  2020-03-19, Macopedia at Medium:
    `Transform Your Enterprise Website into a Progressive Web App
