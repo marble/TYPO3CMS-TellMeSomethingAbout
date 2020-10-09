@@ -6,7 +6,7 @@
 Contribution Workflow
 =====================
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

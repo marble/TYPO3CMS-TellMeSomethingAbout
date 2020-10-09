@@ -8,7 +8,7 @@ Composer
 
 .. _composer: https://getcomposer.org/
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 
@@ -134,9 +134,9 @@ Presentations
           # composer update foo/bar
 
 
-  •   https://github.com/helhum/typo3-distribution
-  •   https://packagist.org/ - points to the repository of the package.
-      Example: https://github.com/helhum/typo3-console
+     •   https://github.com/helhum/typo3-distribution
+     •   https://packagist.org/ - points to the repository of the package.
+         Example: https://github.com/helhum/typo3-console
 
 •  2018-06-23, Helmut Hummel:
    `Your Perfect TYPO3 Distribution

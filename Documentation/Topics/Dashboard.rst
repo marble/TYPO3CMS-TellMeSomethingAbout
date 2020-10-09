@@ -6,7 +6,7 @@
 Dashboard
 =========
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

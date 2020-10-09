@@ -9,7 +9,7 @@ Solr
 .. _`What is Solr?`: http://lucene.apache.org/solr/features.html
 .. _solr: http://lucene.apache.org/solr/
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

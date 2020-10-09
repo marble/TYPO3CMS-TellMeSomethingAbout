@@ -8,7 +8,7 @@ TYPO3 Console
 
 .. _`typo3 console`: https://extensions.typo3.org/extension/typo3_console/
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

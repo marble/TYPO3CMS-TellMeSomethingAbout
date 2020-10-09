@@ -6,7 +6,7 @@
 Code Of Conduct
 ===============
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

@@ -6,7 +6,7 @@
 Caching
 =======
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 
@@ -14,7 +14,7 @@ Caching
 Official Documentation
 ======================
 
-•  `t3coreapi:caching`
+•  :ref:`t3coreapi:caching`
 
 
 Videos

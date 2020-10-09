@@ -6,7 +6,7 @@
 What's new in TYPO3?
 ====================
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

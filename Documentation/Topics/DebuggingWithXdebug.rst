@@ -8,7 +8,7 @@ Debugging with xdebug
 
 .. _xdebug: https://xdebug.org
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

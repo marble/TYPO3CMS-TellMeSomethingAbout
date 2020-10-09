@@ -6,7 +6,7 @@
 THIS CAN BE YOUR NEW TOPIC
 ========================================================
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

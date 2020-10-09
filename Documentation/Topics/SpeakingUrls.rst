@@ -10,7 +10,7 @@ Speaking Urls
 .. _realurl: https://extensions.typo3.org/extension/realurl/
 .. _cooluri: https://extensions.typo3.org/extension/cooluri/
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

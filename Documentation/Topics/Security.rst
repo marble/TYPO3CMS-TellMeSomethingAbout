@@ -8,7 +8,7 @@ Security
 
 About TYPO3 security.
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

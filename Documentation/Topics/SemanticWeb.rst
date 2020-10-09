@@ -6,7 +6,7 @@
 Semantic Web
 ========================================================
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 
@@ -46,7 +46,9 @@ TYPO3 extensions
    `"semantic"
    <https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=semantic>`__
 
-•  https://github.com/portrino/px_semantic
+•  :t3ext:`z7_semantilizer`
+
+•  :t3ext:`px_semantic` ✦ `GitHub <https://github.com/portrino/px_semantic>`__
 
 •  3 extensions for TYPO3, nr_semantic_templates, www.siamar.de, egovapi,
    eGov Remote API TYPO3, px_semantic

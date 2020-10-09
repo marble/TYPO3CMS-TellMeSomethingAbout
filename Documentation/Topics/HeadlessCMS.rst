@@ -6,7 +6,7 @@
 Headless TYPO3 CMS
 ========================================================
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

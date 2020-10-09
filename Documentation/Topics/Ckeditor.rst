@@ -8,7 +8,7 @@ CKEditor
 
 .. _ckeditor: https://ckeditor.com/
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

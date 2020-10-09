@@ -9,7 +9,7 @@ Docker
 .. _`What is Docker?`: https://www.docker.com/what-docker
 .. _docker: https://www.docker.com/
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 

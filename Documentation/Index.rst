@@ -7,13 +7,15 @@ Tell Me Something About Topic X
 
 Rendered: |today|
 
-:Title:         Tell Me Something About Topic X
-:Authors:       TYPO3 Documentation Team
-:Maintainer:    Martin Bless <martin.bless@typo3.org>
-:Description:   Frequently searched topics with explanations and links
-:Published at:  https://docs.typo3.org/m/typo3/guide-tell-me-something-about/master/en-us/
-:Repository:    https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/
-:License:       `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__
+:Title:        Tell Me Something About Topic X
+:Authors:      TYPO3 Documentation Team
+:Maintainer:   Martin Bless <martin.bless@typo3.org>
+:Description:  Frequently searched topics with explanations and links
+:Published at: `docs.typo3.org/m/typo3/guide-tell-me-something-about/master/en-us
+               <https://docs.typo3.org/m/typo3/guide-tell-me-something-about/master/en-us/>`__
+:Repository:   `github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout
+               <https://github.com/TYPO3-Documentation/TYPO3CMS-TellMeSomethingAbout/>`__
+:License:      `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__
 
 This manual is part of official TYPO3 documentation.
 
@@ -24,10 +26,11 @@ This manual is part of official TYPO3 documentation.
 
 **What is this?**
 
-•  intended to be of help for developers
-•  quickly find some interesting starting points to new topics
+•  intended to be of help for developers -- when you would otherwise do a
+   general internet research
+•  quickly find some interesting starting points
 •  a collection of pointers, structured by topics
-•  give an idea about what topics are of interest in TYPO3 context
+•  a list of topics with their names in TYPO3 context
 •  a place to keep search results
 •  a curated list
 •  a time saver for you - hopefully!
@@ -43,9 +46,6 @@ This manual is part of official TYPO3 documentation.
    // https://manpages.debian.org/testing/graphviz/dot.1.en.html
    // https://renenyffenegger.ch/notes/tools/Graphviz/examples/index
 
-
-((The graph will be shown as soon as we update the rendering to Docker image
-version >v2.6))
 
 .. graphviz::
    :caption: Structuring knowledge by topics. Note there are tooltips. Some
@@ -191,7 +191,7 @@ Get yourself a browser extensions that lets you mark a block of text to open
 all links in there in one go. Many links in this manual are written in a very
 compact form to facilitate this procedure.
 
-.. figure:: files/easily-open-many-links-027.png
+.. figure:: files/easily-open-many-links-031.png
    :alt: How to mark a section of text and open all links in one go
    :class: with-shadow with-border
 
@@ -202,7 +202,6 @@ compact form to facilitate this procedure.
 
 **Contents:**
 
-.. rst-class:: compact-list
 .. toctree::
 
    Topics/Index

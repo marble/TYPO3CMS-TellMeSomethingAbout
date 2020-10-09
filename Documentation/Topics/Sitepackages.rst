@@ -6,7 +6,7 @@
 Sitepackages
 ==================
 
-.. contents::
+.. contents:: This page
    :local:
    :backlinks: top
 
