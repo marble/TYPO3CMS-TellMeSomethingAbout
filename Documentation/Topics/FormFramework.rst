@@ -27,6 +27,12 @@ Official documentation
 `Form - a TYPO3 system extension
 <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`__
 
+Blog postings
+=============
+
+•  2020-10-16, T3Terminal:
+   `How to Create TYPO3 Form - Tutorial & Add-on Extensions
+   <https://t3terminal.com/blog/typo3-form/>`__
 
 Slides
 ======
